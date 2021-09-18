@@ -1,0 +1,303 @@
+[
+    {
+        "key_name": "第1章 「頼れる騎士」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1009,
+        "unlock_condition": "本編：ユリウスVer.  第7話[♪] チャレンジ「本編：ユリウスver.でクリアする」をクリアで鍵入手",
+        "scene_id": 10040002,
+        "id": 100901
+    },
+    {
+        "key_name": "新章１ 「オットーに相談[♪]」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1009,
+        "unlock_condition": "本編  第3話[♪] チャレンジ「オットーに頼る」をクリアで鍵入手",
+        "scene_id": 30410031,
+        "id": 100902
+    },
+    {
+        "key_name": "新章2 「決戦前夜・エルザと」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1009,
+        "unlock_condition": "本編：共通  第10話[♪] チャレンジ「エルザと屋敷に向かう」をクリアで鍵入手",
+        "scene_id": 60610030,
+        "id": 100903
+    },
+    {
+        "key_name": "第2章 「ロズワールからの褒美[♪]」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1010,
+        "unlock_condition": "リゼロスメダル交換所で鍵入手",
+        "scene_id": 20120052,
+        "id": 101001
+    },
+    {
+        "key_name": "新章１ 「リカードに相談」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1010,
+        "unlock_condition": "本編  第3話[♪] チャレンジ「リカードたちに頼る」をクリアで鍵入手",
+        "scene_id": 30410031,
+        "id": 101002
+    },
+    {
+        "key_name": "新章2 「決戦前夜・フェリスと」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1010,
+        "unlock_condition": "本編：共通  第10話[♪] チャレンジ「フェリスとレムについて話す」をクリアで鍵入手",
+        "scene_id": 60610030,
+        "id": 101003
+    },
+    {
+        "key_name": "新章１ 「リカードと脱獄」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1011,
+        "unlock_condition": "本編：リカードver.  第10話[♪] チャレンジ「脱獄計画を実行する」をクリアで鍵入手",
+        "scene_id": 30510021,
+        "id": 101101
+    },
+    {
+        "key_name": "新章１ 「オットーと脱獄[♪]」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1012,
+        "unlock_condition": "本編：オットーver.  第10話[♪] チャレンジ「脱獄計画を実行する」をクリアで鍵入手",
+        "scene_id": 30510021,
+        "id": 101201
+    },
+    {
+        "key_name": "第1章 「誘引力」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1014,
+        "unlock_condition": "本編：ミミVer.  第7話-後編[♪] チャレンジ「本編：ミミver.でクリアする」をクリアで鍵入手",
+        "scene_id": 10040002,
+        "id": 101401
+    },
+    {
+        "key_name": "新章2 「勝利のために」の鍵",
+        "unlock_type": 8,
+        "branch_id": 1015,
+        "unlock_condition": "新章2第10話にてエルザもしくはフェリスルートへの分岐を選択で鍵入手（条件1、2どちらかを達成で開放）",
+        "scene_id": 60610020,
+        "id": 101501
+    },
+    {
+        "key_name": "新章2 「勝利のために」の鍵",
+        "unlock_type": 8,
+        "branch_id": 1015,
+        "unlock_condition": "新章2第10話にてエルザもしくはフェリスルートへの分岐を選択で鍵入手（条件1、2どちらかを達成で開放）",
+        "scene_id": 60610020,
+        "id": 101502
+    },
+    {
+        "key_name": "新章2 「遠い思い出[♪]」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1016,
+        "unlock_condition": "本編：共通  第10話[♪] チャレンジ「ベアトリスと同じ部屋で休む」をクリアで鍵入手",
+        "scene_id": 60610020,
+        "id": 101601
+    },
+    {
+        "key_name": "第1章 「銀髪を探せ？[♪]」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1018,
+        "unlock_condition": "本編  第1話[♪] チャレンジ「ラムと出会う」をクリアで鍵入手",
+        "scene_id": 10020001,
+        "id": 101801
+    },
+    {
+        "key_name": "第1章 「出会いの再演」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1019,
+        "unlock_condition": "本編：ヴィルヘルムVer.  第7話[♪] チャレンジ「本編：ヴィルヘルムver.でクリアする」をクリアで鍵入手",
+        "scene_id": 10040002,
+        "id": 101901
+    },
+    {
+        "key_name": "新章１ 「脱獄の相談相手は……」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1020,
+        "unlock_condition": "本編：オットーver.  第13話[♪] チャレンジ「脱獄計画を完遂する」をクリアで鍵入手",
+        "scene_id": 30410020,
+        "id": 102001
+    },
+    {
+        "key_name": "新章１ 「意外すぎる出会い[♪]」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1023,
+        "unlock_condition": "本編：True  第14話[♪] チャレンジ「脱獄計画を完遂する」をクリアで鍵入手",
+        "scene_id": 30110030,
+        "id": 102301
+    },
+    {
+        "key_name": "第1章 「路地裏での邂逅」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1024,
+        "unlock_condition": "本編  第4話[♪] チャレンジ「ユリウスと出会う」をクリアで鍵入手",
+        "scene_id": 10020001,
+        "id": 102401
+    },
+    {
+        "key_name": "第1章 「チンピラと再々会」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1024,
+        "unlock_condition": "本編：ラムVer.  第7話[♪] チャレンジ「本編：ラムver.でクリアする」をクリアで鍵入手",
+        "scene_id": 10040002,
+        "id": 102402
+    },
+    {
+        "key_name": "第1章 「……生きてる？[♪]」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1025,
+        "unlock_condition": "リゼロスメダル交換所で鍵入手",
+        "scene_id": 10030002,
+        "id": 102501
+    },
+    {
+        "key_name": "第1章 「念願叶って」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1027,
+        "unlock_condition": "リゼロスメダル交換所で鍵入手",
+        "scene_id": 10290009,
+        "id": 102701
+    },
+    {
+        "key_name": "第1章 「飛び出し危険[♪]」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1029,
+        "unlock_condition": "本編  第3話[♪] チャレンジ「フェリスと出会う」をクリアで鍵入手",
+        "scene_id": 10020001,
+        "id": 102902
+    },
+    {
+        "unlock_type": 3,
+        "branch_id": 1031,
+        "unlock_condition": "魅力 40以上で選択可能",
+        "scene_id": 10410007,
+        "id": 103101
+    },
+    {
+        "key_name": "第2章 「エミリアとともに」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1031,
+        "unlock_condition": "本編：エミリアVer.  第11話-後編 チャレンジ「一か八かの決意をする」をクリアで鍵入手",
+        "scene_id": 20540100,
+        "id": 103102
+    },
+    {
+        "key_name": "第1章 「ミミ再び」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1033,
+        "unlock_condition": "本編  第4話[♪] チャレンジ「ミミと出会う」をクリアで鍵入手",
+        "scene_id": 10020002,
+        "id": 103302
+    },
+    {
+        "key_name": "新章１ 「慕われる牢名主」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1035,
+        "unlock_condition": "本編：リカードver.  第13話[♪] チャレンジ「脱獄計画を完遂する」をクリアで鍵入手",
+        "scene_id": 30210020,
+        "id": 103501
+    },
+    {
+        "key_name": "第2章 「専属執事スバル[♪]」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1037,
+        "unlock_condition": "本編  第2話[♪] チャレンジ「褒美に「ある人」を選ぶ」をクリアで鍵入手",
+        "scene_id": 20210020,
+        "id": 103701
+    },
+    {
+        "key_name": "第2章 「エミリアの庇護」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1041,
+        "unlock_condition": "本編：エミリアVer.  第6話 チャレンジ「エミリアと約束をする」をクリアで鍵入手",
+        "scene_id": 20410010,
+        "id": 104101
+    },
+    {
+        "key_name": "第3章前編 「大人しくお留守番[♪]」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1055,
+        "unlock_condition": "リゼロスメダル交換所で鍵入手",
+        "scene_id": 40120060,
+        "id": 105501
+    },
+    {
+        "unlock_type": 1,
+        "branch_id": 1056,
+        "unlock_condition": "勇気 110以上で選択可能",
+        "scene_id": 32112040,
+        "id": 105601
+    },
+    {
+        "key_name": "第2章 「鈍感さの利点[♪]」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1058,
+        "unlock_condition": "リゼロスメダル交換所で鍵入手",
+        "scene_id": 25115040,
+        "id": 105801
+    },
+    {
+        "key_name": "新章１ 「相談[♪]」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1059,
+        "unlock_condition": "本編：True  第10話[♪] チャレンジ「脱獄計画を実行する」をクリアで鍵入手",
+        "scene_id": 30510010,
+        "id": 105901
+    },
+    {
+        "key_name": "第3章前編 「路地裏より愛をこめて」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1059,
+        "unlock_condition": "期間限定イベントで鍵入手",
+        "scene_id": 41121040,
+        "id": 105902
+    },
+    {
+        "key_name": "第3章前編 「???」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1063,
+        "unlock_condition": "???",
+        "scene_id": 41121030,
+        "id": 106301
+    },
+    {
+        "key_name": "第2章 「三度、使用人に[♪]」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1080,
+        "unlock_condition": "リゼロスメダル交換所で鍵入手",
+        "scene_id": 20310020,
+        "id": 108001
+    },
+    {
+        "key_name": "第3章前編 「???」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1083,
+        "unlock_condition": "???",
+        "scene_id": 40121010,
+        "id": 108301
+    },
+    {
+        "unlock_type": 2,
+        "branch_id": 1086,
+        "unlock_condition": "ノリ 75以上で選択可能",
+        "scene_id": 20310020,
+        "id": 108601
+    },
+    {
+        "key_name": "第3章後編 「???」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1121,
+        "unlock_condition": "???",
+        "scene_id": 50110010,
+        "id": 112101
+    },
+    {
+        "key_name": "第3章後編 「???」の鍵",
+        "unlock_type": 7,
+        "branch_id": 1131,
+        "unlock_condition": "???",
+        "scene_id": 50110010,
+        "id": 113101
+    }
+]

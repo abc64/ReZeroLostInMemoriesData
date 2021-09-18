@@ -1,0 +1,2206 @@
+[
+    {
+        "section_id": 1001,
+        "challenge_id": 10012,
+        "text": "ラムと出会う",
+        "id": 10012,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 101801,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1025,
+        "challenge_id": 10021,
+        "text": "本編：ユリウスver.でクリアする",
+        "id": 10021,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 100901,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1026,
+        "challenge_id": 10022,
+        "text": "本編：ヴィルヘルムver.でクリアする",
+        "id": 10022,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 101901,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1028,
+        "challenge_id": 10023,
+        "text": "本編：ラムver.でクリアする",
+        "id": 10023,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 102402,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1024,
+        "challenge_id": 10024,
+        "text": "本編：ミミver.でクリアする",
+        "id": 10024,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 101401,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1002,
+        "challenge_id": 10025,
+        "text": "合計100pt以上でクリアする",
+        "id": 10025,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1004,
+        "challenge_id": 10041,
+        "text": "知識95pt以上でクリアする ※記憶結晶が必要",
+        "id": 10041,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1007,
+        "challenge_id": 10071,
+        "text": "勇気90pt以上でクリアする",
+        "id": 10071,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1009,
+        "challenge_id": 10091,
+        "text": "魅力90pt以上でクリアする",
+        "id": 10091,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1010,
+        "challenge_id": 10103,
+        "text": "手品を披露した",
+        "id": 10103,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1011,
+        "challenge_id": 10111,
+        "text": "知識30pt以上でクリアする",
+        "id": 10111,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1014,
+        "challenge_id": 10141,
+        "text": "ノリ40pt以上でクリアする",
+        "id": 10141,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1016,
+        "challenge_id": 10161,
+        "text": "合計120pt以上でクリアする",
+        "id": 10161,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1019,
+        "challenge_id": 10191,
+        "text": "鉄兜の男に話を聞く",
+        "id": 10191,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1010,
+        "challenge_id": 10192,
+        "text": "ユリウスと出会う",
+        "id": 10192,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 102401,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1019,
+        "challenge_id": 10193,
+        "text": "フェリスと出会う",
+        "id": 10193,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 102902,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1010,
+        "challenge_id": 10194,
+        "text": "ミミと出会う",
+        "id": 10194,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 103302,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1019,
+        "challenge_id": 10195,
+        "text": "騎士服の男に話を聞く",
+        "id": 10195,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1021,
+        "challenge_id": 10211,
+        "text": "合計95pt以上でクリアする",
+        "id": 10211,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1026,
+        "challenge_id": 10261,
+        "text": "ノリ70pt以上でクリアする",
+        "id": 10261,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1027,
+        "challenge_id": 10271,
+        "text": "勇気70pt以上でクリアする",
+        "id": 10271,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1029,
+        "challenge_id": 10291,
+        "text": "敵に蹴りを入れることができた",
+        "id": 10291,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1041,
+        "challenge_id": 10411,
+        "text": "魅力40pt以上でクリアする ※記憶結晶が必要",
+        "id": 10411,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1041,
+        "challenge_id": 10412,
+        "text": "合計100pt以上でクリアする ※記憶結晶が必要",
+        "id": 10412,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1042,
+        "challenge_id": 10421,
+        "text": "勇気50pt以上でクリアする",
+        "id": 10421,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1043,
+        "challenge_id": 10431,
+        "text": "ノリ75pt以上でクリアする",
+        "id": 10431,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1045,
+        "challenge_id": 10451,
+        "text": "魅力65pt以上でクリアする",
+        "id": 10451,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1046,
+        "challenge_id": 10461,
+        "text": "ノリ60pt以上でクリアする",
+        "id": 10461,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 1049,
+        "challenge_id": 10491,
+        "text": "魅力45pt以上でクリアする",
+        "id": 10491,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2011,
+        "challenge_id": 20111,
+        "text": "ノリ160pt以上でクリアする",
+        "id": 20111,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2012,
+        "challenge_id": 20121,
+        "text": "褒美に「ある人」を選ぶ",
+        "id": 20121,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 103701,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2021,
+        "challenge_id": 20211,
+        "text": "ノリ150pt以上でクリアする",
+        "id": 20211,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2023,
+        "challenge_id": 20231,
+        "text": "魅力70pt以上でクリアする",
+        "id": 20231,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2024,
+        "challenge_id": 20241,
+        "text": "勇気90pt以上でクリアする",
+        "id": 20241,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2025,
+        "challenge_id": 20251,
+        "text": "エミリアと約束をする",
+        "id": 20251,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 104101,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2025,
+        "challenge_id": 20252,
+        "text": "魅力190pt以上でクリアする",
+        "id": 20252,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2031,
+        "challenge_id": 20311,
+        "text": "勇気100pt以上でクリアする ※記憶結晶が必要",
+        "id": 20311,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2031,
+        "challenge_id": 20312,
+        "text": "ノリ100pt以上でクリアする ※記憶結晶が必要",
+        "id": 20312,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2041,
+        "challenge_id": 20411,
+        "text": "魅力75pt以上でクリアする",
+        "id": 20411,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2044,
+        "challenge_id": 20441,
+        "text": "一か八かの決意をする",
+        "id": 20441,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 103102,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2051,
+        "challenge_id": 20511,
+        "text": "知識130pt以上でクリアする",
+        "id": 20511,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2053,
+        "challenge_id": 20531,
+        "text": "ラムに「ハッ！」と言われる",
+        "id": 20531,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2061,
+        "challenge_id": 20611,
+        "text": "勇気80pt以上でクリアする",
+        "id": 20611,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2511,
+        "challenge_id": 25111,
+        "text": "ラムに「ハッ！」と言われる",
+        "id": 25111,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2511,
+        "challenge_id": 25112,
+        "text": "ムラオサの名前の由来を聞く",
+        "id": 25112,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2512,
+        "challenge_id": 25121,
+        "text": "勇気250pt以上でクリアする※記憶結晶が必要",
+        "id": 25121,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2514,
+        "challenge_id": 25141,
+        "text": "合計300pt以上でクリアする※記憶結晶が必要",
+        "id": 25141,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2516,
+        "challenge_id": 25161,
+        "text": "ラムに「ハッ！」と言われる",
+        "id": 25161,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2517,
+        "challenge_id": 25171,
+        "text": "知識150pt以上でクリアする※記憶結晶が必要",
+        "id": 25171,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2518,
+        "challenge_id": 25181,
+        "text": "勇気200pt以上でクリアする※記憶結晶が必要",
+        "id": 25181,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2711,
+        "challenge_id": 27111,
+        "text": "ベアトリスに気色悪いと言われる",
+        "id": 27111,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2712,
+        "challenge_id": 27121,
+        "text": "知識200pt以上でクリアする ※記憶結晶が必要",
+        "id": 27121,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2812,
+        "challenge_id": 28121,
+        "text": "知識130pt以上でクリアする※記憶結晶が必要",
+        "id": 28121,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 2911,
+        "challenge_id": 29111,
+        "text": "魅力150pt以上でクリアする※記憶結晶が必要",
+        "id": 29111,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3011,
+        "challenge_id": 30111,
+        "text": "ノリ35pt以上でクリアする",
+        "id": 30111,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3021,
+        "challenge_id": 30211,
+        "text": "オットーに頼る",
+        "id": 30211,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 100902,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3021,
+        "challenge_id": 30212,
+        "text": "リカードたちに頼る",
+        "id": 30212,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 101002,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3031,
+        "challenge_id": 30311,
+        "text": "知識200pt以上でクリアする",
+        "id": 30311,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3032,
+        "challenge_id": 30321,
+        "text": "勇気200pt以上でクリアする",
+        "id": 30321,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3043,
+        "challenge_id": 30431,
+        "text": "脱獄計画を実行する",
+        "id": 30431,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 105901,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3046,
+        "challenge_id": 30461,
+        "text": "魅力140pt以上でクリアする",
+        "id": 30461,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3047,
+        "challenge_id": 30471,
+        "text": "脱獄計画を実行する",
+        "id": 30471,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 101201,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3048,
+        "challenge_id": 30481,
+        "text": "ノリ300pt以上でクリアする",
+        "id": 30481,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3049,
+        "challenge_id": 30491,
+        "text": "脱獄計画を実行する",
+        "id": 30491,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 101101,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3051,
+        "challenge_id": 30511,
+        "text": "魅力pt450以上でクリアする ※記憶結晶が必要",
+        "id": 30511,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3052,
+        "challenge_id": 30521,
+        "text": "合計300pt以上でクリアする",
+        "id": 30521,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3054,
+        "challenge_id": 30541,
+        "text": "脱獄計画を完遂する",
+        "id": 30541,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 102301,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3056,
+        "challenge_id": 30561,
+        "text": "合計400pt以上でクリアする",
+        "id": 30561,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3057,
+        "challenge_id": 30571,
+        "text": "脱獄計画を完遂する",
+        "id": 30571,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 102001,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3058,
+        "challenge_id": 30581,
+        "text": "ラムに「ハッ！」と言われる",
+        "id": 30581,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3059,
+        "challenge_id": 30591,
+        "text": "脱獄計画を完遂する",
+        "id": 30591,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 103501,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 3211,
+        "challenge_id": 32111,
+        "text": "勇気140pt以上でクリアする ※記憶結晶が必要",
+        "id": 32111,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4011,
+        "challenge_id": 40111,
+        "text": "魅力250pt以上でクリアする",
+        "id": 40111,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4012,
+        "challenge_id": 40121,
+        "text": "アルの発言であることに気づく",
+        "id": 40121,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4012,
+        "challenge_id": 40122,
+        "text": "ノリ35pt以上でクリアする",
+        "id": 40122,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4013,
+        "challenge_id": 40131,
+        "text": "知識350pt以上でクリアする",
+        "id": 40131,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4021,
+        "challenge_id": 40211,
+        "text": "知識400pt以上でクリアする",
+        "id": 40211,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4023,
+        "challenge_id": 40231,
+        "text": "合計450pt以上でクリアする",
+        "id": 40231,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4031,
+        "challenge_id": 40311,
+        "text": "ユリウスが受けた処分を聞く",
+        "id": 40311,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4032,
+        "challenge_id": 40321,
+        "text": "合計150pt以上でクリアする ※記憶結晶が必要",
+        "id": 40321,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4033,
+        "challenge_id": 40331,
+        "text": "地竜に振り落とされずに竜車を降りる",
+        "id": 40331,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4051,
+        "challenge_id": 40511,
+        "text": "合計460pt以上でクリアする ※記憶結晶が必要",
+        "id": 40511,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4052,
+        "challenge_id": 40521,
+        "text": "ノリ350pt以上でクリアする",
+        "id": 40521,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4071,
+        "challenge_id": 40711,
+        "text": "止血される",
+        "id": 40711,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4081,
+        "challenge_id": 40811,
+        "text": "合計200pt以上でクリアする ※記憶結晶が必要",
+        "id": 40811,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4091,
+        "challenge_id": 40911,
+        "text": "合計150pt以上でクリアする ※記憶結晶が必要",
+        "id": 40911,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4111,
+        "challenge_id": 41111,
+        "text": "扉越しに会話をする",
+        "id": 41111,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4112,
+        "challenge_id": 41121,
+        "text": "プリシラの発言であることに気づく",
+        "id": 41121,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4211,
+        "challenge_id": 42111,
+        "text": "認識阻害ローブの効果を実感する",
+        "id": 42111,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 4312,
+        "challenge_id": 43121,
+        "text": "王選候補者に褒められる",
+        "id": 43121,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 5011,
+        "challenge_id": 50111,
+        "text": "レムとクルシュの運命を変える①",
+        "id": 50111,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 60001,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 3,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 5011,
+        "challenge_id": 50112,
+        "text": "レムとクルシュの運命を変える② ※①と同時にクリア",
+        "id": 50112,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 60002,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 3,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 5012,
+        "challenge_id": 50122,
+        "text": "「魔女因子」という言葉を聞く",
+        "id": 50122,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 5013,
+        "challenge_id": 50131,
+        "text": "魅力350pt以上でクリアする ※記憶結晶が必要",
+        "id": 50131,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 5021,
+        "challenge_id": 50211,
+        "text": "ラムに駄犬呼ばわりされる",
+        "id": 50211,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 5022,
+        "challenge_id": 50222,
+        "text": "「背徳者」と言われる",
+        "id": 50222,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 5032,
+        "challenge_id": 50321,
+        "text": "合計500pt以上でクリアする ※記憶結晶が必要",
+        "id": 50321,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 5041,
+        "challenge_id": 50411,
+        "text": "ペテルギウスに「理解できない」と言われる",
+        "id": 50411,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 5042,
+        "challenge_id": 50421,
+        "text": "知識400pt以上でクリアする ※記憶結晶が必要",
+        "id": 50421,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 5044,
+        "challenge_id": 50441,
+        "text": "「おませちゃん」という言葉を聞く",
+        "id": 50441,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 5111,
+        "challenge_id": 51111,
+        "text": "オットーに「馴れ馴れしい」と言われる",
+        "id": 51111,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 5114,
+        "challenge_id": 51141,
+        "text": "ユリウスに「安堵した」と言われる",
+        "id": 51141,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 5313,
+        "challenge_id": 53131,
+        "text": "エミリアに「びっくらこいちゃった」と言われる",
+        "id": 53131,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 6011,
+        "challenge_id": 60111,
+        "text": "ラインハルトに「友達」と言われる",
+        "id": 60111,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 6021,
+        "challenge_id": 60211,
+        "text": "ノリ900pt以上でクリアする ※記憶結晶が必要",
+        "id": 60211,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 6023,
+        "challenge_id": 60231,
+        "text": "レムに優しいと言われる",
+        "id": 60231,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 6031,
+        "challenge_id": 60311,
+        "text": "勇気400pt以上でクリアする ※記憶結晶が必要",
+        "id": 60311,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 6041,
+        "challenge_id": 60411,
+        "text": "冗談が面白いと言われる",
+        "id": 60411,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 6042,
+        "challenge_id": 60422,
+        "text": "エルザの仕事を手伝うことを申し出る",
+        "id": 60422,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 101501,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 6042,
+        "challenge_id": 60423,
+        "text": "フェリスを追いかける",
+        "id": 60423,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 101502,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 6042,
+        "challenge_id": 60424,
+        "text": "エルザと屋敷に向かう",
+        "id": 60424,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 100903,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 6042,
+        "challenge_id": 60425,
+        "text": "フェリスとレムについて話す",
+        "id": 60425,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 101003,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 6042,
+        "challenge_id": 60426,
+        "text": "ベアトリスと同じ部屋で休む",
+        "id": 60426,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 101601,
+            "num": 1,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 7,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 6051,
+        "challenge_id": 60511,
+        "text": "ノリ950pt以上でクリアする ※記憶結晶が必要",
+        "id": 60511,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 6052,
+        "challenge_id": 60521,
+        "text": "殊勝の意味を正す",
+        "id": 60521,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    },
+    {
+        "section_id": 6061,
+        "challenge_id": 60611,
+        "text": "知識750pt以上でクリアする ※記憶結晶が必要",
+        "id": 60611,
+        "prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 20,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "rarity": 1
+    }
+]

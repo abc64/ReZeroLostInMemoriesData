@@ -1,0 +1,26 @@
+[
+    {
+        "gold": 63000,
+        "id": 11,
+        "item_num": 5,
+        "up_awake": 1
+    },
+    {
+        "gold": 64000,
+        "id": 12,
+        "item_num": 10,
+        "up_awake": 2
+    },
+    {
+        "gold": 65000,
+        "id": 13,
+        "item_num": 20,
+        "up_awake": 3
+    },
+    {
+        "gold": 66000,
+        "id": 14,
+        "item_num": 30,
+        "up_awake": 4
+    }
+]

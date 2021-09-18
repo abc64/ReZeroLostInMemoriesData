@@ -1,0 +1,262 @@
+[
+    {
+        "id_str": "SEQ_FIRST_BATTLE",
+        "id": 1,
+        "value": 1
+    },
+    {
+        "id_str": "SEQ_ADV_SECTION_0",
+        "id": 2,
+        "value": 2
+    },
+    {
+        "id_str": "SEQ_ADV_SECTION_1",
+        "id": 3,
+        "value": 3
+    },
+    {
+        "id_str": "SEQ_GACHA_EXEC",
+        "id": 4,
+        "value": 4
+    },
+    {
+        "id_str": "SEQ_HOME",
+        "id": 5,
+        "value": 5
+    },
+    {
+        "id_str": "SEQ_QUEST_1",
+        "id": 6,
+        "value": 6
+    },
+    {
+        "id_str": "SEQ_QUEST_2",
+        "id": 7,
+        "value": 7
+    },
+    {
+        "id_str": "SEQ_QUEST_3",
+        "id": 8,
+        "value": 8
+    },
+    {
+        "id_str": "SEQ_ADV_SECTION_2",
+        "id": 9,
+        "value": 9
+    },
+    {
+        "id_str": "SEQ_FINISH",
+        "id": 10,
+        "value": 0
+    },
+    {
+        "id_str": "SEQUENCE_1ST",
+        "id": 21,
+        "value": 1
+    },
+    {
+        "id_str": "SEQUENCE_2ND",
+        "id": 22,
+        "value": 2
+    },
+    {
+        "id_str": "SEQUENCE_3RD",
+        "id": 23,
+        "value": 3
+    },
+    {
+        "id_str": "SEQUENCE_4TH",
+        "id": 24,
+        "value": 4
+    },
+    {
+        "id_str": "SEQUENCE_5TH",
+        "id": 25,
+        "value": 5
+    },
+    {
+        "id_str": "SEQUENCE_6TH",
+        "id": 26,
+        "value": 6
+    },
+    {
+        "id_str": "SEQUENCE_7TH",
+        "id": 27,
+        "value": 7
+    },
+    {
+        "id_str": "SEQUENCE_8TH",
+        "id": 28,
+        "value": 8
+    },
+    {
+        "id_str": "SEQUENCE_9TH",
+        "id": 29,
+        "value": 9
+    },
+    {
+        "id_str": "SEQUENCE_FINISH",
+        "id": 30,
+        "value": 0
+    },
+    {
+        "id_str": "SEQ_ADV_BATTLE",
+        "id": 31,
+        "value": 12
+    },
+    {
+        "id_str": "SEQ_ADV_SELECT",
+        "id": 33,
+        "value": 14
+    },
+    {
+        "id_str": "SEQ1_DESTINATION_ID",
+        "id": 101,
+        "value": 1
+    },
+    {
+        "id_str": "SEQ1_ADVENTURE_CHAPTER_ID",
+        "id": 102,
+        "value": 0
+    },
+    {
+        "id_str": "SEQ1_ADVENTURE_SECTION_ID",
+        "id": 103,
+        "value": 1
+    },
+    {
+        "id_str": "SEQ1_ADVENTURE_BATTLE_STAGE_ID",
+        "id": 104,
+        "value": 1
+    },
+    {
+        "id_str": "SEQ1_BATTLE_CARD_ID",
+        "id": 105,
+        "value": 10301001
+    },
+    {
+        "id_str": "SEQ2_DESTINATION_ID",
+        "id": 106,
+        "value": 2
+    },
+    {
+        "id_str": "SEQ2_BATTLE_CARD_ID",
+        "id": 107,
+        "value": 10101001
+    },
+    {
+        "id_str": "SEQ3_DESTINATION_ID",
+        "id": 108,
+        "value": 3
+    },
+    {
+        "id_str": "SEQ3_ADVENTURE_CHAPTER_ID",
+        "id": 109,
+        "value": 1
+    },
+    {
+        "id_str": "SEQ3_ADVENTURE_SECTION_ID",
+        "id": 110,
+        "value": 1001
+    },
+    {
+        "id_str": "SEQ3_INITIAL_DECK_SET_BATTLE_CARD_ID",
+        "id": 111,
+        "value": 10301001
+    },
+    {
+        "id_str": "SEQ3_DECK_SET_TARGET_BATTLE_CARD_ID",
+        "id": 112,
+        "value": 10101001
+    },
+    {
+        "id_str": "SEQ4_DESTINATION_ID",
+        "id": 113,
+        "value": 3
+    },
+    {
+        "id_str": "SEQ4_ADVENTURE_CHAPTER_ID",
+        "id": 114,
+        "value": 1
+    },
+    {
+        "id_str": "SEQ4_ADVENTURE_SECTION_ID",
+        "id": 115,
+        "value": 1001
+    },
+    {
+        "id_str": "SEQ4_INITIAL_DECK_SET_BATTLE_CARD_ID",
+        "id": 116,
+        "value": 10301001
+    },
+    {
+        "id_str": "SEQ4_DECK_SET_TARGET_BATTLE_CARD_ID",
+        "id": 117,
+        "value": 10101001
+    },
+    {
+        "id_str": "SEQ5_DESTINATION_ID",
+        "id": 118,
+        "value": 1
+    },
+    {
+        "id_str": "SEQ5_ADVENTURE_CHAPTER_ID",
+        "id": 119,
+        "value": 0
+    },
+    {
+        "id_str": "SEQ5_ADVENTURE_SECTION_ID",
+        "id": 120,
+        "value": 3
+    },
+    {
+        "id_str": "SEQ6_QUEST_STAGE_ID",
+        "id": 121,
+        "value": 200101
+    },
+    {
+        "id_str": "SEQ7_QUEST_STAGE_ID",
+        "id": 122,
+        "value": 200102
+    },
+    {
+        "id_str": "SEQ8_QUEST_STAGE_ID",
+        "id": 123,
+        "value": 200103
+    },
+    {
+        "id_str": "SEQ9_DESTINATION_ID",
+        "id": 124,
+        "value": 3
+    },
+    {
+        "id_str": "SEQ9_ADVENTURE_CHAPTER_ID",
+        "id": 125,
+        "value": 1
+    },
+    {
+        "id_str": "SEQ9_ADVENTURE_SECTION_ID",
+        "id": 126,
+        "value": 1014
+    },
+    {
+        "id_str": "SEQ9_INITIAL_DECK_SET_BATTLE_CARD_ID",
+        "id": 127,
+        "value": 10301001
+    },
+    {
+        "id_str": "SEQ9_DECK_SET_TARGET_BATTLE_CARD_ID",
+        "id": 128,
+        "value": 10101001
+    },
+    {
+        "id_str": "BATTLE_ID_SECTION_0",
+        "id": 201,
+        "value": 1
+    },
+    {
+        "id_str": "BATTLE_ID_SECTION_1",
+        "id": 202,
+        "value": 100001
+    }
+]

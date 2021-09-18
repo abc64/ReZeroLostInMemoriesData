@@ -1,0 +1,557 @@
+[
+    {
+        "cl_sound": "emilia",
+        "name": "エミリア",
+        "id": 1
+    },
+    {
+        "cl_sound": "felt",
+        "name": "フェルト",
+        "id": 2
+    },
+    {
+        "cl_sound": "subaru",
+        "name": "スバル",
+        "id": 3
+    },
+    {
+        "cl_sound": "rem",
+        "name": "レム",
+        "id": 4
+    },
+    {
+        "cl_sound": "ton",
+        "name": "ガストン",
+        "id": 5
+    },
+    {
+        "cl_sound": "",
+        "name": "ラチンス",
+        "id": 6
+    },
+    {
+        "cl_sound": "kan",
+        "name": "カンバリー",
+        "id": 7
+    },
+    {
+        "cl_sound": "elsa",
+        "name": "エルザ",
+        "id": 8
+    },
+    {
+        "cl_sound": "rom",
+        "name": "ロム爺",
+        "id": 9
+    },
+    {
+        "cl_sound": "pack",
+        "name": "パック",
+        "id": 10
+    },
+    {
+        "cl_sound": "ram",
+        "name": "ラム",
+        "id": 11
+    },
+    {
+        "cl_sound": "reinhard",
+        "name": "ラインハルト",
+        "id": 12
+    },
+    {
+        "cl_sound": "beatrice",
+        "name": "ベアトリス",
+        "id": 13
+    },
+    {
+        "cl_sound": "kadomon",
+        "name": "カドモン",
+        "id": 14
+    },
+    {
+        "cl_sound": "roswaal",
+        "name": "ロズワール",
+        "id": 15
+    },
+    {
+        "cl_sound": "ferris",
+        "name": "フェリス",
+        "id": 16
+    },
+    {
+        "cl_sound": "mimi",
+        "name": "ミミ",
+        "id": 17
+    },
+    {
+        "cl_sound": "",
+        "name": "ヘータロー",
+        "id": 18
+    },
+    {
+        "cl_sound": "",
+        "name": "ティビー",
+        "id": 19
+    },
+    {
+        "cl_sound": "julius",
+        "name": "ユリウス",
+        "id": 20
+    },
+    {
+        "cl_sound": "wilhelm",
+        "name": "ヴィルヘルム",
+        "id": 21
+    },
+    {
+        "cl_sound": "crusch",
+        "name": "クルシュ",
+        "id": 22
+    },
+    {
+        "cl_sound": "ricardo",
+        "name": "リカード",
+        "id": 23
+    },
+    {
+        "cl_sound": "petelgeuse",
+        "name": "ペテルギウス",
+        "id": 24
+    },
+    {
+        "cl_sound": "theresia",
+        "name": "テレシア",
+        "id": 25
+    },
+    {
+        "cl_sound": "",
+        "name": "プラム",
+        "id": 26
+    },
+    {
+        "cl_sound": "priscilla",
+        "name": "プリシラ",
+        "id": 27
+    },
+    {
+        "cl_sound": "al",
+        "name": "アル",
+        "id": 28
+    },
+    {
+        "cl_sound": "anastasia",
+        "name": "アナスタシア",
+        "id": 29
+    },
+    {
+        "cl_sound": "otto",
+        "name": "オットー",
+        "id": 30
+    },
+    {
+        "cl_sound": "",
+        "name": "ペトラ",
+        "id": 31
+    },
+    {
+        "cl_sound": "",
+        "name": "獣人兵士",
+        "id": 32
+    },
+    {
+        "cl_sound": "",
+        "name": "兵士",
+        "id": 33
+    },
+    {
+        "cl_sound": "",
+        "name": "獣人盗賊",
+        "id": 34
+    },
+    {
+        "cl_sound": "",
+        "name": "盗賊",
+        "id": 35
+    },
+    {
+        "cl_sound": "",
+        "name": "騎士",
+        "id": 36
+    },
+    {
+        "cl_sound": "",
+        "name": "シェイド",
+        "id": 37
+    },
+    {
+        "cl_sound": "",
+        "name": "忘霊",
+        "id": 38
+    },
+    {
+        "cl_sound": "",
+        "name": "アルコル",
+        "id": 39
+    },
+    {
+        "cl_sound": "",
+        "name": "白鯨",
+        "id": 40
+    },
+    {
+        "cl_sound": "shion",
+        "name": "シオン",
+        "id": 41
+    },
+    {
+        "cl_sound": "",
+        "name": "ライラ",
+        "id": 42
+    },
+    {
+        "cl_sound": "",
+        "name": "魔術師",
+        "id": 43
+    },
+    {
+        "cl_sound": "",
+        "name": "グリファル",
+        "id": 44
+    },
+    {
+        "cl_sound": "",
+        "name": "ゴーレム",
+        "id": 45
+    },
+    {
+        "cl_sound": "",
+        "name": "看守",
+        "id": 46
+    },
+    {
+        "cl_sound": "",
+        "name": "囚人",
+        "id": 47
+    },
+    {
+        "cl_sound": "",
+        "name": "亜人弓使い",
+        "id": 48
+    },
+    {
+        "cl_sound": "",
+        "name": "女魔術師",
+        "id": 49
+    },
+    {
+        "cl_sound": "",
+        "name": "クリスタル",
+        "id": 50
+    },
+    {
+        "cl_sound": "",
+        "name": "フレデリカ",
+        "id": 51
+    },
+    {
+        "cl_sound": "",
+        "name": "ウルガルム",
+        "id": 52
+    },
+    {
+        "cl_sound": "",
+        "name": "魔女教徒",
+        "id": 53
+    },
+    {
+        "cl_sound": "",
+        "name": "シュルト",
+        "id": 54
+    },
+    {
+        "cl_sound": "",
+        "name": "ボスウルガルム",
+        "id": 55
+    },
+    {
+        "cl_sound": "",
+        "name": "メィリィ",
+        "id": 56
+    },
+    {
+        "cl_sound": "",
+        "name": "ガーフィール",
+        "id": 57
+    },
+    {
+        "cl_sound": "",
+        "name": "リューズ",
+        "id": 58
+    },
+    {
+        "cl_sound": "",
+        "name": "パトラッシュ ",
+        "id": 59
+    },
+    {
+        "cl_sound": "",
+        "name": "ウルガルム子犬",
+        "id": 60
+    },
+    {
+        "cl_sound": "",
+        "name": "指先",
+        "id": 61
+    },
+    {
+        "cl_sound": "",
+        "name": "マーコス",
+        "id": 62
+    },
+    {
+        "cl_sound": "",
+        "name": "ラッセル",
+        "id": 63
+    },
+    {
+        "cl_sound": "",
+        "name": "クリスタル",
+        "id": 64
+    },
+    {
+        "cl_sound": "",
+        "name": "クリスタル",
+        "id": 65
+    },
+    {
+        "cl_sound": "",
+        "name": "クリスタル",
+        "id": 66
+    },
+    {
+        "cl_sound": "",
+        "name": "クリスタル",
+        "id": 67
+    },
+    {
+        "cl_sound": "",
+        "name": "グリファル",
+        "id": 68
+    },
+    {
+        "cl_sound": "",
+        "name": "グリファル",
+        "id": 69
+    },
+    {
+        "cl_sound": "",
+        "name": "グリファル",
+        "id": 70
+    },
+    {
+        "cl_sound": "",
+        "name": "グリファル",
+        "id": 71
+    },
+    {
+        "cl_sound": "",
+        "name": "ゴーレム",
+        "id": 72
+    },
+    {
+        "cl_sound": "",
+        "name": "ゴーレム",
+        "id": 73
+    },
+    {
+        "cl_sound": "",
+        "name": "ゴーレム",
+        "id": 74
+    },
+    {
+        "cl_sound": "",
+        "name": "ゴーレム",
+        "id": 75
+    },
+    {
+        "cl_sound": "",
+        "name": "クリスタル亜種",
+        "id": 76
+    },
+    {
+        "cl_sound": "",
+        "name": "ハロウィン魔術師",
+        "id": 77
+    },
+    {
+        "cl_sound": "",
+        "name": "ハロウィン女魔術師",
+        "id": 78
+    },
+    {
+        "cl_sound": "",
+        "name": "クリスタルゴーレム",
+        "id": 79
+    },
+    {
+        "cl_sound": "",
+        "name": "クリスタルゴーレム",
+        "id": 80
+    },
+    {
+        "cl_sound": "",
+        "name": "クリスタルゴーレム",
+        "id": 81
+    },
+    {
+        "cl_sound": "",
+        "name": "クリスタルゴーレム",
+        "id": 82
+    },
+    {
+        "cl_sound": "",
+        "name": "クリスタルゴーレム",
+        "id": 83
+    },
+    {
+        "cl_sound": "",
+        "name": "エキドナ",
+        "id": 84
+    },
+    {
+        "cl_sound": "",
+        "name": "雪荒らし",
+        "id": 85
+    },
+    {
+        "cl_sound": "",
+        "name": "スライム",
+        "id": 86
+    },
+    {
+        "cl_sound": "",
+        "name": "ショコラータ",
+        "id": 87
+    },
+    {
+        "cl_sound": "",
+        "name": "百人隊長(猪人族)",
+        "id": 88
+    },
+    {
+        "cl_sound": "",
+        "name": "騎士団員",
+        "id": 89
+    },
+    {
+        "cl_sound": "",
+        "name": "レグルス",
+        "id": 90
+    },
+    {
+        "cl_sound": "",
+        "name": "ショコラータ（ボス）",
+        "id": 97
+    },
+    {
+        "cl_sound": "",
+        "name": "夢喰らい",
+        "id": 98
+    },
+    {
+        "cl_sound": "",
+        "name": "女指先憑依",
+        "id": 99
+    },
+    {
+        "cl_sound": "",
+        "name": "亡者ペテルギウス",
+        "id": 101
+    },
+    {
+        "cl_sound": "",
+        "name": "グリファレット",
+        "id": 103
+    },
+    {
+        "cl_sound": "",
+        "name": "百人隊長(多腕族)",
+        "id": 104
+    },
+    {
+        "cl_sound": "",
+        "name": "マジーラ",
+        "id": 106
+    },
+    {
+        "cl_sound": "",
+        "name": "ボスマジーラ",
+        "id": 107
+    },
+    {
+        "cl_sound": "",
+        "name": "リバークホロゥ",
+        "id": 108
+    },
+    {
+        "cl_sound": "",
+        "name": "鎧武者",
+        "id": 109
+    },
+    {
+        "cl_sound": "",
+        "name": "鎧武者",
+        "id": 110
+    },
+    {
+        "cl_sound": "",
+        "name": "鎧武者",
+        "id": 111
+    },
+    {
+        "cl_sound": "",
+        "name": "鎧武者",
+        "id": 112
+    },
+    {
+        "cl_sound": "",
+        "name": "鎧武者",
+        "id": 116
+    },
+    {
+        "cl_sound": "",
+        "name": "トルガプリオン",
+        "id": 119
+    },
+    {
+        "cl_sound": "",
+        "name": "トルガロドン",
+        "id": 120
+    },
+    {
+        "cl_sound": "",
+        "name": "巨大オクタゴン",
+        "id": 121
+    },
+    {
+        "cl_sound": "",
+        "name": "オクタゴン",
+        "id": 122
+    },
+    {
+        "cl_sound": "",
+        "name": "荒豚",
+        "id": 123
+    },
+    {
+        "cl_sound": "",
+        "name": "瀑布賊",
+        "id": 127
+    },
+    {
+        "cl_sound": "",
+        "name": "引継ぎ確認テストキャラ",
+        "id": 999
+    }
+]

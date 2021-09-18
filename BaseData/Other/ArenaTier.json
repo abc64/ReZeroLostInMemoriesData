@@ -1,0 +1,80 @@
+[
+    {
+        "img_name": "img_class_arena_C_01",
+        "name": "C-",
+        "need_point": 0,
+        "tier_id": 1
+    },
+    {
+        "img_name": "img_class_arena_C_02",
+        "name": "C",
+        "need_point": 2100,
+        "tier_id": 2
+    },
+    {
+        "img_name": "img_class_arena_C_03",
+        "name": "C+",
+        "need_point": 2200,
+        "tier_id": 3
+    },
+    {
+        "img_name": "img_class_arena_B_01",
+        "name": "B-",
+        "need_point": 2300,
+        "tier_id": 4
+    },
+    {
+        "img_name": "img_class_arena_B_02",
+        "name": "B",
+        "need_point": 2400,
+        "tier_id": 5
+    },
+    {
+        "img_name": "img_class_arena_B_03",
+        "name": "B+",
+        "need_point": 2500,
+        "tier_id": 6
+    },
+    {
+        "img_name": "img_class_arena_A_01",
+        "name": "A-",
+        "need_point": 2700,
+        "tier_id": 7
+    },
+    {
+        "img_name": "img_class_arena_A_02",
+        "name": "A",
+        "need_point": 2900,
+        "tier_id": 8
+    },
+    {
+        "img_name": "img_class_arena_A_03",
+        "name": "A+",
+        "need_point": 3100,
+        "tier_id": 9
+    },
+    {
+        "img_name": "img_class_arena_S_01",
+        "name": "S-",
+        "need_point": 3400,
+        "tier_id": 10
+    },
+    {
+        "img_name": "img_class_arena_S_02",
+        "name": "S",
+        "need_point": 3700,
+        "tier_id": 11
+    },
+    {
+        "img_name": "img_class_arena_S_03",
+        "name": "S+",
+        "need_point": 4000,
+        "tier_id": 12
+    },
+    {
+        "img_name": "img_class_arena_SS_01",
+        "name": "SS",
+        "need_point": 4300,
+        "tier_id": 13
+    }
+]

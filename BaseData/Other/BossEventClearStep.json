@@ -1,0 +1,2052 @@
+[
+    {
+        "stage_id": 681801,
+        "step_list": [
+            {
+                "id": 55048,
+                "clear_step_type": 3,
+                "clear_step": 100000
+            },
+            {
+                "id": 55049,
+                "clear_step_type": 3,
+                "clear_step": 500000
+            },
+            {
+                "id": 55050,
+                "clear_step_type": 4,
+                "clear_step": 100000
+            },
+            {
+                "id": 55051,
+                "clear_step_type": 4,
+                "clear_step": 200000
+            },
+            {
+                "id": 55052,
+                "clear_step_type": 4,
+                "clear_step": 500000
+            },
+            {
+                "id": 55053,
+                "clear_step_type": 4,
+                "clear_step": 1500000
+            }
+        ]
+    },
+    {
+        "stage_id": 509005,
+        "step_list": [
+            {
+                "id": 50005,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50006,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50007,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50008,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509001,
+        "step_list": [
+            {
+                "id": 50001,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50002,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50003,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50004,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509014,
+        "step_list": [
+            {
+                "id": 50023,
+                "clear_step_type": 1,
+                "clear_step": 300000
+            },
+            {
+                "id": 50024,
+                "clear_step_type": 1,
+                "clear_step": 450000
+            },
+            {
+                "id": 50025,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50026,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50027,
+                "clear_step_type": 3,
+                "clear_step": 20000
+            },
+            {
+                "id": 50028,
+                "clear_step_type": 3,
+                "clear_step": 45000
+            },
+            {
+                "id": 50029,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50030,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50031,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50032,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509013,
+        "step_list": [
+            {
+                "id": 50013,
+                "clear_step_type": 1,
+                "clear_step": 300000
+            },
+            {
+                "id": 50014,
+                "clear_step_type": 1,
+                "clear_step": 450000
+            },
+            {
+                "id": 50015,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50016,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50017,
+                "clear_step_type": 3,
+                "clear_step": 20000
+            },
+            {
+                "id": 50018,
+                "clear_step_type": 3,
+                "clear_step": 45000
+            },
+            {
+                "id": 50019,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50020,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50021,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50022,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509205,
+        "step_list": [
+            {
+                "id": 50062,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50063,
+                "clear_step_type": 1,
+                "clear_step": 780000
+            },
+            {
+                "id": 50064,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50065,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50066,
+                "clear_step_type": 3,
+                "clear_step": 25000
+            },
+            {
+                "id": 50067,
+                "clear_step_type": 3,
+                "clear_step": 50000
+            },
+            {
+                "id": 50068,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50069,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50070,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50071,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509204,
+        "step_list": [
+            {
+                "id": 50052,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50053,
+                "clear_step_type": 1,
+                "clear_step": 780000
+            },
+            {
+                "id": 50054,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50055,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50056,
+                "clear_step_type": 3,
+                "clear_step": 25000
+            },
+            {
+                "id": 50057,
+                "clear_step_type": 3,
+                "clear_step": 50000
+            },
+            {
+                "id": 50058,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50059,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50060,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50061,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509203,
+        "step_list": [
+            {
+                "id": 50048,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50049,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50050,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50051,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509202,
+        "step_list": [
+            {
+                "id": 50044,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50045,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50046,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50047,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509009,
+        "step_list": [
+            {
+                "id": 50009,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50010,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50011,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50012,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509201,
+        "step_list": [
+            {
+                "id": 50040,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50041,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50042,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50043,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509405,
+        "step_list": [
+            {
+                "id": 50120,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50121,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50122,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50123,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50124,
+                "clear_step_type": 3,
+                "clear_step": 15000
+            },
+            {
+                "id": 50125,
+                "clear_step_type": 3,
+                "clear_step": 35000
+            },
+            {
+                "id": 50126,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50127,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50128,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50129,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509404,
+        "step_list": [
+            {
+                "id": 50110,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50111,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50112,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50113,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50114,
+                "clear_step_type": 3,
+                "clear_step": 15000
+            },
+            {
+                "id": 50115,
+                "clear_step_type": 3,
+                "clear_step": 35000
+            },
+            {
+                "id": 50116,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50117,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50118,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50119,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509403,
+        "step_list": [
+            {
+                "id": 50100,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50101,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50102,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50103,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50104,
+                "clear_step_type": 3,
+                "clear_step": 12500
+            },
+            {
+                "id": 50105,
+                "clear_step_type": 3,
+                "clear_step": 27500
+            },
+            {
+                "id": 50106,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50107,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50108,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50109,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509402,
+        "step_list": [
+            {
+                "id": 50090,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50091,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50092,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50093,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50094,
+                "clear_step_type": 3,
+                "clear_step": 10000
+            },
+            {
+                "id": 50095,
+                "clear_step_type": 3,
+                "clear_step": 20000
+            },
+            {
+                "id": 50096,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50097,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50098,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50099,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509401,
+        "step_list": [
+            {
+                "id": 50080,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50081,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50082,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50083,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50084,
+                "clear_step_type": 3,
+                "clear_step": 8000
+            },
+            {
+                "id": 50085,
+                "clear_step_type": 3,
+                "clear_step": 16000
+            },
+            {
+                "id": 50086,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50087,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50088,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50089,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509605,
+        "step_list": [
+            {
+                "id": 50170,
+                "clear_step_type": 1,
+                "clear_step": 300000
+            },
+            {
+                "id": 50171,
+                "clear_step_type": 1,
+                "clear_step": 480000
+            },
+            {
+                "id": 50172,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50173,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50174,
+                "clear_step_type": 3,
+                "clear_step": 50000
+            },
+            {
+                "id": 50175,
+                "clear_step_type": 3,
+                "clear_step": 60000
+            },
+            {
+                "id": 50176,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50177,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50178,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50179,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509604,
+        "step_list": [
+            {
+                "id": 50160,
+                "clear_step_type": 1,
+                "clear_step": 300000
+            },
+            {
+                "id": 50161,
+                "clear_step_type": 1,
+                "clear_step": 480000
+            },
+            {
+                "id": 50162,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50163,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50164,
+                "clear_step_type": 3,
+                "clear_step": 50000
+            },
+            {
+                "id": 50165,
+                "clear_step_type": 3,
+                "clear_step": 60000
+            },
+            {
+                "id": 50166,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50167,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50168,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50169,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509603,
+        "step_list": [
+            {
+                "id": 50150,
+                "clear_step_type": 1,
+                "clear_step": 300000
+            },
+            {
+                "id": 50151,
+                "clear_step_type": 1,
+                "clear_step": 480000
+            },
+            {
+                "id": 50152,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50153,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50154,
+                "clear_step_type": 3,
+                "clear_step": 30000
+            },
+            {
+                "id": 50155,
+                "clear_step_type": 3,
+                "clear_step": 45000
+            },
+            {
+                "id": 50156,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50157,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50158,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50159,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509602,
+        "step_list": [
+            {
+                "id": 50140,
+                "clear_step_type": 1,
+                "clear_step": 300000
+            },
+            {
+                "id": 50141,
+                "clear_step_type": 1,
+                "clear_step": 480000
+            },
+            {
+                "id": 50142,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50143,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50144,
+                "clear_step_type": 3,
+                "clear_step": 20000
+            },
+            {
+                "id": 50145,
+                "clear_step_type": 3,
+                "clear_step": 35000
+            },
+            {
+                "id": 50146,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50147,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50148,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50149,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509601,
+        "step_list": [
+            {
+                "id": 50130,
+                "clear_step_type": 1,
+                "clear_step": 300000
+            },
+            {
+                "id": 50131,
+                "clear_step_type": 1,
+                "clear_step": 480000
+            },
+            {
+                "id": 50132,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50133,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50134,
+                "clear_step_type": 3,
+                "clear_step": 15000
+            },
+            {
+                "id": 50135,
+                "clear_step_type": 3,
+                "clear_step": 25000
+            },
+            {
+                "id": 50136,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50137,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50138,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50139,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 681901,
+        "step_list": [
+            {
+                "id": 55054,
+                "clear_step_type": 3,
+                "clear_step": 500000
+            },
+            {
+                "id": 55055,
+                "clear_step_type": 3,
+                "clear_step": 1000000
+            },
+            {
+                "id": 55056,
+                "clear_step_type": 4,
+                "clear_step": 1000000
+            },
+            {
+                "id": 55057,
+                "clear_step_type": 4,
+                "clear_step": 5000000
+            },
+            {
+                "id": 55058,
+                "clear_step_type": 4,
+                "clear_step": 10000000
+            },
+            {
+                "id": 55059,
+                "clear_step_type": 4,
+                "clear_step": 30000000
+            }
+        ]
+    },
+    {
+        "stage_id": 804901,
+        "step_list": [
+            {
+                "id": 55024,
+                "clear_step_type": 3,
+                "clear_step": 25000
+            },
+            {
+                "id": 55025,
+                "clear_step_type": 3,
+                "clear_step": 50000
+            },
+            {
+                "id": 55026,
+                "clear_step_type": 4,
+                "clear_step": 100000
+            },
+            {
+                "id": 55027,
+                "clear_step_type": 4,
+                "clear_step": 200000
+            },
+            {
+                "id": 55028,
+                "clear_step_type": 4,
+                "clear_step": 400000
+            },
+            {
+                "id": 55029,
+                "clear_step_type": 4,
+                "clear_step": 506974
+            }
+        ]
+    },
+    {
+        "stage_id": 509805,
+        "step_list": [
+            {
+                "id": 50220,
+                "clear_step_type": 1,
+                "clear_step": 780000
+            },
+            {
+                "id": 50221,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50222,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50223,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50224,
+                "clear_step_type": 3,
+                "clear_step": 80000
+            },
+            {
+                "id": 50225,
+                "clear_step_type": 3,
+                "clear_step": 100000
+            },
+            {
+                "id": 50226,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50227,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50228,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50229,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 804902,
+        "step_list": [
+            {
+                "id": 55032,
+                "clear_step_type": 3,
+                "clear_step": 50000
+            },
+            {
+                "id": 55033,
+                "clear_step_type": 3,
+                "clear_step": 100000
+            },
+            {
+                "id": 55034,
+                "clear_step_type": 4,
+                "clear_step": 200000
+            },
+            {
+                "id": 55035,
+                "clear_step_type": 4,
+                "clear_step": 500000
+            },
+            {
+                "id": 55036,
+                "clear_step_type": 4,
+                "clear_step": 750000
+            },
+            {
+                "id": 55037,
+                "clear_step_type": 4,
+                "clear_step": 1035043
+            }
+        ]
+    },
+    {
+        "stage_id": 509804,
+        "step_list": [
+            {
+                "id": 50210,
+                "clear_step_type": 1,
+                "clear_step": 780000
+            },
+            {
+                "id": 50211,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50212,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50213,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50214,
+                "clear_step_type": 3,
+                "clear_step": 80000
+            },
+            {
+                "id": 50215,
+                "clear_step_type": 3,
+                "clear_step": 100000
+            },
+            {
+                "id": 50216,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50217,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50218,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50219,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 804903,
+        "step_list": [
+            {
+                "id": 55040,
+                "clear_step_type": 3,
+                "clear_step": 75000
+            },
+            {
+                "id": 55041,
+                "clear_step_type": 3,
+                "clear_step": 125000
+            },
+            {
+                "id": 55042,
+                "clear_step_type": 4,
+                "clear_step": 500000
+            },
+            {
+                "id": 55043,
+                "clear_step_type": 4,
+                "clear_step": 1000000
+            },
+            {
+                "id": 55044,
+                "clear_step_type": 4,
+                "clear_step": 1600000
+            },
+            {
+                "id": 55045,
+                "clear_step_type": 4,
+                "clear_step": 2048909
+            }
+        ]
+    },
+    {
+        "stage_id": 509803,
+        "step_list": [
+            {
+                "id": 50200,
+                "clear_step_type": 1,
+                "clear_step": 780000
+            },
+            {
+                "id": 50201,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50202,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50203,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50204,
+                "clear_step_type": 3,
+                "clear_step": 40000
+            },
+            {
+                "id": 50205,
+                "clear_step_type": 3,
+                "clear_step": 60000
+            },
+            {
+                "id": 50206,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50207,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50208,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50209,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509802,
+        "step_list": [
+            {
+                "id": 50190,
+                "clear_step_type": 1,
+                "clear_step": 780000
+            },
+            {
+                "id": 50191,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50192,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50193,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50194,
+                "clear_step_type": 3,
+                "clear_step": 30000
+            },
+            {
+                "id": 50195,
+                "clear_step_type": 3,
+                "clear_step": 45000
+            },
+            {
+                "id": 50196,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50197,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50198,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50199,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 509801,
+        "step_list": [
+            {
+                "id": 50180,
+                "clear_step_type": 1,
+                "clear_step": 780000
+            },
+            {
+                "id": 50181,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50182,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50183,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50184,
+                "clear_step_type": 3,
+                "clear_step": 10000
+            },
+            {
+                "id": 50185,
+                "clear_step_type": 3,
+                "clear_step": 20000
+            },
+            {
+                "id": 50186,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50187,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50188,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50189,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 510005,
+        "step_list": [
+            {
+                "id": 50270,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50271,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50272,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50273,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50274,
+                "clear_step_type": 3,
+                "clear_step": 15000
+            },
+            {
+                "id": 50275,
+                "clear_step_type": 3,
+                "clear_step": 40000
+            },
+            {
+                "id": 50276,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50277,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50278,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50279,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 510004,
+        "step_list": [
+            {
+                "id": 50260,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50261,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50262,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50263,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50264,
+                "clear_step_type": 3,
+                "clear_step": 15000
+            },
+            {
+                "id": 50265,
+                "clear_step_type": 3,
+                "clear_step": 40000
+            },
+            {
+                "id": 50266,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50267,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50268,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50269,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 510003,
+        "step_list": [
+            {
+                "id": 50250,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50251,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50252,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50253,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50254,
+                "clear_step_type": 3,
+                "clear_step": 12500
+            },
+            {
+                "id": 50255,
+                "clear_step_type": 3,
+                "clear_step": 27500
+            },
+            {
+                "id": 50256,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50257,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50258,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50259,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 510002,
+        "step_list": [
+            {
+                "id": 50240,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50241,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50242,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50243,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50244,
+                "clear_step_type": 3,
+                "clear_step": 10000
+            },
+            {
+                "id": 50245,
+                "clear_step_type": 3,
+                "clear_step": 20000
+            },
+            {
+                "id": 50246,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50247,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50248,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50249,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 803001,
+        "step_list": [
+            {
+                "id": 55000,
+                "clear_step_type": 3,
+                "clear_step": 5000
+            },
+            {
+                "id": 55001,
+                "clear_step_type": 3,
+                "clear_step": 15000
+            },
+            {
+                "id": 55002,
+                "clear_step_type": 4,
+                "clear_step": 50000
+            },
+            {
+                "id": 55003,
+                "clear_step_type": 4,
+                "clear_step": 80000
+            },
+            {
+                "id": 55004,
+                "clear_step_type": 4,
+                "clear_step": 120000
+            },
+            {
+                "id": 55005,
+                "clear_step_type": 4,
+                "clear_step": 188544
+            }
+        ]
+    },
+    {
+        "stage_id": 510001,
+        "step_list": [
+            {
+                "id": 50230,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50231,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50232,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50233,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50234,
+                "clear_step_type": 3,
+                "clear_step": 8000
+            },
+            {
+                "id": 50235,
+                "clear_step_type": 3,
+                "clear_step": 16000
+            },
+            {
+                "id": 50236,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50237,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50238,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50239,
+                "clear_step_type": 5,
+                "clear_step": 4
+            }
+        ]
+    },
+    {
+        "stage_id": 803002,
+        "step_list": [
+            {
+                "id": 55008,
+                "clear_step_type": 3,
+                "clear_step": 10000
+            },
+            {
+                "id": 55009,
+                "clear_step_type": 3,
+                "clear_step": 25000
+            },
+            {
+                "id": 55010,
+                "clear_step_type": 4,
+                "clear_step": 70000
+            },
+            {
+                "id": 55011,
+                "clear_step_type": 4,
+                "clear_step": 140000
+            },
+            {
+                "id": 55012,
+                "clear_step_type": 4,
+                "clear_step": 200000
+            },
+            {
+                "id": 55013,
+                "clear_step_type": 4,
+                "clear_step": 274728
+            }
+        ]
+    },
+    {
+        "stage_id": 803003,
+        "step_list": [
+            {
+                "id": 55016,
+                "clear_step_type": 3,
+                "clear_step": 17000
+            },
+            {
+                "id": 55017,
+                "clear_step_type": 3,
+                "clear_step": 35000
+            },
+            {
+                "id": 55018,
+                "clear_step_type": 4,
+                "clear_step": 100000
+            },
+            {
+                "id": 55019,
+                "clear_step_type": 4,
+                "clear_step": 200000
+            },
+            {
+                "id": 55020,
+                "clear_step_type": 4,
+                "clear_step": 350000
+            },
+            {
+                "id": 55021,
+                "clear_step_type": 4,
+                "clear_step": 426577
+            }
+        ]
+    },
+    {
+        "stage_id": 510205,
+        "step_list": [
+            {
+                "id": 50324,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50325,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50326,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50327,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50328,
+                "clear_step_type": 3,
+                "clear_step": 15000
+            },
+            {
+                "id": 50329,
+                "clear_step_type": 3,
+                "clear_step": 30000
+            },
+            {
+                "id": 50330,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50331,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50332,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50333,
+                "clear_step_type": 5,
+                "clear_step": 4
+            },
+            {
+                "id": 50334,
+                "clear_step_type": 5,
+                "clear_step": 5
+            }
+        ]
+    },
+    {
+        "stage_id": 510204,
+        "step_list": [
+            {
+                "id": 50313,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50314,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50315,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50316,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50317,
+                "clear_step_type": 3,
+                "clear_step": 15000
+            },
+            {
+                "id": 50318,
+                "clear_step_type": 3,
+                "clear_step": 30000
+            },
+            {
+                "id": 50319,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50320,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50321,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50322,
+                "clear_step_type": 5,
+                "clear_step": 4
+            },
+            {
+                "id": 50323,
+                "clear_step_type": 5,
+                "clear_step": 5
+            }
+        ]
+    },
+    {
+        "stage_id": 510203,
+        "step_list": [
+            {
+                "id": 50302,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50303,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50304,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50305,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50306,
+                "clear_step_type": 3,
+                "clear_step": 15000
+            },
+            {
+                "id": 50307,
+                "clear_step_type": 3,
+                "clear_step": 20000
+            },
+            {
+                "id": 50308,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50309,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50310,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50311,
+                "clear_step_type": 5,
+                "clear_step": 4
+            },
+            {
+                "id": 50312,
+                "clear_step_type": 5,
+                "clear_step": 5
+            }
+        ]
+    },
+    {
+        "stage_id": 510202,
+        "step_list": [
+            {
+                "id": 50291,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50292,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50293,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50294,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50295,
+                "clear_step_type": 3,
+                "clear_step": 10000
+            },
+            {
+                "id": 50296,
+                "clear_step_type": 3,
+                "clear_step": 15000
+            },
+            {
+                "id": 50297,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50298,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50299,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50300,
+                "clear_step_type": 5,
+                "clear_step": 4
+            },
+            {
+                "id": 50301,
+                "clear_step_type": 5,
+                "clear_step": 5
+            }
+        ]
+    },
+    {
+        "stage_id": 510201,
+        "step_list": [
+            {
+                "id": 50280,
+                "clear_step_type": 1,
+                "clear_step": 600000
+            },
+            {
+                "id": 50281,
+                "clear_step_type": 1,
+                "clear_step": 900000
+            },
+            {
+                "id": 50282,
+                "clear_step_type": 2,
+                "clear_step": 6
+            },
+            {
+                "id": 50283,
+                "clear_step_type": 2,
+                "clear_step": 8
+            },
+            {
+                "id": 50284,
+                "clear_step_type": 3,
+                "clear_step": 5000
+            },
+            {
+                "id": 50285,
+                "clear_step_type": 3,
+                "clear_step": 8000
+            },
+            {
+                "id": 50286,
+                "clear_step_type": 5,
+                "clear_step": 1
+            },
+            {
+                "id": 50287,
+                "clear_step_type": 5,
+                "clear_step": 2
+            },
+            {
+                "id": 50288,
+                "clear_step_type": 5,
+                "clear_step": 3
+            },
+            {
+                "id": 50289,
+                "clear_step_type": 5,
+                "clear_step": 4
+            },
+            {
+                "id": 50290,
+                "clear_step_type": 5,
+                "clear_step": 5
+            }
+        ]
+    }
+]

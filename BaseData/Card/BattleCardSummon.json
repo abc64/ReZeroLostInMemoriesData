@@ -1,0 +1,396 @@
+[
+    {
+        "summon_id": 1001,
+        "summon_list": [
+            {
+                "card_id": 93201002
+            },
+            {
+                "card_id": 93301002
+            },
+            {
+                "card_id": 90101005
+            },
+            {
+                "card_id": 93401004
+            },
+            {
+                "card_id": 93501005
+            }
+        ]
+    },
+    {
+        "summon_id": 1002,
+        "summon_list": [
+            {
+                "card_id": 93201069
+            }
+        ]
+    },
+    {
+        "summon_id": 1003,
+        "summon_list": [
+            {
+                "card_id": 93201070
+            },
+            {
+                "card_id": 93201071
+            }
+        ]
+    },
+    {
+        "summon_id": 1004,
+        "summon_list": [
+            {
+                "card_id": 94501001
+            },
+            {
+                "card_id": 94501002
+            },
+            {
+                "card_id": 91301001
+            },
+            {
+                "card_id": 91301002
+            }
+        ]
+    },
+    {
+        "summon_id": 1005,
+        "summon_list": [
+            {
+                "card_id": 90101015
+            },
+            {
+                "card_id": 90201003
+            },
+            {
+                "card_id": 90501013
+            },
+            {
+                "card_id": 90601013
+            },
+            {
+                "card_id": 90701013
+            },
+            {
+                "card_id": 90901015
+            }
+        ]
+    },
+    {
+        "summon_id": 1006,
+        "summon_list": [
+            {
+                "card_id": 95201001
+            },
+            {
+                "card_id": 95201002
+            }
+        ]
+    },
+    {
+        "summon_id": 1007,
+        "summon_list": [
+            {
+                "card_id": 90101015
+            },
+            {
+                "card_id": 90201003
+            },
+            {
+                "card_id": 90901015
+            },
+            {
+                "card_id": 90901015
+            }
+        ]
+    },
+    {
+        "summon_id": 1008,
+        "summon_list": [
+            {
+                "card_id": 95201008
+            },
+            {
+                "card_id": 95201009
+            },
+            {
+                "card_id": 95201008
+            },
+            {
+                "card_id": 95201009
+            }
+        ]
+    },
+    {
+        "summon_id": 1009,
+        "summon_list": [
+            {
+                "card_id": 95201010
+            },
+            {
+                "card_id": 95201011
+            },
+            {
+                "card_id": 95201010
+            },
+            {
+                "card_id": 95201011
+            }
+        ]
+    },
+    {
+        "summon_id": 1010,
+        "summon_list": [
+            {
+                "card_id": 92001005
+            },
+            {
+                "card_id": 92101025
+            },
+            {
+                "card_id": 90101025
+            },
+            {
+                "card_id": 90201010
+            }
+        ]
+    },
+    {
+        "summon_id": 1011,
+        "summon_list": [
+            {
+                "card_id": 95201012
+            },
+            {
+                "card_id": 95201013
+            },
+            {
+                "card_id": 95201012
+            },
+            {
+                "card_id": 95201013
+            }
+        ]
+    },
+    {
+        "summon_id": 1012,
+        "summon_list": [
+            {
+                "card_id": 95201004
+            },
+            {
+                "card_id": 95201014
+            },
+            {
+                "card_id": 95201004
+            },
+            {
+                "card_id": 95201014
+            }
+        ]
+    },
+    {
+        "summon_id": 1013,
+        "summon_list": [
+            {
+                "card_id": 95201015
+            },
+            {
+                "card_id": 95201016
+            }
+        ]
+    },
+    {
+        "summon_id": 1014,
+        "summon_list": [
+            {
+                "card_id": 92101027
+            },
+            {
+                "card_id": 90101033
+            },
+            {
+                "card_id": 90201015
+            },
+            {
+                "card_id": 91301023
+            },
+            {
+                "card_id": 92001016
+            }
+        ]
+    },
+    {
+        "summon_id": 1015,
+        "summon_list": [
+            {
+                "card_id": 90101033
+            },
+            {
+                "card_id": 93801032
+            },
+            {
+                "card_id": 90201015
+            },
+            {
+                "card_id": 93801036
+            },
+            {
+                "card_id": 91301023
+            },
+            {
+                "card_id": 93801035
+            },
+            {
+                "card_id": 92001016
+            },
+            {
+                "card_id": 93801034
+            },
+            {
+                "card_id": 92101027
+            },
+            {
+                "card_id": 93801032
+            }
+        ]
+    },
+    {
+        "summon_id": 1016,
+        "summon_list": [
+            {
+                "card_id": 98001001
+            },
+            {
+                "card_id": 95201020
+            },
+            {
+                "card_id": 95201020
+            }
+        ]
+    },
+    {
+        "summon_id": 1017,
+        "summon_list": [
+            {
+                "card_id": 98001001
+            },
+            {
+                "card_id": 98501007
+            },
+            {
+                "card_id": 95201020
+            }
+        ]
+    },
+    {
+        "summon_id": 1018,
+        "summon_list": [
+            {
+                "card_id": 90801026
+            },
+            {
+                "card_id": 92401015
+            },
+            {
+                "card_id": 92401015
+            }
+        ]
+    },
+    {
+        "summon_id": 1019,
+        "summon_list": [
+            {
+                "card_id": 98001001
+            },
+            {
+                "card_id": 95201020
+            },
+            {
+                "card_id": 95201020
+            }
+        ]
+    },
+    {
+        "summon_id": 1020,
+        "summon_list": [
+            {
+                "card_id": 93801052
+            },
+            {
+                "card_id": 93801053
+            },
+            {
+                "card_id": 93801054
+            },
+            {
+                "card_id": 93801055
+            },
+            {
+                "card_id": 93801056
+            }
+        ]
+    },
+    {
+        "summon_id": 1021,
+        "summon_list": [
+            {
+                "card_id": 93801057
+            },
+            {
+                "card_id": 93801058
+            },
+            {
+                "card_id": 93801059
+            },
+            {
+                "card_id": 93801060
+            },
+            {
+                "card_id": 93801061
+            }
+        ]
+    },
+    {
+        "summon_id": 1022,
+        "summon_list": [
+            {
+                "card_id": 93801062
+            },
+            {
+                "card_id": 93801063
+            },
+            {
+                "card_id": 93801064
+            },
+            {
+                "card_id": 93801065
+            },
+            {
+                "card_id": 93801066
+            }
+        ]
+    },
+    {
+        "summon_id": 1023,
+        "summon_list": [
+            {
+                "card_id": 93801067
+            },
+            {
+                "card_id": 93801068
+            },
+            {
+                "card_id": 93801069
+            },
+            {
+                "card_id": 93801070
+            },
+            {
+                "card_id": 93801071
+            }
+        ]
+    }
+]

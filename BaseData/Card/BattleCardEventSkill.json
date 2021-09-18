@@ -1,0 +1,767 @@
+[
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1019010008,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11105001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が15%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数15%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1009020008,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10103001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1025010008,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11702001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が2増加する（合算で最大5）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が2増加",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1102010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11305001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "旅のメダルと旅の羽(黄昏)の獲得数50％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数50％上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 3001010010,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10407001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が15%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数15%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1025010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11603001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が2増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が2増加",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1090010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 12102001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1011010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10106001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が2増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が2増加",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1094010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 12502002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1017010009,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10801002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（最大100%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1030100107,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10402001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1029010008,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11604001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "旅のメダルと旅の羽(黄昏)の獲得数50％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数50％上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 3001010009,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11107001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1017010008,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11203001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1027010008,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10109001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が2増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が2増加",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1096010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 12401001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1019010009,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10405001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が15%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数15%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1017010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 12703001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が15%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数15%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1023010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11102001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1023010008,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 12204001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1029010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10304001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1050100107,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11302001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が2増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が2増加",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1100010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10803001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が15%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数15%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1021010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 13103001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1031010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 14101001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が2増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が2増加",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1092010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11502001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（最大100%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 100301001,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11602001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が15%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数15%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1019010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10203001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が15%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数15%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1027010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11802001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1021010008,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 12002001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1027010009,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 12503001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1031010008,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10403001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1031010009,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11104001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1023010009,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10102001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "旅のメダルと旅の羽(青空)の獲得数50％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数50％上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 3001010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10110001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1025010009,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 10406001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1011010008,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11103001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が15%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数15%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1011010009,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 12101002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大5）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1102010008,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 12301001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1021010009,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 12902001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "旅のメダルと旅の羽(青空)の獲得数50％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数50％上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 3001010008,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11303001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1070100107,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 13102001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が15%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数15%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1070100108,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11503001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が50%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "獲得勲章数50%上昇",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1009010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 12501001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が2増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が2増加",
+                "unlock_condition_type": -1,
+                "cool_time": 0,
+                "id": 1098010007,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 0
+            }
+        ],
+        "card_id": 11106001
+    }
+]

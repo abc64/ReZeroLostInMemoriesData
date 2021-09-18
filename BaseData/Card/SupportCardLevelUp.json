@@ -1,0 +1,26 @@
+[
+    {
+        "item_id": 11101,
+        "level": 140,
+        "type": 0,
+        "exp": 800
+    },
+    {
+        "item_id": 11201,
+        "level": 600,
+        "type": 0,
+        "exp": 1600
+    },
+    {
+        "item_id": 11301,
+        "level": 2000,
+        "type": 0,
+        "exp": 4000
+    },
+    {
+        "item_id": 21201,
+        "level": 3,
+        "type": 1,
+        "exp": 0
+    }
+]

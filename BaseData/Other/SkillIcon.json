@@ -1,0 +1,427 @@
+[
+    {
+        "icon_img": "attack_up",
+        "dbg_name": "攻撃アップ",
+        "id": 1000
+    },
+    {
+        "icon_img": "defence_up",
+        "dbg_name": "防御アップ",
+        "id": 1001
+    },
+    {
+        "icon_img": "speed_up",
+        "dbg_name": "速度アップ",
+        "id": 1002
+    },
+    {
+        "icon_img": "at_gauge_up",
+        "dbg_name": "行動ゲージ増加",
+        "id": 1003
+    },
+    {
+        "icon_img": "critical_rate_up",
+        "dbg_name": "クリティカル率アップ",
+        "id": 1004
+    },
+    {
+        "icon_img": "critical_avoid_up",
+        "dbg_name": "被クリティカル減少",
+        "id": 1005
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "物理攻撃ダメージ軽減",
+        "id": 1006
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "魔法攻撃ダメージ軽減",
+        "id": 1007
+    },
+    {
+        "icon_img": "counter_attack",
+        "dbg_name": "反撃",
+        "id": 1008
+    },
+    {
+        "icon_img": "immunity",
+        "dbg_name": "抵抗",
+        "id": 1009
+    },
+    {
+        "icon_img": "muteki",
+        "dbg_name": "無敵",
+        "id": 1010
+    },
+    {
+        "icon_img": "reflection",
+        "dbg_name": "ダメージ反射",
+        "id": 1011
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "シールド",
+        "id": 1012
+    },
+    {
+        "icon_img": "patient",
+        "dbg_name": "我慢",
+        "id": 1013
+    },
+    {
+        "icon_img": "escort",
+        "dbg_name": "護衛",
+        "id": 1014
+    },
+    {
+        "icon_img": "regene",
+        "dbg_name": "自動回復",
+        "id": 1015
+    },
+    {
+        "icon_img": "resurrection",
+        "dbg_name": "自動復活",
+        "id": 1016
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "ターン獲得",
+        "id": 1017
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "クールタイム減少",
+        "id": 1018
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "復活",
+        "id": 1019
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "連携攻撃",
+        "id": 1020
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "弱化効果火力上昇",
+        "id": 1021
+    },
+    {
+        "icon_img": "coverring_other",
+        "dbg_name": "かばう",
+        "id": 1022
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "HP%以下攻撃力上昇",
+        "id": 1023
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "HP%以下防御力上昇",
+        "id": 1024
+    },
+    {
+        "icon_img": "weaken_rate_up",
+        "dbg_name": "弱化成功力強化",
+        "id": 1025
+    },
+    {
+        "icon_img": "weaken_resist_up",
+        "dbg_name": "弱化耐性強化",
+        "id": 1026
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "追加ダメージ",
+        "id": 1027
+    },
+    {
+        "icon_img": "rage",
+        "dbg_name": "激昂",
+        "id": 1028
+    },
+    {
+        "icon_img": "bless",
+        "dbg_name": "祝福",
+        "id": 1029
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "気合",
+        "id": 1030
+    },
+    {
+        "icon_img": "attack_down",
+        "dbg_name": "攻撃ダウン",
+        "id": 2000
+    },
+    {
+        "icon_img": "defence_down",
+        "dbg_name": "防御ダウン",
+        "id": 2001
+    },
+    {
+        "icon_img": "speed_down",
+        "dbg_name": "速度ダウン",
+        "id": 2002
+    },
+    {
+        "icon_img": "at_gauge_down",
+        "dbg_name": "行動ゲージ減少",
+        "id": 2003
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "物理攻撃ダメージ増加",
+        "id": 2004
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "魔法攻撃ダメージ増加",
+        "id": 2005
+    },
+    {
+        "icon_img": "no_strengthen",
+        "dbg_name": "強化不能",
+        "id": 2006
+    },
+    {
+        "icon_img": "bomb",
+        "dbg_name": "爆弾",
+        "id": 2007
+    },
+    {
+        "icon_img": "provoke",
+        "dbg_name": "挑発",
+        "id": 2008
+    },
+    {
+        "icon_img": "forget",
+        "dbg_name": "忘却",
+        "id": 2009
+    },
+    {
+        "icon_img": "brand",
+        "dbg_name": "烙印",
+        "id": 2010
+    },
+    {
+        "icon_img": "no_heal",
+        "dbg_name": "回復不能",
+        "id": 2011
+    },
+    {
+        "icon_img": "miss_rate_up",
+        "dbg_name": "ミス発生率アップ",
+        "id": 2012
+    },
+    {
+        "icon_img": "stun",
+        "dbg_name": "気絶",
+        "id": 2013
+    },
+    {
+        "icon_img": "silence",
+        "dbg_name": "沈黙",
+        "id": 2014
+    },
+    {
+        "icon_img": "sleep",
+        "dbg_name": "睡眠",
+        "id": 2015
+    },
+    {
+        "icon_img": "freeze",
+        "dbg_name": "凍結",
+        "id": 2016
+    },
+    {
+        "icon_img": "constant_damage",
+        "dbg_name": "継続ダメージ",
+        "id": 2017
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "バフ解除",
+        "id": 2018
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "クールタイム増加",
+        "id": 2019
+    },
+    {
+        "icon_img": "tired",
+        "dbg_name": "疲労",
+        "id": 2020
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "行動ゲージ増加抑制",
+        "id": 2021
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "HP%以下攻撃力減少",
+        "id": 2031
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "HP%以下防御力減少",
+        "id": 2032
+    },
+    {
+        "icon_img": "charm",
+        "dbg_name": "魅了",
+        "id": 2033
+    },
+    {
+        "icon_img": "weaken_rate_down",
+        "dbg_name": "弱化成功力減少",
+        "id": 2035
+    },
+    {
+        "icon_img": "weaken_resist_down",
+        "dbg_name": "弱化耐性減少",
+        "id": 2036
+    },
+    {
+        "icon_img": "distracted",
+        "dbg_name": "散漫",
+        "id": 2037
+    },
+    {
+        "icon_img": "no_immunity",
+        "dbg_name": "抵抗無効",
+        "id": 2038
+    },
+    {
+        "icon_img": "starve",
+        "dbg_name": "飢餓",
+        "id": 2039
+    },
+    {
+        "icon_img": "collapse",
+        "dbg_name": "崩壊",
+        "id": 2040
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "召喚",
+        "id": 4004
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "HP回復",
+        "id": 5000
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "復活",
+        "id": 5001
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "強化不能回復",
+        "id": 5002
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "挑発回復",
+        "id": 5003
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "回復不能回復",
+        "id": 5004
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "気絶回復",
+        "id": 5005
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "継続ダメージ回復",
+        "id": 5006
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "デバフ解除",
+        "id": 5007
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "弱化効果ランダム回復",
+        "id": 5008
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "凍結回復",
+        "id": 5009
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "魅了回復",
+        "id": 5010
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "疲労回復",
+        "id": 5011
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "攻撃減少回復",
+        "id": 5012
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "防御減少回復",
+        "id": 5013
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "素早さ減少回復",
+        "id": 5014
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "散漫回復",
+        "id": 5015
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "無敵貫通",
+        "id": 6002
+    },
+    {
+        "icon_img": "absorb",
+        "dbg_name": "吸収",
+        "id": 6003
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "抵抗解除",
+        "id": 8000
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "無敵解除",
+        "id": 8001
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "自動回復解除",
+        "id": 8002
+    },
+    {
+        "icon_img": "",
+        "dbg_name": "激昂解除",
+        "id": 8003
+    }
+]

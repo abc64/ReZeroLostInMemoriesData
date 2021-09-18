@@ -1,0 +1,570 @@
+[
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 50103040,
+        "bonus_type": 3,
+        "bonus_value": 5,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 50104010,
+        "bonus_type": 1,
+        "bonus_value": 25,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 50104020,
+        "bonus_type": 4,
+        "bonus_value": 50,
+        "scene_num": 0
+    },
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 50109010,
+        "bonus_type": 2,
+        "bonus_value": 5,
+        "scene_num": 0
+    },
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 50109020,
+        "bonus_type": 3,
+        "bonus_value": 10,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 50110010,
+        "bonus_type": 3,
+        "bonus_value": 25,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 50111050,
+        "bonus_type": 4,
+        "bonus_value": 70,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 50113010,
+        "bonus_type": 4,
+        "bonus_value": 25,
+        "scene_num": 0
+    },
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 50113030,
+        "bonus_type": 4,
+        "bonus_value": 10,
+        "scene_num": 0
+    },
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 50114010,
+        "bonus_type": 1,
+        "bonus_value": 5,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 50115010,
+        "bonus_type": 1,
+        "bonus_value": 35,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 50115030,
+        "bonus_type": 1,
+        "bonus_value": 50,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 50116020,
+        "bonus_type": 2,
+        "bonus_value": 50,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 50116030,
+        "bonus_type": 4,
+        "bonus_value": 35,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 50117010,
+        "bonus_type": 3,
+        "bonus_value": 70,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 50117020,
+        "bonus_type": 3,
+        "bonus_value": 35,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 50119020,
+        "bonus_type": 1,
+        "bonus_value": 70,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 50119040,
+        "bonus_type": 2,
+        "bonus_value": 35,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 50120020,
+        "bonus_type": 2,
+        "bonus_value": 70,
+        "scene_num": 0
+    },
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 50120030,
+        "bonus_type": 1,
+        "bonus_value": 5,
+        "scene_num": 0
+    },
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 50121040,
+        "bonus_type": 2,
+        "bonus_value": 10,
+        "scene_num": 0
+    },
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 50123040,
+        "bonus_type": 2,
+        "bonus_value": 5,
+        "scene_num": 0
+    },
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 50126020,
+        "bonus_type": 4,
+        "bonus_value": 5,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 50128010,
+        "bonus_type": 2,
+        "bonus_value": 25,
+        "scene_num": 0
+    },
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 50128030,
+        "bonus_type": 1,
+        "bonus_value": 10,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 50130010,
+        "bonus_type": 3,
+        "bonus_value": 50,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 50130020,
+        "bonus_type": 3,
+        "bonus_value": 35,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 50131010,
+        "bonus_type": 4,
+        "bonus_value": 25,
+        "scene_num": 0
+    },
+    {
+        "chapter": 4,
+        "section_num": 0,
+        "support_card_id": 50103050,
+        "bonus_type": 1,
+        "bonus_value": 35,
+        "scene_num": 0
+    },
+    {
+        "chapter": 4,
+        "section_num": 0,
+        "support_card_id": 50123050,
+        "bonus_type": 2,
+        "bonus_value": 35,
+        "scene_num": 0
+    },
+    {
+        "chapter": 4,
+        "section_num": 0,
+        "support_card_id": 50117050,
+        "bonus_type": 3,
+        "bonus_value": 35,
+        "scene_num": 0
+    },
+    {
+        "chapter": 4,
+        "section_num": 0,
+        "support_card_id": 50164010,
+        "bonus_type": 4,
+        "bonus_value": 35,
+        "scene_num": 0
+    },
+    {
+        "chapter": 4,
+        "section_num": 0,
+        "support_card_id": 50104090,
+        "bonus_type": 4,
+        "bonus_value": 70,
+        "scene_num": 0
+    },
+    {
+        "chapter": 4,
+        "section_num": 0,
+        "support_card_id": 50121090,
+        "bonus_type": 1,
+        "bonus_value": 70,
+        "scene_num": 0
+    },
+    {
+        "chapter": 4,
+        "section_num": 0,
+        "support_card_id": 50118020,
+        "bonus_type": 3,
+        "bonus_value": 70,
+        "scene_num": 0
+    },
+    {
+        "chapter": 4,
+        "section_num": 0,
+        "support_card_id": 50122080,
+        "bonus_type": 2,
+        "bonus_value": 70,
+        "scene_num": 0
+    },
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 51000010,
+        "bonus_type": 2,
+        "bonus_value": 50,
+        "scene_num": 0
+    },
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 51000020,
+        "bonus_type": 1,
+        "bonus_value": 50,
+        "scene_num": 0
+    },
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 51000030,
+        "bonus_type": 3,
+        "bonus_value": 50,
+        "scene_num": 0
+    },
+    {
+        "chapter": 1,
+        "section_num": 0,
+        "support_card_id": 51000040,
+        "bonus_type": 4,
+        "bonus_value": 50,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 51000060,
+        "bonus_type": 4,
+        "bonus_value": 100,
+        "scene_num": 0
+    },
+    {
+        "chapter": 5,
+        "section_num": 0,
+        "support_card_id": 50153020,
+        "bonus_type": 1,
+        "bonus_value": 45,
+        "scene_num": 0
+    },
+    {
+        "chapter": 5,
+        "section_num": 0,
+        "support_card_id": 50161010,
+        "bonus_type": 2,
+        "bonus_value": 45,
+        "scene_num": 0
+    },
+    {
+        "chapter": 5,
+        "section_num": 0,
+        "support_card_id": 50103060,
+        "bonus_type": 3,
+        "bonus_value": 45,
+        "scene_num": 0
+    },
+    {
+        "chapter": 5,
+        "section_num": 0,
+        "support_card_id": 50117060,
+        "bonus_type": 4,
+        "bonus_value": 45,
+        "scene_num": 0
+    },
+    {
+        "chapter": 5,
+        "section_num": 0,
+        "support_card_id": 50116050,
+        "bonus_type": 1,
+        "bonus_value": 90,
+        "scene_num": 0
+    },
+    {
+        "chapter": 5,
+        "section_num": 0,
+        "support_card_id": 50124060,
+        "bonus_type": 3,
+        "bonus_value": 90,
+        "scene_num": 0
+    },
+    {
+        "chapter": 5,
+        "section_num": 0,
+        "support_card_id": 50120050,
+        "bonus_type": 2,
+        "bonus_value": 90,
+        "scene_num": 0
+    },
+    {
+        "chapter": 5,
+        "section_num": 0,
+        "support_card_id": 50101070,
+        "bonus_type": 4,
+        "bonus_value": 90,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 51000070,
+        "bonus_type": 2,
+        "bonus_value": 100,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 51000080,
+        "bonus_type": 4,
+        "bonus_value": 100,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 51000090,
+        "bonus_type": 1,
+        "bonus_value": 100,
+        "scene_num": 0
+    },
+    {
+        "chapter": 2,
+        "section_num": 0,
+        "support_card_id": 51000100,
+        "bonus_type": 3,
+        "bonus_value": 100,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 51000110,
+        "bonus_type": 1,
+        "bonus_value": 120,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 51000120,
+        "bonus_type": 4,
+        "bonus_value": 120,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 51000130,
+        "bonus_type": 3,
+        "bonus_value": 120,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 51000140,
+        "bonus_type": 2,
+        "bonus_value": 120,
+        "scene_num": 0
+    },
+    {
+        "chapter": 3,
+        "section_num": 0,
+        "support_card_id": 51000150,
+        "bonus_type": 2,
+        "bonus_value": 120,
+        "scene_num": 0
+    },
+    {
+        "chapter": 6,
+        "section_num": 0,
+        "support_card_id": 50116060,
+        "bonus_type": 1,
+        "bonus_value": 50,
+        "scene_num": 0
+    },
+    {
+        "chapter": 6,
+        "section_num": 0,
+        "support_card_id": 50103100,
+        "bonus_type": 4,
+        "bonus_value": 50,
+        "scene_num": 0
+    },
+    {
+        "chapter": 6,
+        "section_num": 0,
+        "support_card_id": 50103110,
+        "bonus_type": 2,
+        "bonus_value": 50,
+        "scene_num": 0
+    },
+    {
+        "chapter": 6,
+        "section_num": 0,
+        "support_card_id": 50124090,
+        "bonus_type": 3,
+        "bonus_value": 50,
+        "scene_num": 0
+    },
+    {
+        "chapter": 6,
+        "section_num": 0,
+        "support_card_id": 50104130,
+        "bonus_type": 2,
+        "bonus_value": 100,
+        "scene_num": 0
+    },
+    {
+        "chapter": 6,
+        "section_num": 0,
+        "support_card_id": 50103120,
+        "bonus_type": 1,
+        "bonus_value": 100,
+        "scene_num": 0
+    },
+    {
+        "chapter": 6,
+        "section_num": 0,
+        "support_card_id": 50124080,
+        "bonus_type": 3,
+        "bonus_value": 100,
+        "scene_num": 0
+    },
+    {
+        "chapter": 6,
+        "section_num": 0,
+        "support_card_id": 50104140,
+        "bonus_type": 4,
+        "bonus_value": 100,
+        "scene_num": 0
+    },
+    {
+        "chapter": 4,
+        "section_num": 0,
+        "support_card_id": 51000160,
+        "bonus_type": 3,
+        "bonus_value": 120,
+        "scene_num": 0
+    },
+    {
+        "chapter": 6,
+        "section_num": 0,
+        "support_card_id": 51000200,
+        "bonus_type": 4,
+        "bonus_value": 150,
+        "scene_num": 0
+    },
+    {
+        "chapter": 6,
+        "section_num": 0,
+        "support_card_id": 51000210,
+        "bonus_type": 2,
+        "bonus_value": 150,
+        "scene_num": 0
+    },
+    {
+        "chapter": 6,
+        "section_num": 0,
+        "support_card_id": 51000220,
+        "bonus_type": 1,
+        "bonus_value": 150,
+        "scene_num": 0
+    },
+    {
+        "chapter": 6,
+        "section_num": 0,
+        "support_card_id": 51000230,
+        "bonus_type": 3,
+        "bonus_value": 150,
+        "scene_num": 0
+    }
+]

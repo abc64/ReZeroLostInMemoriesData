@@ -1,0 +1,1697 @@
+[
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1024001,
+                "text": "本編：ミミVer.  第7話-前編をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1024
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1025001,
+                "text": "本編  第6話[♪]を「本編：ユリウスVer.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 1025
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1026001,
+                "text": "本編  第6話[♪]を「本編：ヴィルヘルムVer.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 1026
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1027001,
+                "text": "本編  第6話[♪]を「本編：ミミVer.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 1027
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2051001,
+                "text": "『本編  第11話[♪]「本編」』『本編  第11話-後編「本編：エミリアVer.」』のいずれかをクリアする",
+                "type": 4
+            }
+        ],
+        "section_id": 2051
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1028001,
+                "text": "本編  第6話[♪]を「本編：ラムVer.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 1028
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2052001,
+                "text": "本編  第12話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2052
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1029001,
+                "text": "本編  第7話-前編をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1029
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2053001,
+                "text": "本編  第13話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2053
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4101001,
+                "text": "本編  第23話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4101
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2054001,
+                "text": "本編  第14話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2054
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4102001,
+                "text": "本編  第24話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4102
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2055001,
+                "text": "本編  第15話の本編ルートをクリアする",
+                "type": 7
+            }
+        ],
+        "section_id": 2055
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2056001,
+                "text": "本編  第15話を「本編：エミリアVer.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 2056
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2057001,
+                "text": "本編：エミリアVer.  第16話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2057
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2058001,
+                "text": "本編：エミリアVer.  第17話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2058
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2061001,
+                "text": "本編  第16話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2061
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2062001,
+                "text": "本編  第17話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2062
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2063001,
+                "text": "本編  第18話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2063
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4111001,
+                "text": "本編  第2話[♪]を「IFルート：共通」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 4111
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2064001,
+                "text": "本編  第19話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2064
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4112001,
+                "text": "IFルート：共通  第3話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4112
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1041001,
+                "text": "本編  第9話[♪]を「本編」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 1041
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6161001,
+                "text": "本編：共通  第14話[♪]を「本編：エルザ」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 6161
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1042001,
+                "text": "本編  第10話の本編ルートをクリアする",
+                "type": 7
+            }
+        ],
+        "section_id": 1042
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6162001,
+                "text": "本編：エルザ  第15話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6162
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1043001,
+                "text": "本編  第11話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1043
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6163001,
+                "text": "本編：エルザ  第16話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6163
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1045001,
+                "text": "本編  第9話[♪]を「本編：ユリウスVer.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 1045
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1046001,
+                "text": "本編  第9話[♪]を「本編：ヴィルヘルムVer.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 1046
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1047001,
+                "text": "本編  第9話[♪]を「本編：ミミVer.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 1047
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1048001,
+                "text": "本編  第9話[♪]を「本編：ラムVer.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 1048
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1049001,
+                "text": "本編  第12話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1049
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2611001,
+                "text": "本編  第7話を「IFルート：ラインハルト」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 2611
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4411001,
+                "text": "IFルート：共通  第4話[♪]を「IFルート：ラインハルト」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 4411
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2911001,
+                "text": "IFルート：姉妹  第15話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2911
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2912001,
+                "text": "IFルート：姉妹  第16話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2912
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2913001,
+                "text": "IFルート：姉妹  第17話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2913
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4211001,
+                "text": "IFルート：共通  第4話[♪]を「IFルート：プリシラ」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 4211
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4212001,
+                "text": "IFルート：プリシラ  第5話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4212
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6261001,
+                "text": "本編：共通  第14話[♪]を「本編：フェリス」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 6261
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6262001,
+                "text": "本編：フェリス  第15話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6262
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6263001,
+                "text": "本編：フェリス  第16話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6263
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6021001,
+                "text": "本編：共通  第1話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6021
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6022001,
+                "text": "本編：共通  第2話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6022
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6023001,
+                "text": "本編：共通  第3話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6023
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6024001,
+                "text": "本編：共通  第4話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6024
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6025001,
+                "text": "本編：共通  第5話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6025
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3211001,
+                "text": "本編  第1話[♪]を「IFルート：監獄王」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 3211
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3212001,
+                "text": "IFルート：監獄王  第2話[♪]を「IFルート：監獄王」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 3212
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6031001,
+                "text": "本編：共通  第6話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6031
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6032001,
+                "text": "本編：共通  第7話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6032
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 5012001,
+                "text": "本編  第1話の本編ルートをクリアする",
+                "type": 7
+            }
+        ],
+        "section_id": 5012
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 5013001,
+                "text": "本編  第2話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 5013
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2711001,
+                "text": "本編  第2話[♪]を「IFルート：ロズワール」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 2711
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2712001,
+                "text": "IFルート：ロズワール  第3話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2712
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2713001,
+                "text": "IFルート：ロズワール  第4話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2713
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6041001,
+                "text": "本編：共通  第8話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6041
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6042001,
+                "text": "本編：共通  第9話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6042
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 5021001,
+                "text": "本編  第3話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 5021
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 5022001,
+                "text": "本編  第4話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 5022
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4511001,
+                "text": "本編  第2話[♪]を「IFルート：フェルト」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 4511
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 5023001,
+                "text": "本編  第5話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 5023
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6051001,
+                "text": "本編：共通  第10話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6051
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6052001,
+                "text": "本編：共通  第11話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6052
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6053001,
+                "text": "本編：共通  第12話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6053
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 5031001,
+                "text": "本編  第6話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 5031
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 5032001,
+                "text": "本編  第7話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 5032
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 5033001,
+                "text": "本編  第8話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 5033
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4012001,
+                "text": "本編  第1話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4012
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4013001,
+                "text": "本編  第2話[♪]の本編ルートをクリアする",
+                "type": 7
+            }
+        ],
+        "section_id": 4013
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6061001,
+                "text": "本編：共通  第13話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6061
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6062001,
+                "text": "本編：共通  第14話[♪]を「本編：ベアトリス」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 6062
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6063001,
+                "text": "本編：ベアトリス  第15話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6063
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6064001,
+                "text": "本編：ベアトリス  第16話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6064
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 5041001,
+                "text": "本編  第9話をクリアする",
+                "type": 1
+            }
+        ],
+        "section_id": 5041
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 5042001,
+                "text": "本編  第10話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 5042
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 5043001,
+                "text": "本編  第11話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 5043
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 5044001,
+                "text": "本編  第12話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 5044
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4021001,
+                "text": "本編  第3話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4021
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4022001,
+                "text": "本編  第4話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4022
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4023001,
+                "text": "本編  第5話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4023
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 6071001,
+                "text": "本編：ベアトリス  第17話[♪]をクリアする",
+                "type": 2
+            },
+            {
+                "id": 6071002,
+                "text": "本編：エルザ  第17話[♪]をクリアする",
+                "type": 2
+            },
+            {
+                "id": 6071003,
+                "text": "本編：フェリス  第17話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 6071
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4024001,
+                "text": "本編  第6話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4024
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4031001,
+                "text": "本編  第7話[♪]をクリアする",
+                "type": 1
+            }
+        ],
+        "section_id": 4031
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4032001,
+                "text": "本編  第8話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4032
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4033001,
+                "text": "本編  第9話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4033
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3012001,
+                "text": "本編  第1話[♪]の本編ルートをクリアする",
+                "type": 7
+            }
+        ],
+        "section_id": 3012
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4041001,
+                "text": "本編  第10話[♪]をクリアする",
+                "type": 1
+            }
+        ],
+        "section_id": 4041
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4042001,
+                "text": "本編  第11話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4042
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3021001,
+                "text": "本編  第2話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 3021
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3022001,
+                "text": "本編  第3話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 3022
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2511001,
+                "text": "本編  第7話を「IFルート：姉妹・ペトラ共通」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 2511
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2512001,
+                "text": "IFルート：姉妹・ペトラ共通  第8話[♪]を「IFルート：姉妹」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 2512
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2513001,
+                "text": "IFルート：姉妹  第9話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2513
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2514001,
+                "text": "IFルート：姉妹  第10話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2514
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2515001,
+                "text": "IFルート：姉妹  第11話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2515
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4051001,
+                "text": "本編  第12話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4051
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2516001,
+                "text": "IFルート：姉妹  第12話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2516
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4052001,
+                "text": "本編  第13話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4052
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2517001,
+                "text": "IFルート：姉妹  第13話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2517
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4053001,
+                "text": "本編  第14話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4053
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2518001,
+                "text": "IFルート：姉妹  第14話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2518
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3031001,
+                "text": "本編  第4話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 3031
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4311001,
+                "text": "IFルート：共通  第4話[♪]を「IFルート：ミミ」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 4311
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3032001,
+                "text": "本編  第5話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 3032
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4312001,
+                "text": "IFルート：ミミ  第5話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4312
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3033001,
+                "text": "本編  第6話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 3033
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2012001,
+                "text": "本編  第1話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2012
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2013001,
+                "text": "本編  第2話[♪]を「本編」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 2013
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4061001,
+                "text": "本編  第15話をクリアする",
+                "type": 1
+            }
+        ],
+        "section_id": 4061
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4062001,
+                "text": "本編  第16話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4062
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3041001,
+                "text": "本編  第7話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 3041
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3042001,
+                "text": "本編  第3話[♪]を「本編：True」でクリアする",
+                "type": 3
+            },
+            {
+                "id": 3042002,
+                "text": "本編  第8話[♪]を「本編：True」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 3042
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3043001,
+                "text": "本編：True  第9話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 3043
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2021001,
+                "text": "本編  第3話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2021
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2022001,
+                "text": "本編  第4話[♪]を「本編」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 2022
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3046001,
+                "text": "本編  第8話[♪]を「本編：オットーver.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 3046
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2023001,
+                "text": "本編  第5話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2023
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3047001,
+                "text": "本編：オットーver.  第9話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 3047
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4071001,
+                "text": "本編  第17話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4071
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2024001,
+                "text": "本編  第4話[♪]を「本編：エミリアVer.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 2024
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3048001,
+                "text": "本編  第8話[♪]を「本編：リカードver.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 3048
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4072001,
+                "text": "本編  第18話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4072
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2025001,
+                "text": "本編：エミリアVer.  第5話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2025
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3049001,
+                "text": "本編：リカードver.  第9話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 3049
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1002001,
+                "text": "本編  第5話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1002
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1003001,
+                "text": "『本編  第7話-後編[♪]「本編」』『本編  第7話-後編[♪]「本編：ミミVer.」』『本編  第7話[♪]「本編：ヴィルヘルムVer.」』『本編  第7話[♪]「本編：ユリウスVer.」』『本編  第7話[♪]「本編：ラムVer.」』のいずれかをクリアする",
+                "type": 4
+            }
+        ],
+        "section_id": 1003
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3051001,
+                "text": "『本編  第10話[♪]「本編：True」』『本編  第10話[♪]「本編：オットーver.」』『本編  第10話[♪]「本編：リカードver.」』のいずれかをクリアする",
+                "type": 4
+            }
+        ],
+        "section_id": 3051
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1004001,
+                "text": "本編  第8話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1004
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3052001,
+                "text": "本編  第11話[♪]を「本編：True」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 3052
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1005001,
+                "text": "本編  第7話-後編[♪]を「IFルート：フェルト」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 1005
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3053001,
+                "text": "本編：True  第12話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 3053
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1006001,
+                "text": "IFルート：フェルト  第8話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1006
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3054001,
+                "text": "本編：True  第13話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 3054
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1007001,
+                "text": "IFルート：フェルト  第9話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1007
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2031001,
+                "text": "『本編  第6話[♪]「本編」』『本編  第6話「本編：エミリアVer.」』のいずれかをクリアする",
+                "type": 4
+            }
+        ],
+        "section_id": 2031
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2032001,
+                "text": "本編  第7話の本編ルートをクリアする",
+                "type": 7
+            }
+        ],
+        "section_id": 2032
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3056001,
+                "text": "本編  第11話[♪]を「本編：オットーver.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 3056
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1009001,
+                "text": "本編  第4話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1009
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2033001,
+                "text": "本編  第8話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2033
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3057001,
+                "text": "本編：オットーver.  第12話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 3057
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4081001,
+                "text": "本編  第19話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4081
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1010001,
+                "text": "本編  第3話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1010
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3058001,
+                "text": "本編  第11話[♪]を「本編：リカードver.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 3058
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4082001,
+                "text": "本編  第20話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4082
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1011001,
+                "text": "本編  第10話を「IFルート：オットー」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 1011
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 3059001,
+                "text": "本編：リカードver.  第12話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 3059
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1012001,
+                "text": "IFルート：オットー  第11話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1012
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1013001,
+                "text": "IFルート：オットー  第12話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1013
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1014001,
+                "text": "メインクエスト「1-3」をクリアする",
+                "type": 5
+            }
+        ],
+        "section_id": 1014
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1015001,
+                "text": "本編  第8話[♪]を「IFルート：クルシュ」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 1015
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1016001,
+                "text": "IFルート：クルシュ  第9話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1016
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1017001,
+                "text": "IFルート：クルシュ  第10話をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1017
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2041001,
+                "text": "本編  第9話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2041
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1018001,
+                "text": "IFルート：クルシュ  第11話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1018
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2042001,
+                "text": "本編  第10話[♪]を「本編」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 2042
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1019001,
+                "text": "本編  第2話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1019
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2043001,
+                "text": "本編  第10話[♪]を「本編：エミリアVer.」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 2043
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2811001,
+                "text": "IFルート：姉妹・ペトラ共通  第8話[♪]を「IFルート：ペトラ」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 2811
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4091001,
+                "text": "本編  第21話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4091
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1020001,
+                "text": "IFルート：クルシュ  第12話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 1020
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2044001,
+                "text": "本編：エミリアVer.  第11話-前編[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2044
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2812001,
+                "text": "IFルート：ペトラ  第9話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2812
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 4092001,
+                "text": "本編  第22話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 4092
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 1021001,
+                "text": "本編  第6話[♪]を「本編」でクリアする",
+                "type": 3
+            }
+        ],
+        "section_id": 1021
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2813001,
+                "text": "IFルート：ペトラ  第10話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2813
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "id": 2814001,
+                "text": "IFルート：ペトラ  第11話[♪]をクリアする",
+                "type": 2
+            }
+        ],
+        "section_id": 2814
+    }
+]

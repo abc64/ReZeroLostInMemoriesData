@@ -1,0 +1,1112 @@
+[
+    {
+        "function_list": [
+            {
+                "param_value": 50,
+                "id": 1010600101,
+                "param_type": 7
+            }
+        ],
+        "leader_skill_id": 10106001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 25,
+                "id": 1310100201,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 13101002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1100100101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11001001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 20,
+                "id": 1310100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 13101001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1110700101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 11107001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1120300101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 11203001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 50,
+                "id": 1040500101,
+                "param_type": 7
+            }
+        ],
+        "leader_skill_id": 10405001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1180100101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11801001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1390100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 13901001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1150200101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11502001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 23,
+                "id": 1180100201,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11801002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1180200101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11802001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1130100201,
+                "param_type": 7
+            }
+        ],
+        "leader_skill_id": 11301002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 50,
+                "id": 1040300101,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 10403001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1050100101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10501001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 18,
+                "id": 1280100201,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 12801002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 20,
+                "id": 1050100201,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 10501002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1280100101,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 12801001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 25,
+                "id": 1020100301,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 10201003
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 25,
+                "id": 1210100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 12101001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1020100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 10201001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1210100201,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 12101002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1150300101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11503001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1040400101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 10404001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1110500101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11105001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1120100201,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 11201002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1010300101,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 10103001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1120100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 11201001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1170200101,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 11702001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1220300101,
+                "param_type": 5
+            }
+        ],
+        "leader_skill_id": 12203001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1250200201,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 12502002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1290100101,
+                "param_type": 5
+            }
+        ],
+        "leader_skill_id": 12901001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1040200101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10402001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1290100301,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 12901003
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1010400101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10104001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 50,
+                "id": 1220400101,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 12204001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1200100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 12001001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1310300101,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 13103001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1150100101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11501001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 50,
+                "id": 1200200101,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 12002001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 50,
+                "id": 1250300101,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 12503001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 20,
+                "id": 1070100201,
+                "param_type": 7
+            }
+        ],
+        "leader_skill_id": 10701002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1260100101,
+                "param_type": 7
+            }
+        ],
+        "leader_skill_id": 12601001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1070100101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10701001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 25,
+                "id": 1260100201,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 12601002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 50,
+                "id": 1010200101,
+                "param_type": 7
+            }
+        ],
+        "leader_skill_id": 10102001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 18,
+                "id": 1230100201,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 12301002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1420100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 14201001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1230100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 12301001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1040100201,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 10401002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 20,
+                "id": 1040100301,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10401003
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1310200101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 13102001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1040100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 10401001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1110600101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 11106001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1011100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 10111001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1030300101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10303001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 25,
+                "id": 1140100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 11401001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1130500101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11305001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 23,
+                "id": 1140100201,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11401002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1060100101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10601001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1160300101,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 11603001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 50,
+                "id": 1270100101,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 12701001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 18,
+                "id": 1270100301,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 12701003
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 18,
+                "id": 1060100201,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 10601002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 25,
+                "id": 1010100201,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 10101002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 50,
+                "id": 1160400101,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 11604001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1220100201,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 12201002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1010100301,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10101003
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 18,
+                "id": 1220100301,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 12201003
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1010100101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10101001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 50,
+                "id": 1110200101,
+                "param_type": 7
+            }
+        ],
+        "leader_skill_id": 11102001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1030400101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 10304001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1080300101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10803001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1110400101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 11104001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1011000101,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 10110001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1220200101,
+                "param_type": 7
+            }
+        ],
+        "leader_skill_id": 12202001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1030200101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 10302001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 15,
+                "id": 1090100201,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 10901002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 20,
+                "id": 1090100101,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 10901001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 50,
+                "id": 1510100101,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 15101001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1110300101,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 11103001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1290200101,
+                "param_type": 5
+            }
+        ],
+        "leader_skill_id": 12902001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1250100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 12501001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 18,
+                "id": 1170100201,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 11701002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1170100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 11701001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1040700101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10407001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1000200101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 10002001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1210200101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 12102001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1920100101,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 19201001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1080100201,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10801002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1010900101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10109001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 15,
+                "id": 1030100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 10301001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1240100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 12401001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1160100101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11601001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1270300101,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 12703001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 18,
+                "id": 1160100201,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 11601002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 50,
+                "id": 1130200101,
+                "param_type": 7
+            }
+        ],
+        "leader_skill_id": 11302001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1410100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 14101001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 25,
+                "id": 1110100101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11101001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1160200101,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 11602001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1020300101,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 10203001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 40,
+                "id": 1110100201,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11101002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1570100101,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 15701001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 25,
+                "id": 1300100201,
+                "param_type": 7
+            }
+        ],
+        "leader_skill_id": 13001002
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1040600101,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 10406001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 30,
+                "id": 1300100101,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 13001001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1000100101,
+                "param_type": 3
+            }
+        ],
+        "leader_skill_id": 10001001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 10,
+                "id": 1840100101,
+                "param_type": 4
+            }
+        ],
+        "leader_skill_id": 18401001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 50,
+                "id": 1130300101,
+                "param_type": 8
+            }
+        ],
+        "leader_skill_id": 11303001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 35,
+                "id": 1190100101,
+                "param_type": 2
+            }
+        ],
+        "leader_skill_id": 11901001
+    },
+    {
+        "function_list": [
+            {
+                "param_value": 23,
+                "id": 1190100201,
+                "param_type": 1
+            }
+        ],
+        "leader_skill_id": 11901002
+    }
+]

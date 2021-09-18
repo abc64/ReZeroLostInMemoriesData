@@ -1,0 +1,302 @@
+[
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10000101
+            }
+        ],
+        "stage_id": 100001,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10000301
+            }
+        ],
+        "stage_id": 100003,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10000201
+            }
+        ],
+        "stage_id": 100002,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10000501
+            }
+        ],
+        "stage_id": 100005,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10000401
+            }
+        ],
+        "stage_id": 100004,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10000701
+            }
+        ],
+        "stage_id": 100007,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10000601
+            }
+        ],
+        "stage_id": 100006,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10000901
+            }
+        ],
+        "stage_id": 100009,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10000801
+            }
+        ],
+        "stage_id": 100008,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10001101
+            }
+        ],
+        "stage_id": 100011,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10001001
+            }
+        ],
+        "stage_id": 100010,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10001301
+            }
+        ],
+        "stage_id": 100013,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10001201
+            }
+        ],
+        "stage_id": 100012,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10001501
+            }
+        ],
+        "stage_id": 100015,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10001401
+            }
+        ],
+        "stage_id": 100014,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10001701
+            }
+        ],
+        "stage_id": 100017,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10001601
+            }
+        ],
+        "stage_id": 100016,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10001901
+            }
+        ],
+        "stage_id": 100019,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10001801
+            }
+        ],
+        "stage_id": 100018,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10002101
+            }
+        ],
+        "stage_id": 100021,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10002001
+            }
+        ],
+        "stage_id": 100020,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10002301
+            }
+        ],
+        "stage_id": 100023,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10002201
+            }
+        ],
+        "stage_id": 100022,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10002501
+            }
+        ],
+        "stage_id": 100025,
+        "message": "同じキャラは使用できません。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 10002401
+            }
+        ],
+        "stage_id": 100024,
+        "message": "同じキャラは使用できません。"
+    }
+]

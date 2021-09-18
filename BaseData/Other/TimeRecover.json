@@ -1,0 +1,16 @@
+[
+    {
+        "init_max": 100,
+        "recover_sec": 300,
+        "id_str": "STAMINA_BATTLE_QUEST",
+        "recover_type": 0,
+        "type": 2
+    },
+    {
+        "init_max": 5,
+        "recover_sec": 10800,
+        "id_str": "STAMINA_ARENA",
+        "recover_type": 0,
+        "type": 3
+    }
+]

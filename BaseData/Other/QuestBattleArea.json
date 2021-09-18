@@ -1,0 +1,32 @@
+[
+    {
+        "today_play_limit": -1,
+        "banner": "BattleAreaBanner_Quest_1",
+        "area_id": 2001,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "BattleAreaBanner_Quest_2",
+        "area_id": 2002,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "BattleAreaBanner_Quest_3",
+        "area_id": 2003,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "BattleAreaBanner_Quest_4",
+        "area_id": 2004,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "BattleAreaBanner_Quest_5",
+        "area_id": 2005,
+        "total_play_limit": -1
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "is_anime": 0,
+        "is_tutorial": true,
+        "name": "??? ???",
+        "id": 0,
+        "scene_num": 45,
+        "priority": 0,
+        "title": "???"
+    },
+    {
+        "is_anime": 1,
+        "is_tutorial": false,
+        "name": "第1章 王都の一日編",
+        "id": 1,
+        "scene_num": 155,
+        "priority": 0,
+        "title": "第1章"
+    },
+    {
+        "is_anime": 1,
+        "is_tutorial": false,
+        "name": "第2章 屋敷の一週間編",
+        "id": 2,
+        "scene_num": 113,
+        "priority": 0,
+        "title": "第2章"
+    },
+    {
+        "is_anime": 0,
+        "is_tutorial": false,
+        "name": "新章１ 囚人番号459 ナツキ・スバル",
+        "id": 3,
+        "scene_num": 69,
+        "priority": 0,
+        "title": "新章１"
+    },
+    {
+        "is_anime": 1,
+        "is_tutorial": false,
+        "name": "第3章前編 失墜と迷走の王都",
+        "id": 4,
+        "scene_num": 67,
+        "priority": 0,
+        "title": "第3章前編"
+    },
+    {
+        "is_anime": 1,
+        "is_tutorial": false,
+        "name": "第3章後編 激闘と再会の曠野",
+        "id": 5,
+        "scene_num": 42,
+        "priority": 0,
+        "title": "第3章後編"
+    },
+    {
+        "is_anime": 0,
+        "is_tutorial": false,
+        "name": "新章2 ゼロカラアガナウイセカイセイカツ",
+        "id": 6,
+        "scene_num": 44,
+        "priority": 0,
+        "title": "新章2"
+    },
+    {
+        "is_anime": 0,
+        "is_tutorial": false,
+        "name": "??? ???",
+        "id": 7,
+        "scene_num": 27,
+        "priority": 0,
+        "title": "???"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "rarity_up_list": [
+            {
+                "up_rarity": 2,
+                "gold": 500,
+                "item_num_l": 0,
+                "item_num_m": 0,
+                "id": 11,
+                "item_num_s": 10
+            },
+            {
+                "up_rarity": 3,
+                "gold": 1000,
+                "item_num_l": 0,
+                "item_num_m": 0,
+                "id": 12,
+                "item_num_s": 20
+            },
+            {
+                "up_rarity": 4,
+                "gold": 1500,
+                "item_num_l": 0,
+                "item_num_m": 20,
+                "id": 13,
+                "item_num_s": 30
+            },
+            {
+                "up_rarity": 5,
+                "gold": 3000,
+                "item_num_l": 25,
+                "item_num_m": 30,
+                "id": 14,
+                "item_num_s": 40
+            }
+        ],
+        "default_rarity": 1
+    },
+    {
+        "rarity_up_list": [
+            {
+                "up_rarity": 3,
+                "gold": 1000,
+                "item_num_l": 0,
+                "item_num_m": 0,
+                "id": 21,
+                "item_num_s": 20
+            },
+            {
+                "up_rarity": 4,
+                "gold": 1500,
+                "item_num_l": 0,
+                "item_num_m": 20,
+                "id": 22,
+                "item_num_s": 30
+            },
+            {
+                "up_rarity": 5,
+                "gold": 3000,
+                "item_num_l": 25,
+                "item_num_m": 30,
+                "id": 23,
+                "item_num_s": 40
+            }
+        ],
+        "default_rarity": 2
+    },
+    {
+        "rarity_up_list": [
+            {
+                "up_rarity": 4,
+                "gold": 1500,
+                "item_num_l": 0,
+                "item_num_m": 20,
+                "id": 31,
+                "item_num_s": 30
+            },
+            {
+                "up_rarity": 5,
+                "gold": 3000,
+                "item_num_l": 25,
+                "item_num_m": 30,
+                "id": 32,
+                "item_num_s": 40
+            }
+        ],
+        "default_rarity": 3
+    },
+    {
+        "rarity_up_list": [
+            {
+                "up_rarity": 5,
+                "gold": 3000,
+                "item_num_l": 25,
+                "item_num_m": 30,
+                "id": 41,
+                "item_num_s": 40
+            }
+        ],
+        "default_rarity": 4
+    }
+]

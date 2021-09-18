@@ -1,0 +1,6224 @@
+[
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 100010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1000100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 50,
+                "id": 100010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 2
+            }
+        ],
+        "skill_id": 1000100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 100010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1000100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 100020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1000200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 100020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1000200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 100020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1000200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 101010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 101010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 101010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 101010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101010030401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010100304
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 101010030501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010100305
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 101010030601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010100306
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 101020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 101020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 5,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 101030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 101030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101040010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010400104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 101040010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010400105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 101040010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010400106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101060010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010600104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101060010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010600105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 101060010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010600106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101090010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010900104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101090010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010900105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 101090010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1010900106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101100010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1011000104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101100010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1011000105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 101100010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1011000106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101110010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1011100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 101110010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1011100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 101110010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1011100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 102010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 102010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 102010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 102010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 102010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 102010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 102010030401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020100304
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 102010030501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020100305
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 102010030601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020100306
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 102020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 102020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 102020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 102030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 102030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 102030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1020300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 103010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 103010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 103010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 103010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 103010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 103010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 103020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 103020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 103020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 103030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 103030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 103030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 103040010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030400104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 103040010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030400105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 103040010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1030400106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 104010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 104010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 104010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 104010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 104010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 6,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 104010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 104010030401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040100304
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 104010030501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040100305
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 104010030601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040100306
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 6,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 104020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 104020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 104020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 104030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 104030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 104030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 104040010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040400104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 104040010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040400105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 104040010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040400106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 104050010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040500104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 104050010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040500105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 5,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 104050010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040500106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 104060010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040600104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 104060010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040600105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 104060010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040600106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 104070010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040700104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 104070010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040700105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 104070010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1040700106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 105010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1050100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 105010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1050100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 105010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1050100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 105010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1050100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 105010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1050100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 105010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1050100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 106010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1060100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 106010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1060100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 106010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1060100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 106010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1060100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 106010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1060100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 106010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1060100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 107010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1070100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 107010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1070100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 107010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1070100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 107010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1070100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 107010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1070100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 107010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1070100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 108010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1080100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 108010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1080100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 6,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 108010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1080100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 108010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1080100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 108010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1080100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 6,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 108010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1080100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 108030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1080300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 108030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1080300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 6,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 108030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1080300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 109010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1090100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 109010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1090100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 109010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1090100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 109010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1090100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 109010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1090100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 109010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1090100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 110010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1100100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 110010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1100100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 110010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1100100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 111010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 111010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 111010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 5,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 111010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 111010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 111010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 111010030401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110100304
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 111010030501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110100305
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 111010030601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110100306
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 111020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 111020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 111020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 111030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 111030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 111030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 111040010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110400104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 111040010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110400105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 111040010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110400106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 111050010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110500104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 111050010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110500105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 111050010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110500106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 111060010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110600104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 111060010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110600105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 111060010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110600106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 111070010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110700104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 111070010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110700105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 111070010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1110700106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 112010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1120100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 112010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1120100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 112010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1120100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 112010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1120100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 112010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1120100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 112010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1120100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 5,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 112030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1120300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 112030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1120300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 112030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1120300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 113010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 113010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 113010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 113010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 113010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 5,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 113010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 113010030401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130100304
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 113010030501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130100305
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 113010030601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130100306
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 113020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 113020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 113020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 113030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 113030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 113030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 113050010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130500104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 113050010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130500105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 113050010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1130500106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 114010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1140100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 114010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1140100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 114010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1140100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 114010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1140100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 114010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1140100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 114010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1140100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 115010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1150100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 6,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 115010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1150100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 115010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1150100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 115020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1150200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 115020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1150200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 115020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1150200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 115030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1150300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 115030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1150300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 115030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1150300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 116010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 116010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 116010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 116010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 116010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 116010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 116020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 116020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 116020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 116030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 116030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 116030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 116040010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160400104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 116040010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160400105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 116040010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1160400106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 117010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1170100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 117010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1170100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 117010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1170100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 117010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1170100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 117010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1170100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 117010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1170100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 117020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1170200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 117020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1170200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 117020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1170200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 118010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1180100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 118010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1180100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 5,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 118010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1180100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 118010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1180100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 118010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1180100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 118010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1180100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 118020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1180200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 118020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1180200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 118020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1180200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 119010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1190100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 119010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1190100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 119010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1190100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 119010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1190100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 119010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1190100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 119010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1190100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 5,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 120010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1200100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 120010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1200100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 120010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1200100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 120020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1200200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 120020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1200200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 120020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1200200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 121010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1210100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 121010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1210100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 121010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1210100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 121010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1210100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 121010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1210100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 121010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1210100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 121020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1210200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 121020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1210200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 121020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1210200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 122010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 122010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 122010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 122010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 122010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 122010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 122010030401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220100304
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 122010030501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220100305
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 122010030601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220100306
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 122020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 122020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 122020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 122030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 6,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 122030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 122030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 122040010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220400104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 122040010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220400105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 122040010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1220400106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 123010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1230100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 5,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 123010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1230100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 123010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1230100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 123010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1230100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 123010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1230100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 123010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1230100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 124010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1240100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 124010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1240100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 124010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1240100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 125010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1250100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 125010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1250100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 5,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 125010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1250100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 125020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1250200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 125020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1250200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 125020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1250200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 6,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 125020020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1250200204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 5,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 125020020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1250200205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 125020020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1250200206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 125030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1250300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 125030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1250300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 125030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1250300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 126010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1260100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 126010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1260100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 126010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1260100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 126010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1260100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 126010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1260100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 126010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1260100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 127010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1270100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 127010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1270100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 5,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 127010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1270100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 127010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1270100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 127010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1270100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 127010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1270100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 127010030401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1270100304
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 127010030501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1270100305
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 5,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 127010030601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1270100306
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 127030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1270300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 5,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 127030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1270300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 127030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1270300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 128010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1280100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 128010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1280100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 128010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1280100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 128010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1280100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 128010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1280100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 128010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1280100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 129010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1290100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 129010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1290100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 129010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1290100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 129010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1290100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 129010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1290100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 129010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1290100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 129010030401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1290100304
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 129010030501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1290100305
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 129010030601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1290100306
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 129020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1290200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 129020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1290200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 129020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1290200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 130010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1300100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 130010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1300100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 130010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1300100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 130010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1300100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 130010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1300100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 130010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1300100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 131010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1310100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 131010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1310100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 131010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1310100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 131010020401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1310100204
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 131010020501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1310100205
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 131010020601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1310100206
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 131020010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1310200104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 131020010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1310200105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 131020010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1310200106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 131030010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1310300104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 131030010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1310300105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 131030010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1310300106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 139010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1390100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 139010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1390100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 139010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1390100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 141010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1410100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 141010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1410100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 141010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1410100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 142010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1420100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 142010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1420100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 142010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1420100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 151010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1510100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 151010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1510100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 2,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 151010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1510100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 157010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1570100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 8,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 157010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1570100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 157010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1570100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 184010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1840100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 4,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 184010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1840100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 184010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1840100106
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 7,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 10,
+                "id": 192010010401,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1920100104
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 1,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 20,
+                "id": 192010010501,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1920100105
+    },
+    {
+        "function_list": [
+            {
+                "battle_function": 3,
+                "rate": 100,
+                "skill_effect_icon_type": -1,
+                "range": -1,
+                "effect_val": 30,
+                "id": 192010010601,
+                "type": -1,
+                "buff_debuff_type": -1,
+                "target": -1,
+                "effect_time": 1
+            }
+        ],
+        "skill_id": 1920100106
+    }
+]

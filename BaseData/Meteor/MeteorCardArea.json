@@ -1,0 +1,850 @@
+[
+    {
+        "area_list": [
+            {
+                "point_index": 2,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110008000,
+                "area_type": 0,
+                "card_id": 1100080
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110008001,
+                "area_type": 0,
+                "card_id": 1100080
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110008002,
+                "area_type": 0,
+                "card_id": 1100080
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110008003,
+                "area_type": 0,
+                "card_id": 1100080
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110008004,
+                "area_type": 0,
+                "card_id": 1100080
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110008005,
+                "area_type": 0,
+                "card_id": 1100080
+            }
+        ],
+        "card_id": 1100080
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 0,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110072000,
+                "area_type": 0,
+                "card_id": 1100720
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110072001,
+                "area_type": 0,
+                "card_id": 1100720
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110072002,
+                "area_type": 0,
+                "card_id": 1100720
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110072003,
+                "area_type": 0,
+                "card_id": 1100720
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110072004,
+                "area_type": 0,
+                "card_id": 1100720
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110072005,
+                "area_type": 0,
+                "card_id": 1100720
+            }
+        ],
+        "card_id": 1100720
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 3,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110005000,
+                "area_type": 0,
+                "card_id": 1100050
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110005001,
+                "area_type": 0,
+                "card_id": 1100050
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110005002,
+                "area_type": 0,
+                "card_id": 1100050
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110005003,
+                "area_type": 0,
+                "card_id": 1100050
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110005004,
+                "area_type": 0,
+                "card_id": 1100050
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110005005,
+                "area_type": 0,
+                "card_id": 1100050
+            }
+        ],
+        "card_id": 1100050
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 1,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110002000,
+                "area_type": 0,
+                "card_id": 1100020
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110002001,
+                "area_type": 0,
+                "card_id": 1100020
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110002002,
+                "area_type": 0,
+                "card_id": 1100020
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110002003,
+                "area_type": 0,
+                "card_id": 1100020
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110002004,
+                "area_type": 0,
+                "card_id": 1100020
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110002005,
+                "area_type": 0,
+                "card_id": 1100020
+            }
+        ],
+        "card_id": 1100020
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 3,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110015000,
+                "area_type": 0,
+                "card_id": 1100150
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110015001,
+                "area_type": 0,
+                "card_id": 1100150
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110015002,
+                "area_type": 0,
+                "card_id": 1100150
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110015003,
+                "area_type": 0,
+                "card_id": 1100150
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110015004,
+                "area_type": 0,
+                "card_id": 1100150
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110015005,
+                "area_type": 0,
+                "card_id": 1100150
+            }
+        ],
+        "card_id": 1100150
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 0,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110009000,
+                "area_type": 0,
+                "card_id": 1100090
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110009001,
+                "area_type": 0,
+                "card_id": 1100090
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110009002,
+                "area_type": 0,
+                "card_id": 1100090
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110009003,
+                "area_type": 0,
+                "card_id": 1100090
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110009004,
+                "area_type": 0,
+                "card_id": 1100090
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110009005,
+                "area_type": 0,
+                "card_id": 1100090
+            }
+        ],
+        "card_id": 1100090
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 2,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110070000,
+                "area_type": 0,
+                "card_id": 1100700
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110070001,
+                "area_type": 0,
+                "card_id": 1100700
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110070002,
+                "area_type": 0,
+                "card_id": 1100700
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110070003,
+                "area_type": 0,
+                "card_id": 1100700
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110070004,
+                "area_type": 0,
+                "card_id": 1100700
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110070005,
+                "area_type": 0,
+                "card_id": 1100700
+            }
+        ],
+        "card_id": 1100700
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 0,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110003000,
+                "area_type": 0,
+                "card_id": 1100030
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110003001,
+                "area_type": 0,
+                "card_id": 1100030
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110003002,
+                "area_type": 0,
+                "card_id": 1100030
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110003003,
+                "area_type": 0,
+                "card_id": 1100030
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110003004,
+                "area_type": 0,
+                "card_id": 1100030
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110003005,
+                "area_type": 0,
+                "card_id": 1100030
+            }
+        ],
+        "card_id": 1100030
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 3,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110032000,
+                "area_type": 0,
+                "card_id": 1100320
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110032001,
+                "area_type": 0,
+                "card_id": 1100320
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110032002,
+                "area_type": 0,
+                "card_id": 1100320
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110032003,
+                "area_type": 0,
+                "card_id": 1100320
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110032004,
+                "area_type": 0,
+                "card_id": 1100320
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110032005,
+                "area_type": 0,
+                "card_id": 1100320
+            }
+        ],
+        "card_id": 1100320
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 0,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110029000,
+                "area_type": 0,
+                "card_id": 1100290
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110029001,
+                "area_type": 0,
+                "card_id": 1100290
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110029002,
+                "area_type": 0,
+                "card_id": 1100290
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110029003,
+                "area_type": 0,
+                "card_id": 1100290
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110029004,
+                "area_type": 0,
+                "card_id": 1100290
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110029005,
+                "area_type": 0,
+                "card_id": 1100290
+            }
+        ],
+        "card_id": 1100290
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 1,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110010000,
+                "area_type": 0,
+                "card_id": 1100100
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110010001,
+                "area_type": 0,
+                "card_id": 1100100
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110010002,
+                "area_type": 0,
+                "card_id": 1100100
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110010003,
+                "area_type": 0,
+                "card_id": 1100100
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110010004,
+                "area_type": 0,
+                "card_id": 1100100
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110010005,
+                "area_type": 0,
+                "card_id": 1100100
+            }
+        ],
+        "card_id": 1100100
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 2,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110074000,
+                "area_type": 0,
+                "card_id": 1100740
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110074001,
+                "area_type": 0,
+                "card_id": 1100740
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110074002,
+                "area_type": 0,
+                "card_id": 1100740
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110074003,
+                "area_type": 0,
+                "card_id": 1100740
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110074004,
+                "area_type": 0,
+                "card_id": 1100740
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110074005,
+                "area_type": 0,
+                "card_id": 1100740
+            }
+        ],
+        "card_id": 1100740
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 3,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110007000,
+                "area_type": 0,
+                "card_id": 1100070
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110007001,
+                "area_type": 0,
+                "card_id": 1100070
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110007002,
+                "area_type": 0,
+                "card_id": 1100070
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110007003,
+                "area_type": 0,
+                "card_id": 1100070
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110007004,
+                "area_type": 0,
+                "card_id": 1100070
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110007005,
+                "area_type": 0,
+                "card_id": 1100070
+            }
+        ],
+        "card_id": 1100070
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 1,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110004000,
+                "area_type": 0,
+                "card_id": 1100040
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110004001,
+                "area_type": 0,
+                "card_id": 1100040
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110004002,
+                "area_type": 0,
+                "card_id": 1100040
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110004003,
+                "area_type": 0,
+                "card_id": 1100040
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110004004,
+                "area_type": 0,
+                "card_id": 1100040
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110004005,
+                "area_type": 0,
+                "card_id": 1100040
+            }
+        ],
+        "card_id": 1100040
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 2,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110001000,
+                "area_type": 0,
+                "card_id": 1100010
+            },
+            {
+                "point_index": 3,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110001001,
+                "area_type": 0,
+                "card_id": 1100010
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110001002,
+                "area_type": 0,
+                "card_id": 1100010
+            },
+            {
+                "point_index": 0,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110001003,
+                "area_type": 0,
+                "card_id": 1100010
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110001004,
+                "area_type": 0,
+                "card_id": 1100010
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110001005,
+                "area_type": 0,
+                "card_id": 1100010
+            }
+        ],
+        "card_id": 1100010
+    },
+    {
+        "area_list": [
+            {
+                "point_index": 3,
+                "common_area_id": 101,
+                "area_index": 0,
+                "id": 110011000,
+                "area_type": 0,
+                "card_id": 1100110
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 102,
+                "area_index": 1,
+                "id": 110011001,
+                "area_type": 0,
+                "card_id": 1100110
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 103,
+                "area_index": 2,
+                "id": 110011002,
+                "area_type": 0,
+                "card_id": 1100110
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 104,
+                "area_index": 3,
+                "id": 110011003,
+                "area_type": 0,
+                "card_id": 1100110
+            },
+            {
+                "point_index": 1,
+                "common_area_id": 105,
+                "area_index": 4,
+                "id": 110011004,
+                "area_type": 0,
+                "card_id": 1100110
+            },
+            {
+                "point_index": 2,
+                "common_area_id": 106,
+                "area_index": 5,
+                "id": 110011005,
+                "area_type": 0,
+                "card_id": 1100110
+            }
+        ],
+        "card_id": 1100110
+    }
+]

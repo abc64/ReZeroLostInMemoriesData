@@ -1,0 +1,63 @@
+[
+    {
+        "rarity_up_list": [
+            {
+                "up_rarity": 2,
+                "item4_num": 0,
+                "item1_id": 32204,
+                "item2_id": 32205,
+                "item4_id": 0,
+                "item5_id": 0,
+                "item2_num": 200,
+                "item3_id": 0,
+                "id": 1120100201,
+                "item1_num": 200,
+                "item3_num": 0,
+                "item5_num": 0
+            },
+            {
+                "up_rarity": 3,
+                "item4_num": 200,
+                "item1_id": 32106,
+                "item2_id": 32304,
+                "item4_id": 32301,
+                "item5_id": 0,
+                "item2_num": 200,
+                "item3_id": 32305,
+                "id": 1120100202,
+                "item1_num": 30,
+                "item3_num": 200,
+                "item5_num": 0
+            },
+            {
+                "up_rarity": 4,
+                "item4_num": 200,
+                "item1_id": 32206,
+                "item2_id": 32304,
+                "item4_id": 32302,
+                "item5_id": 0,
+                "item2_num": 200,
+                "item3_id": 32305,
+                "id": 1120100203,
+                "item1_num": 50,
+                "item3_num": 200,
+                "item5_num": 0
+            },
+            {
+                "up_rarity": 5,
+                "item4_num": 200,
+                "item1_id": 32306,
+                "item2_id": 32304,
+                "item4_id": 32303,
+                "item5_id": 0,
+                "item2_num": 200,
+                "item3_id": 32305,
+                "id": 1120100204,
+                "item1_num": 100,
+                "item3_num": 200,
+                "item5_num": 0
+            }
+        ],
+        "card_id": 11201002
+    }
+]

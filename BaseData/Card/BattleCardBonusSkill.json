@@ -1,0 +1,5004 @@
+[
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020200104,
+                "skill_icon": "ic_skill_weak_resistance ",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020200105,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020200106,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10202001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010600104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010600105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010600106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10106001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1310100204,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1310100205,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "弱化耐性が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1310100206,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 13101002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1100100104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1100100105,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1100100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11001001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1310100104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化耐性が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1310100105,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1310100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 13101001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110700104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110700105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110700106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11107001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "クリティカル率が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカル率10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1120300104,
+                "skill_icon": "ic_skill_critical",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化成功力が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1120300105,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1120300106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11203001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040500104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040500105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "クリティカル率が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカル率30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040500106,
+                "skill_icon": "ic_skill_critical",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10405001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化成功力が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1180100104,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1180100105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "クリティカル率が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカル率30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1180100106,
+                "skill_icon": "ic_skill_critical",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 11801001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1390100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1390100105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1390100106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 13901001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1150200104,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1150200105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1150200106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 11502001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1180100204,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1180100205,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "弱化成功力が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1180100206,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 11801002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化成功率が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功率20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130100105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130100106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11301001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1180200104,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1180200105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1180200106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11802001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130100204,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130100205,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "クリティカル率が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカル率30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130100206,
+                "skill_icon": "ic_skill_critical",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11301002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040300104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040300105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "弱化耐性が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040300106,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10403001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130100304,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130100305,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130100306,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11301003
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1050100104,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1050100105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1050100106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10501001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1280100204,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1280100205,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "弱化耐性が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1280100206,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12801002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1050100204,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化耐性が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1050100205,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1050100206,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10501002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1280100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1280100105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1280100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12801001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020100304,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020100305,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020100306,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10201003
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020100204,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020100205,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020100206,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10201002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化成功力が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1210100104,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1210100105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1210100106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12101001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020100104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020100105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10201001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1210100204,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1210100205,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1210100206,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12101002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1150300104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1150300105,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1150300106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 11503001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040400104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040400105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040400106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 10404001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110500104,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110500105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110500106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11105001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1120100204,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1120100205,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1120100206,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11201002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "クリティカル率が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカル率10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010300104,
+                "skill_icon": "ic_skill_critical",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010300105,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "弱化成功力が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010300106,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10103001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1120100104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1120100105,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1120100106,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11201001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1170200104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1170200105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "弱化成功力が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1170200106,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11702001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220300104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "クリティカルダメージが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカルダメージ20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220300105,
+                "skill_icon": "ic_skill_critical_damage",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220300106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12203001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "クリティカルダメージが10%上昇",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカルダメージが10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1250200204,
+                "skill_icon": "ic_skill_critical_damage",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "クリティカル率が20%上昇",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカル率が20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1250200205,
+                "skill_icon": "ic_skill_critical",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1250200206,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12502002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1290100104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1290100105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1290100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12901001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1290100204,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1290100205,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1290100206,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12901002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "クリティカルダメージが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカルダメージ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040200104,
+                "skill_icon": "ic_skill_critical_damage",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040200105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040200106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 10402001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1250200104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1250200105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1250200106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12502001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1290100304,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1290100305,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1290100306,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12901003
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010400104,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010400105,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010400106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10104001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220400104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220400105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220400106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12204001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "クリティカル率が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカル率10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1200100104,
+                "skill_icon": "ic_skill_critical",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1200100105,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1200100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12001001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1310300104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化耐性が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1310300105,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1310300106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 13103001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1150100104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "クリティカルダメージが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカルダメージ20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1150100105,
+                "skill_icon": "ic_skill_critical_damage",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1150100106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11501001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1200200104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1200200105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1200200106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12002001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1250300104,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1250300105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1250300106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12503001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1070100204,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1070100205,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1070100206,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10701002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1260100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化耐性が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1260100105,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1260100106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12601001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化成功力が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1070100104,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1070100105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1070100106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10701001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1260100204,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1260100205,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "弱化成功力が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1260100206,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12601002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化成功力が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010200104,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010200105,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010200106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10102001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1230100204,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化成功力が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1230100205,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1230100206,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12301002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1420100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1420100105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1420100106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 14201001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1230100104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "クリティカル率が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカル率20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1230100105,
+                "skill_icon": "ic_skill_critical",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1230100106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12301001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040100204,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040100205,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "クリティカルダメージが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカルダメージ30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040100206,
+                "skill_icon": "ic_skill_critical_damage",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 10401002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040100304,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040100305,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "弱化成功力が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040100306,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10401003
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1310200104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化耐性が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1310200105,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1310200106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 13102001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040100104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040100105,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10401001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110600104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110600105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110600106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11106001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1011100104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1011100105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1011100106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10111001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030300104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化耐性が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030300105,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030300106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 10303001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1140100104,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1140100105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1140100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11401001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130500104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130500105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130500106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11305001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1140100204,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化耐性が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1140100205,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1140100206,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11401002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1060100104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化耐性が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1060100105,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1060100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 10601001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160300104,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160300105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160300106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11603001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1270100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1270100105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "クリティカル率が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカル率30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1270100106,
+                "skill_icon": "ic_skill_critical",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12701001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1270100304,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1270100305,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "クリティカル率が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカル率30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1270100306,
+                "skill_icon": "ic_skill_critical",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12701003
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1060100204,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1060100205,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1060100206,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10601002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1270100204,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1270100205,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1270100206,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12701002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010100204,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010100205,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010100206,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10101002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160400104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160400105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160400106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11604001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220100204,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220100205,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220100206,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12201002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010100304,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010100305,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010100306,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10101003
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220100304,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220100305,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220100306,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12201003
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010100104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010100105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010100106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10101001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220100105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220100106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12201001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110200104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110200105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110200106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11102001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030400104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030400105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030400106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10304001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1080300104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1080300105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "クリティカルダメージが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカルダメージ30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1080300106,
+                "skill_icon": "ic_skill_critical_damage",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10803001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110400104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化耐性が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110400105,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110400106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11104001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1011000104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1011000105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1011000106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10110001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220200104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220200105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1220200106,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12202001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030200104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030200105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030200106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 10302001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1090100204,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化成功力が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1090100205,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1090100206,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10901002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1090100104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化成功力が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1090100105,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1090100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10901001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1510100104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化成功力が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1510100105,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1510100106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 15101001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110300104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110300105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "弱化成功力が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110300106,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11103001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1290200104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1290200105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "弱化成功力が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1290200106,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12902001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1250100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化耐性が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1250100105,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "クリティカル率が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカル率30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1250100106,
+                "skill_icon": "ic_skill_critical",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12501001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1170100204,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1170100205,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "弱化耐性が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1170100206,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11701002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1170100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1170100105,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1170100106,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11701001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040700104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040700105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "弱化成功力が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040700106,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10407001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1000200104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1000200105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1000200106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 10002001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1210200104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化成功力が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1210200105,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1210200106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 12102001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1080100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃速度が20上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃速度20上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1080100105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "クリティカルダメージが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカルダメージ20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1080100106,
+                "skill_icon": "ic_skill_critical_damage",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10801001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化成功力が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1920100104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1920100105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1920100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 19201001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1080100204,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1080100205,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "クリティカルダメージが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカルダメージ30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1080100206,
+                "skill_icon": "ic_skill_critical_damage",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10801002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010900104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010900105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1010900106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10109001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030100104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化成功力が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030100105,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10301001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1240100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化成功力が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1240100105,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1240100106,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12401001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030100204,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030100205,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1030100206,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10301002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160100104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160100105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11601001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化成功力が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1270300104,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "クリティカル率が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカル率20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1270300105,
+                "skill_icon": "ic_skill_critical",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1270300106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 12703001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160100204,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160100205,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "弱化耐性が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160100206,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11601002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130200104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130200105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130200106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11302001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1410100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1410100105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1410100106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 14101001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110100104,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110100105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 11101001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160200104,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160200105,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1160200106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 11602001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020300104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020300105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1020300106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10203001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110100304,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110100305,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110100306,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11101003
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "クリティカル率が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "クリティカル率10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110100204,
+                "skill_icon": "ic_skill_critical",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "防御が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110100205,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1110100206,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 11101002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1570100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化耐性が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1570100105,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1570100106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 15701001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1300100204,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1300100205,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "弱化成功力が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1300100206,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 13001002
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040600104,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040600105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1040600106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 10406001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1300100104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化耐性が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1300100105,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1300100106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 13001001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "攻撃が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1000100104,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "HPが20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1000100105,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1000100106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 10001001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "防御が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1840100104,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1840100105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1840100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 18401001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130300104,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "素早さが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "素早さ10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130300105,
+                "skill_icon": "ic_skill_speed",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "防御が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "防御30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1130300106,
+                "skill_icon": "ic_skill_defense",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11303001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "弱化耐性が10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化耐性10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1190100104,
+                "skill_icon": "ic_skill_weak_resistance",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "攻撃が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1190100105,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 15
+            },
+            {
+                "skill_description": "HPが30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1190100106,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 25
+            }
+        ],
+        "card_id": 11901001
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "HPが10%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "HP10%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1190100204,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 10
+            },
+            {
+                "skill_description": "弱化成功力が20%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "弱化成功力20%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1190100205,
+                "skill_icon": "ic_skill_weak_hit",
+                "unlock_condition_value": 20
+            },
+            {
+                "skill_description": "攻撃が30%上昇する",
+                "drama": "",
+                "skill_effect_icon_type": -1,
+                "move_type": 0,
+                "skill_name": "攻撃30%上昇",
+                "unlock_condition_type": 1,
+                "cool_time": 0,
+                "id": 1190100206,
+                "skill_icon": "ic_skill_attack",
+                "unlock_condition_value": 30
+            }
+        ],
+        "card_id": 11901002
+    }
+]

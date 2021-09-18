@@ -1,0 +1,62 @@
+[
+    {
+        "unlock_condition_list": [
+            {
+                "condition_val2": 200130,
+                "condition_val1": 0,
+                "norma": 1,
+                "id": 2001,
+                "condition_id": 5
+            }
+        ],
+        "chapter_id": 2
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "condition_val2": 200230,
+                "condition_val1": 0,
+                "norma": 1,
+                "id": 3001,
+                "condition_id": 5
+            }
+        ],
+        "chapter_id": 3
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "condition_val2": 200327,
+                "condition_val1": 0,
+                "norma": 1,
+                "id": 4001,
+                "condition_id": 5
+            }
+        ],
+        "chapter_id": 4
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "condition_val2": 200430,
+                "condition_val1": 0,
+                "norma": 1,
+                "id": 5001,
+                "condition_id": 5
+            }
+        ],
+        "chapter_id": 5
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "condition_val2": 200530,
+                "condition_val1": 0,
+                "norma": 1,
+                "id": 6001,
+                "condition_id": 5
+            }
+        ],
+        "chapter_id": 6
+    }
+]

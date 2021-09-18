@@ -1,0 +1,6600 @@
+[
+    {
+        "pattern_id": 4001,
+        "panel_list": [
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 20,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 19,
+                "resource_num_list": [
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 18,
+                "resource_num_list": [
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 17,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            }
+        ]
+    },
+    {
+        "pattern_id": 101,
+        "panel_list": [
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 1000,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    100,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 1000
+            }
+        ]
+    },
+    {
+        "pattern_id": 102,
+        "panel_list": [
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    700,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    1000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    700,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    700,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    700,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 1000,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    100,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 1000
+            }
+        ]
+    },
+    {
+        "pattern_id": 103,
+        "panel_list": [
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    300,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    400,
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    500,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 1000,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    100,
+                    100
+                ],
+                "need_gold": 2000
+            }
+        ]
+    },
+    {
+        "pattern_id": 104,
+        "panel_list": [
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1400
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1400
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1400
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    1400
+                ],
+                "need_gold": 600
+            }
+        ]
+    },
+    {
+        "pattern_id": 1001,
+        "panel_list": [
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 20,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 19,
+                "resource_num_list": [
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 18,
+                "resource_num_list": [
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 17,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            }
+        ]
+    },
+    {
+        "pattern_id": 5001,
+        "panel_list": [
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 20,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 19,
+                "resource_num_list": [
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 18,
+                "resource_num_list": [
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 17,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            }
+        ]
+    },
+    {
+        "pattern_id": 9001,
+        "panel_list": [
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    400,
+                    0,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    300,
+                    0,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    400,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    300,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    100,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    100,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    400,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    300,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    100,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    100,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 20,
+                "resource_num_list": [
+                    0,
+                    0,
+                    400,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 19,
+                "resource_num_list": [
+                    0,
+                    0,
+                    300,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 18,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 17,
+                "resource_num_list": [
+                    0,
+                    0,
+                    100,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    100,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            }
+        ]
+    },
+    {
+        "pattern_id": 9002,
+        "panel_list": [
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 20,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 19,
+                "resource_num_list": [
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 18,
+                "resource_num_list": [
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 17,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            }
+        ]
+    },
+    {
+        "pattern_id": 11,
+        "panel_list": [
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 1000,
+                "resource_num_list": [
+                    0,
+                    100,
+                    100,
+                    100,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 1000
+            }
+        ]
+    },
+    {
+        "pattern_id": 12,
+        "panel_list": [
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    700,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    1000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    700,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    700,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    700,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 1000,
+                "resource_num_list": [
+                    0,
+                    0,
+                    100,
+                    100,
+                    100,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 1000
+            }
+        ]
+    },
+    {
+        "pattern_id": 13,
+        "panel_list": [
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    300,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    400,
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    500,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 1000,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    100,
+                    100
+                ],
+                "need_gold": 2000
+            }
+        ]
+    },
+    {
+        "pattern_id": 14,
+        "panel_list": [
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    800,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    1100,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    1400,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    800,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    1100,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    1400,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    800,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    1100,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    1400,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    800
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    1100
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0,
+                    0,
+                    0,
+                    1400
+                ],
+                "need_gold": 600
+            }
+        ]
+    },
+    {
+        "pattern_id": 2001,
+        "panel_list": [
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 20,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 19,
+                "resource_num_list": [
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 18,
+                "resource_num_list": [
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 17,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            }
+        ]
+    },
+    {
+        "pattern_id": 6001,
+        "panel_list": [
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 20,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 19,
+                "resource_num_list": [
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 18,
+                "resource_num_list": [
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 17,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            }
+        ]
+    },
+    {
+        "pattern_id": 3001,
+        "panel_list": [
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 20,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 800
+            },
+            {
+                "panel_id": 19,
+                "resource_num_list": [
+                    0,
+                    0,
+                    150,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 700
+            },
+            {
+                "panel_id": 18,
+                "resource_num_list": [
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 17,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            }
+        ]
+    },
+    {
+        "pattern_id": 91,
+        "panel_list": [
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    600,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    300,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 1000,
+                "resource_num_list": [
+                    0,
+                    200,
+                    200,
+                    200,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 1000
+            }
+        ]
+    },
+    {
+        "pattern_id": 92,
+        "panel_list": [
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    600,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    1000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    1400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    2000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    1400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    2000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    1400,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    2000,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 100
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    1400,
+                    0,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    2000,
+                    0,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 1000,
+                "resource_num_list": [
+                    0,
+                    0,
+                    200,
+                    200,
+                    200,
+                    200,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "need_gold": 1000
+            }
+        ]
+    },
+    {
+        "pattern_id": 93,
+        "panel_list": [
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    400,
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    600,
+                    0,
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    800,
+                    0,
+                    0,
+                    0,
+                    800,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    1000,
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    800,
+                    0,
+                    0,
+                    0,
+                    800,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    800,
+                    0,
+                    0,
+                    0,
+                    800,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    400,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 200
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    800,
+                    0,
+                    0,
+                    0,
+                    800,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 1000,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200,
+                    200,
+                    200,
+                    20
+                ],
+                "need_gold": 2000
+            }
+        ]
+    },
+    {
+        "pattern_id": 94,
+        "panel_list": [
+            {
+                "panel_id": 1,
+                "resource_num_list": [
+                    600,
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    10
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 2,
+                "resource_num_list": [
+                    600,
+                    0,
+                    0,
+                    0,
+                    1600,
+                    0,
+                    0,
+                    0,
+                    80,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 3,
+                "resource_num_list": [
+                    1000,
+                    0,
+                    0,
+                    0,
+                    2200,
+                    0,
+                    0,
+                    0,
+                    110,
+                    0,
+                    0,
+                    30
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 4,
+                "resource_num_list": [
+                    1000,
+                    0,
+                    0,
+                    0,
+                    2800,
+                    0,
+                    0,
+                    0,
+                    140,
+                    0,
+                    0,
+                    50
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 5,
+                "resource_num_list": [
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    10
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 6,
+                "resource_num_list": [
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    1600,
+                    0,
+                    0,
+                    0,
+                    80,
+                    0,
+                    20
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 7,
+                "resource_num_list": [
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    2200,
+                    0,
+                    0,
+                    0,
+                    110,
+                    0,
+                    30
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 8,
+                "resource_num_list": [
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    2800,
+                    0,
+                    0,
+                    0,
+                    140,
+                    0,
+                    50
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 9,
+                "resource_num_list": [
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    50,
+                    10
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 10,
+                "resource_num_list": [
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    1600,
+                    0,
+                    0,
+                    0,
+                    80,
+                    20
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 11,
+                "resource_num_list": [
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    2200,
+                    0,
+                    0,
+                    0,
+                    110,
+                    30
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 12,
+                "resource_num_list": [
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    2800,
+                    0,
+                    0,
+                    0,
+                    140,
+                    50
+                ],
+                "need_gold": 600
+            },
+            {
+                "panel_id": 13,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    10
+                ],
+                "need_gold": 300
+            },
+            {
+                "panel_id": 14,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    600,
+                    0,
+                    0,
+                    0,
+                    1600,
+                    0,
+                    0,
+                    0,
+                    20
+                ],
+                "need_gold": 400
+            },
+            {
+                "panel_id": 15,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    2200,
+                    0,
+                    0,
+                    0,
+                    30
+                ],
+                "need_gold": 500
+            },
+            {
+                "panel_id": 16,
+                "resource_num_list": [
+                    0,
+                    0,
+                    0,
+                    1000,
+                    0,
+                    0,
+                    0,
+                    2800,
+                    0,
+                    0,
+                    0,
+                    50
+                ],
+                "need_gold": 600
+            }
+        ]
+    }
+]

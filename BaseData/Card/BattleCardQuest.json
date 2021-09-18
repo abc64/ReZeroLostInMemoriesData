@@ -1,0 +1,97 @@
+[
+    {
+        "card_id": 1100020,
+        "quest_list": [
+            {
+                "stage_id": 1001,
+                "battle_type": 1,
+                "id": 110002001
+            },
+            {
+                "stage_id": 1002,
+                "battle_type": 1,
+                "id": 110002002
+            },
+            {
+                "stage_id": 1003,
+                "battle_type": 1,
+                "id": 110002003
+            },
+            {
+                "stage_id": 1010,
+                "battle_type": 1,
+                "id": 110002004
+            }
+        ]
+    },
+    {
+        "card_id": 1100040,
+        "quest_list": [
+            {
+                "stage_id": 8001,
+                "battle_type": 2,
+                "id": 110004001
+            },
+            {
+                "stage_id": 8002,
+                "battle_type": 2,
+                "id": 110004002
+            },
+            {
+                "stage_id": 8003,
+                "battle_type": 2,
+                "id": 110004003
+            }
+        ]
+    },
+    {
+        "card_id": 1100010,
+        "quest_list": [
+            {
+                "stage_id": 1001,
+                "battle_type": 1,
+                "id": 110001001
+            },
+            {
+                "stage_id": 1002,
+                "battle_type": 1,
+                "id": 110001002
+            },
+            {
+                "stage_id": 1003,
+                "battle_type": 1,
+                "id": 110001003
+            },
+            {
+                "stage_id": 1004,
+                "battle_type": 1,
+                "id": 110001004
+            },
+            {
+                "stage_id": 1010,
+                "battle_type": 1,
+                "id": 110001005
+            }
+        ]
+    },
+    {
+        "card_id": 1100030,
+        "quest_list": [
+            {
+                "stage_id": 9001,
+                "battle_type": 2,
+                "id": 110003001
+            },
+            {
+                "stage_id": 9002,
+                "battle_type": 2,
+                "id": 110003002
+            },
+            {
+                "stage_id": 9003,
+                "battle_type": 2,
+                "id": 110003003
+            }
+        ]
+    }
+]

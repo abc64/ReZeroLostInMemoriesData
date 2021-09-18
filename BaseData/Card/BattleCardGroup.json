@@ -1,0 +1,2682 @@
+[
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1010600101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1010600102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1010600103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10025,
+                "id": 1010600105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1010600106
+            }
+        ],
+        "card_id": 10106001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1310100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1310100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1310100203
+            }
+        ],
+        "card_id": 13101002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1100100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1100100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10018,
+                "id": 1100100104
+            }
+        ],
+        "card_id": 11001001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1310100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1310100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1310100103
+            }
+        ],
+        "card_id": 13101001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1110700101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1110700102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1110700103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1110700105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1110700106
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10039,
+                "id": 1110700108
+            }
+        ],
+        "card_id": 11107001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10002,
+                "id": 1120300101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1120300102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1120300103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10014,
+                "id": 1120300105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10026,
+                "id": 1120300107
+            }
+        ],
+        "card_id": 11203001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1040500101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1040500102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1040500103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1040500105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1040500106
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10027,
+                "id": 1040500108
+            }
+        ],
+        "card_id": 10405001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10004,
+                "id": 1180100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1180100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1180100103
+            }
+        ],
+        "card_id": 11801001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10006,
+                "id": 1390100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1390100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10042,
+                "id": 1390100103
+            }
+        ],
+        "card_id": 13901001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1150200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1150200102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1150200103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1150200104
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10013,
+                "id": 1150200106
+            }
+        ],
+        "card_id": 11502001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10004,
+                "id": 1180100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1180100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1180100203
+            }
+        ],
+        "card_id": 11801002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10004,
+                "id": 1180200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1180200102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1180200103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10028,
+                "id": 1180200106
+            }
+        ],
+        "card_id": 11802001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1130100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1130100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1130100203
+            }
+        ],
+        "card_id": 11301002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1040300101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1040300102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1040300103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1040300105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1040300106
+            }
+        ],
+        "card_id": 10403001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10006,
+                "id": 1050100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1050100102
+            }
+        ],
+        "card_id": 10501001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10005,
+                "id": 1280100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1280100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1280100203
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10016,
+                "id": 1280100205
+            }
+        ],
+        "card_id": 12801002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1050100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1050100202
+            }
+        ],
+        "card_id": 10501002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10005,
+                "id": 1280100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1280100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1280100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10016,
+                "id": 1280100105
+            }
+        ],
+        "card_id": 12801001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10002,
+                "id": 1020100301
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1020100302
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1020100303
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1020100306
+            }
+        ],
+        "card_id": 10201003
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10003,
+                "id": 1210100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1210100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1210100103
+            }
+        ],
+        "card_id": 12101001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10002,
+                "id": 1020100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1020100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1020100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1020100106
+            }
+        ],
+        "card_id": 10201001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10003,
+                "id": 1210100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1210100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1210100203
+            }
+        ],
+        "card_id": 12101002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1150300101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1150300102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1150300103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10013,
+                "id": 1150300105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10024,
+                "id": 1150300107
+            }
+        ],
+        "card_id": 11503001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1040400101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1040400102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1040400103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1040400105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1040400106
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10025,
+                "id": 1040400108
+            }
+        ],
+        "card_id": 10404001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1110500101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1110500102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1110500103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1110500105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1110500106
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10027,
+                "id": 1110500108
+            }
+        ],
+        "card_id": 11105001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10002,
+                "id": 1120100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1120100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1120100203
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10014,
+                "id": 1120100205
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10032,
+                "id": 1120100207
+            }
+        ],
+        "card_id": 11201002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1010300101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1010300102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1010300103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1010300106
+            }
+        ],
+        "card_id": 10103001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10002,
+                "id": 1120100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1120100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1120100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10014,
+                "id": 1120100105
+            }
+        ],
+        "card_id": 11201001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10004,
+                "id": 1170200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1170200102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1170200103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10028,
+                "id": 1170200106
+            }
+        ],
+        "card_id": 11702001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10003,
+                "id": 1220300101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1220300102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1220300103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10013,
+                "id": 1220300105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1220300107
+            }
+        ],
+        "card_id": 12203001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1250200201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1250200202
+            }
+        ],
+        "card_id": 12502002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10004,
+                "id": 1290100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1290100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1290100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10015,
+                "id": 1290100105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1290100107
+            }
+        ],
+        "card_id": 12901001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1040200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1040200102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1040200103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1040200105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1040200106
+            }
+        ],
+        "card_id": 10402001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10004,
+                "id": 1290100301
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1290100302
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1290100303
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10015,
+                "id": 1290100305
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1290100308
+            }
+        ],
+        "card_id": 12901003
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1010400101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1010400102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1010400103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1010400105
+            }
+        ],
+        "card_id": 10104001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10003,
+                "id": 1220400101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1220400102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1220400103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10013,
+                "id": 1220400105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10028,
+                "id": 1220400106
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1220400108
+            }
+        ],
+        "card_id": 12204001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10004,
+                "id": 1200100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1200100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1200100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10014,
+                "id": 1200100105
+            }
+        ],
+        "card_id": 12001001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1310300101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1310300102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1310300103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10027,
+                "id": 1310300106
+            }
+        ],
+        "card_id": 13103001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1150100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1150100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1150100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10013,
+                "id": 1150100105
+            }
+        ],
+        "card_id": 11501001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10004,
+                "id": 1200200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1200200102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1200200103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10014,
+                "id": 1200200105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10028,
+                "id": 1200200106
+            }
+        ],
+        "card_id": 12002001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1250300101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1250300102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10033,
+                "id": 1250300105
+            }
+        ],
+        "card_id": 12503001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1070100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1070100202
+            }
+        ],
+        "card_id": 10701002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1260100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1260100102
+            }
+        ],
+        "card_id": 12601001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10007,
+                "id": 1070100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1070100102
+            }
+        ],
+        "card_id": 10701001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1260100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1260100202
+            }
+        ],
+        "card_id": 12601002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1010200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1010200102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1010200103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1010200106
+            }
+        ],
+        "card_id": 10102001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10004,
+                "id": 1230100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1230100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1230100203
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10016,
+                "id": 1230100205
+            }
+        ],
+        "card_id": 12301002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10007,
+                "id": 1420100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1420100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10041,
+                "id": 1420100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10042,
+                "id": 1420100106
+            }
+        ],
+        "card_id": 14201001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10004,
+                "id": 1230100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1230100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1230100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10016,
+                "id": 1230100105
+            }
+        ],
+        "card_id": 12301001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1040100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1040100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1040100203
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1040100205
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1040100206
+            }
+        ],
+        "card_id": 10401002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1040100301
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1040100302
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1040100303
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1040100305
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1040100306
+            }
+        ],
+        "card_id": 10401003
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1310200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1310200102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1310200103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1310200106
+            }
+        ],
+        "card_id": 13102001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1040100101
+            }
+        ],
+        "card_id": 10401001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1110600101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1110600102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1110600104
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10031,
+                "id": 1110600106
+            }
+        ],
+        "card_id": 11106001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1011100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1011100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1011100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1011100105
+            }
+        ],
+        "card_id": 10111001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1030300101
+            }
+        ],
+        "card_id": 10303001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1140100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1140100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10015,
+                "id": 1140100104
+            }
+        ],
+        "card_id": 11401001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1130500101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1130500102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10018,
+                "id": 1130500106
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10034,
+                "id": 1130500107
+            }
+        ],
+        "card_id": 11305001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1140100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1140100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10015,
+                "id": 1140100204
+            }
+        ],
+        "card_id": 11401002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10006,
+                "id": 1060100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1060100102
+            }
+        ],
+        "card_id": 10601001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10003,
+                "id": 1160300101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1160300102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1160300103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10028,
+                "id": 1160300104
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10014,
+                "id": 1160300106
+            }
+        ],
+        "card_id": 11603001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10005,
+                "id": 1270100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1270100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1270100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10013,
+                "id": 1270100105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1270100107
+            }
+        ],
+        "card_id": 12701001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10005,
+                "id": 1270100301
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1270100302
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1270100303
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10013,
+                "id": 1270100305
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1270100307
+            }
+        ],
+        "card_id": 12701003
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1060100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1060100202
+            }
+        ],
+        "card_id": 10601002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1010100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1010100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1010100203
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1010100206
+            }
+        ],
+        "card_id": 10101002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10007,
+                "id": 1160400101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1160400102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10034,
+                "id": 1160400103
+            }
+        ],
+        "card_id": 11604001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10003,
+                "id": 1220100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1220100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1220100203
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10013,
+                "id": 1220100205
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1220100207
+            }
+        ],
+        "card_id": 12201002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1010100301
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1010100302
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1010100303
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1010100306
+            }
+        ],
+        "card_id": 10101003
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10003,
+                "id": 1220100301
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1220100302
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1220100303
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10013,
+                "id": 1220100305
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1220100307
+            }
+        ],
+        "card_id": 12201003
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1010100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1010100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1010100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1010100106
+            }
+        ],
+        "card_id": 10101001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1110200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1110200102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1110200103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1110200105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1110200106
+            }
+        ],
+        "card_id": 11102001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1030400101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1030400102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10016,
+                "id": 1030400103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10034,
+                "id": 1030400104
+            }
+        ],
+        "card_id": 10304001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10009,
+                "id": 1080300101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10033,
+                "id": 1080300104
+            }
+        ],
+        "card_id": 10803001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1110400101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1110400102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1110400103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1110400105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1110400106
+            }
+        ],
+        "card_id": 11104001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1011000101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1011000102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1011000103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10036,
+                "id": 1011000105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1011000106
+            }
+        ],
+        "card_id": 10110001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10003,
+                "id": 1220200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1220200102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1220200103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10013,
+                "id": 1220200105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1220200107
+            }
+        ],
+        "card_id": 12202001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1030200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1030200102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1030200103
+            }
+        ],
+        "card_id": 10302001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10002,
+                "id": 1090100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1090100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1090100203
+            }
+        ],
+        "card_id": 10901002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10002,
+                "id": 1090100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1090100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1090100103
+            }
+        ],
+        "card_id": 10901001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1510100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1510100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1510100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1510100106
+            }
+        ],
+        "card_id": 15101001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1110300101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1110300102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1110300103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1110300105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1110300106
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10025,
+                "id": 1110300108
+            }
+        ],
+        "card_id": 11103001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10004,
+                "id": 1290200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1290200102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1290200103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10015,
+                "id": 1290200105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10028,
+                "id": 1290200106
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1290200108
+            }
+        ],
+        "card_id": 12902001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1250100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1250100102
+            }
+        ],
+        "card_id": 12501001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10004,
+                "id": 1170100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1170100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1170100203
+            }
+        ],
+        "card_id": 11701002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10004,
+                "id": 1170100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1170100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1170100103
+            }
+        ],
+        "card_id": 11701001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1040700101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1040700102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1040700103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1040700105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1040700106
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10038,
+                "id": 1040700108
+            }
+        ],
+        "card_id": 10407001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1000200101
+            }
+        ],
+        "card_id": 10002001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10006,
+                "id": 1210200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1210200102
+            }
+        ],
+        "card_id": 12102001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10008,
+                "id": 1920100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10030,
+                "id": 1920100103
+            }
+        ],
+        "card_id": 19201001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10009,
+                "id": 1080100201
+            }
+        ],
+        "card_id": 10801002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1010900101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1010900102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1010900103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10033,
+                "id": 1010900105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1010900106
+            }
+        ],
+        "card_id": 10109001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1030100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1030100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1030100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1030100104
+            }
+        ],
+        "card_id": 10301001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1240100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10029,
+                "id": 1240100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10018,
+                "id": 1240100103
+            }
+        ],
+        "card_id": 12401001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10003,
+                "id": 1160100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1160100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1160100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1160100104
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10014,
+                "id": 1160100106
+            }
+        ],
+        "card_id": 11601001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10005,
+                "id": 1270300101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1270300102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1270300103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1270300104
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10013,
+                "id": 1270300106
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10025,
+                "id": 1270300108
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1270300109
+            }
+        ],
+        "card_id": 12703001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10003,
+                "id": 1160100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1160100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1160100203
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10014,
+                "id": 1160100205
+            }
+        ],
+        "card_id": 11601002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1130200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1130200102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1130200103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10024,
+                "id": 1130200106
+            }
+        ],
+        "card_id": 11302001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10007,
+                "id": 1410100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1410100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10041,
+                "id": 1410100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10042,
+                "id": 1410100106
+            }
+        ],
+        "card_id": 14101001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1110100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1110100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1110100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1110100105
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1110100106
+            }
+        ],
+        "card_id": 11101001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10003,
+                "id": 1160200101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1160200102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1160200103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10014,
+                "id": 1160200105
+            }
+        ],
+        "card_id": 11602001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10002,
+                "id": 1020300101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1020300102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1020300103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10026,
+                "id": 1020300106
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10040,
+                "id": 1020300107
+            }
+        ],
+        "card_id": 10203001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1110100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1110100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1110100203
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1110100205
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10012,
+                "id": 1110100206
+            }
+        ],
+        "card_id": 11101002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1570100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1570100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1570100103
+            }
+        ],
+        "card_id": 15701001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1300100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1300100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1300100203
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10015,
+                "id": 1300100205
+            }
+        ],
+        "card_id": 13001002
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10007,
+                "id": 1040600101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1040600102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10017,
+                "id": 1040600104
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10031,
+                "id": 1040600106
+            }
+        ],
+        "card_id": 10406001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1300100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10006,
+                "id": 1300100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1300100103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10015,
+                "id": 1300100105
+            }
+        ],
+        "card_id": 13001001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10001,
+                "id": 1000100101
+            }
+        ],
+        "card_id": 10001001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10008,
+                "id": 1840100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10030,
+                "id": 1840100103
+            }
+        ],
+        "card_id": 18401001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10001,
+                "id": 1130300101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1130300102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10009,
+                "id": 1130300103
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10037,
+                "id": 1130300106
+            }
+        ],
+        "card_id": 11303001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 1,
+                "group_id": 10004,
+                "id": 1190100101
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1190100102
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1190100103
+            }
+        ],
+        "card_id": 11901001
+    },
+    {
+        "group_list": [
+            {
+                "skill_target": 0,
+                "group_id": 10004,
+                "id": 1190100201
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10007,
+                "id": 1190100202
+            },
+            {
+                "skill_target": 0,
+                "group_id": 10008,
+                "id": 1190100203
+            }
+        ],
+        "card_id": 11901002
+    }
+]

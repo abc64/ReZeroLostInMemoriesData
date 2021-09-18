@@ -1,0 +1,110 @@
+[
+    {
+        "get_prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 1,
+            "num": 100,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 8,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "cost_prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 25,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "id": 1001
+    },
+    {
+        "get_prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 3,
+            "num": 5,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 8,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "cost_prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 100,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "id": 1002
+    },
+    {
+        "get_prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 0,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 0,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "cost_prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 50,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "id": 1010
+    },
+    {
+        "get_prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 0,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 0,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "cost_prize": {
+            "ticket_num": 0,
+            "prize_id_sub": 0,
+            "prize_id": 0,
+            "num": 50,
+            "val_b": 0,
+            "piece_num": 0,
+            "val_type": 0,
+            "type": 4,
+            "is_duplicate": 0,
+            "val_a": 0
+        },
+        "id": 1011
+    }
+]

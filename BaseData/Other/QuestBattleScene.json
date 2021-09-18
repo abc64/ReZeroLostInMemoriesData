@@ -1,0 +1,552 @@
+[
+    {
+        "stage_id": 200326,
+        "scene_list": [
+            {
+                "id": 20032601,
+                "scene_num": 1,
+                "scene_type": 0
+            },
+            {
+                "id": 20032602,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 200201,
+        "scene_list": [
+            {
+                "id": 20020101,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200211,
+        "scene_list": [
+            {
+                "id": 20021102,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 802204,
+        "scene_list": [
+            {
+                "id": 80220401,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200208,
+        "scene_list": [
+            {
+                "id": 20020801,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200219,
+        "scene_list": [
+            {
+                "id": 20021901,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 804503,
+        "scene_list": [
+            {
+                "id": 80450301,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 802704,
+        "scene_list": [
+            {
+                "id": 80270401,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200222,
+        "scene_list": [
+            {
+                "id": 20022202,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 802705,
+        "scene_list": [
+            {
+                "id": 80270501,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 802604,
+        "scene_list": [
+            {
+                "id": 80260401,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 803501,
+        "scene_list": [
+            {
+                "id": 80350101,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200103,
+        "scene_list": [
+            {
+                "id": 20010302,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 200230,
+        "scene_list": [
+            {
+                "id": 20023001,
+                "scene_num": 1,
+                "scene_type": 0
+            },
+            {
+                "id": 20023002,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 200101,
+        "scene_list": [
+            {
+                "id": 20010101,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 804006,
+        "scene_list": [
+            {
+                "id": 80400601,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200111,
+        "scene_list": [
+            {
+                "id": 20011101,
+                "scene_num": 1,
+                "scene_type": 0
+            },
+            {
+                "id": 20011102,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 804003,
+        "scene_list": [
+            {
+                "id": 80400301,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 803903,
+        "scene_list": [
+            {
+                "id": 80390301,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200119,
+        "scene_list": [
+            {
+                "id": 20011901,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200501,
+        "scene_list": [
+            {
+                "id": 20050101,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200122,
+        "scene_list": [
+            {
+                "id": 20012202,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 803509,
+        "scene_list": [
+            {
+                "id": 80350901,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200504,
+        "scene_list": [
+            {
+                "id": 20050402,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 802103,
+        "scene_list": [
+            {
+                "id": 80210301,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200511,
+        "scene_list": [
+            {
+                "id": 20051101,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 803505,
+        "scene_list": [
+            {
+                "id": 80350501,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 804403,
+        "scene_list": [
+            {
+                "id": 80440301,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200130,
+        "scene_list": [
+            {
+                "id": 20013001,
+                "scene_num": 1,
+                "scene_type": 0
+            },
+            {
+                "id": 20013002,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 200514,
+        "scene_list": [
+            {
+                "id": 20051402,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 200530,
+        "scene_list": [
+            {
+                "id": 20053001,
+                "scene_num": 1,
+                "scene_type": 0
+            },
+            {
+                "id": 20053002,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 804701,
+        "scene_list": [
+            {
+                "id": 80470101,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200401,
+        "scene_list": [
+            {
+                "id": 20040101,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200404,
+        "scene_list": [
+            {
+                "id": 20040402,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 803803,
+        "scene_list": [
+            {
+                "id": 80380301,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200411,
+        "scene_list": [
+            {
+                "id": 20041101,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200414,
+        "scene_list": [
+            {
+                "id": 20041402,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 802001,
+        "scene_list": [
+            {
+                "id": 80200101,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 804206,
+        "scene_list": [
+            {
+                "id": 80420601,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200421,
+        "scene_list": [
+            {
+                "id": 20042101,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 804203,
+        "scene_list": [
+            {
+                "id": 80420301,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 802406,
+        "scene_list": [
+            {
+                "id": 80240601,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200424,
+        "scene_list": [
+            {
+                "id": 20042402,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 200430,
+        "scene_list": [
+            {
+                "id": 20043001,
+                "scene_num": 1,
+                "scene_type": 0
+            },
+            {
+                "id": 20043002,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 200301,
+        "scene_list": [
+            {
+                "id": 20030101,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 802403,
+        "scene_list": [
+            {
+                "id": 80240301,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 804604,
+        "scene_list": [
+            {
+                "id": 80460401,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200304,
+        "scene_list": [
+            {
+                "id": 20030402,
+                "scene_num": 2,
+                "scene_type": 1
+            }
+        ]
+    },
+    {
+        "stage_id": 802303,
+        "scene_list": [
+            {
+                "id": 80230301,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 802804,
+        "scene_list": [
+            {
+                "id": 80280401,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 200314,
+        "scene_list": [
+            {
+                "id": 20031401,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    },
+    {
+        "stage_id": 803703,
+        "scene_list": [
+            {
+                "id": 80370301,
+                "scene_num": 1,
+                "scene_type": 0
+            }
+        ]
+    }
+]

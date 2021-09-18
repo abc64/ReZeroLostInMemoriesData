@@ -1,0 +1,38 @@
+[
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 40000100
+            }
+        ],
+        "pattern_id": 1,
+        "message": "編成制限なし"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 40000200
+            }
+        ],
+        "pattern_id": 2,
+        "message": "編成制限なし"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 0,
+                "condition_value": 0,
+                "id": 40000300
+            }
+        ],
+        "pattern_id": 3,
+        "message": "各キャラクター１枠まで編成可能"
+    }
+]

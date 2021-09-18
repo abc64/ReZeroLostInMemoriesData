@@ -1,0 +1,50 @@
+[
+    {
+        "unlock_condition_list": [
+            {
+                "condition_val2": 2,
+                "condition_val1": 2011,
+                "norma": 1,
+                "id": 200201,
+                "condition_id": 2
+            }
+        ],
+        "area_id": 2002
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "condition_val2": 3,
+                "condition_val1": 3011,
+                "norma": 1,
+                "id": 200301,
+                "condition_id": 2
+            }
+        ],
+        "area_id": 2003
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "condition_val2": 4,
+                "condition_val1": 4011,
+                "norma": 1,
+                "id": 200401,
+                "condition_id": 2
+            }
+        ],
+        "area_id": 2004
+    },
+    {
+        "unlock_condition_list": [
+            {
+                "condition_val2": 5,
+                "condition_val1": 5011,
+                "norma": 1,
+                "id": 200501,
+                "condition_id": 2
+            }
+        ],
+        "area_id": 2005
+    }
+]

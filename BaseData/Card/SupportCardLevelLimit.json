@@ -1,0 +1,27 @@
+[
+    {
+        "max_level": 30,
+        "id": 1,
+        "rarity": 1
+    },
+    {
+        "max_level": 40,
+        "id": 2,
+        "rarity": 2
+    },
+    {
+        "max_level": 50,
+        "id": 3,
+        "rarity": 3
+    },
+    {
+        "max_level": 70,
+        "id": 4,
+        "rarity": 4
+    },
+    {
+        "max_level": 80,
+        "id": 5,
+        "rarity": 5
+    }
+]

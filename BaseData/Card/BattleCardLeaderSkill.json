@@ -1,0 +1,1445 @@
+[
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方の弱化成功力を50%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方の弱化成功力を50%上昇する",
+            "id": 10106001,
+            "skill_icon": "ic_skill_weak_hit",
+            "target_element": 2
+        },
+        "card_id": 10106001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方の弱化耐性を25%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方の弱化耐性を25%上昇する",
+            "id": 13101002,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 0
+        },
+        "card_id": 13101002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 2,
+            "skill_description": "エミリア陣営の味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "エミリア陣営の味方のHPを40%上昇する",
+            "id": 11001001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 11001001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の攻撃を20%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の攻撃を20%上昇する",
+            "id": 13101001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 13101001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の攻撃を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の攻撃を30%上昇する",
+            "id": 11107001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 11107001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "黄属性の味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "黄属性の味方の攻撃を35%上昇する",
+            "id": 11203001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 4
+        },
+        "card_id": 11203001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 2,
+            "skill_description": "エミリア陣営の味方の弱化成功力を50%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "エミリア陣営の味方の弱化成功力を50%上昇する",
+            "id": 10405001,
+            "skill_icon": "ic_skill_weak_hit",
+            "target_element": 0
+        },
+        "card_id": 10405001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方のHPを40%上昇する",
+            "id": 11801001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 3
+        },
+        "card_id": 11801001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "味方の攻撃を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の攻撃を30%上昇する",
+            "id": 13901001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 2
+        },
+        "card_id": 13901001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方のHPを35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方のHPを35%上昇する",
+            "id": 11502001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 11502001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "赤属性の味方のHPを23%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "赤属性の味方のHPを23%上昇する",
+            "id": 11801002,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 1
+        },
+        "card_id": 11801002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方のHPを40%上昇する",
+            "id": 11802001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 2
+        },
+        "card_id": 11802001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の弱化成功力を40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の弱化成功力を40%上昇する",
+            "id": 11301002,
+            "skill_icon": "ic_skill_weak_hit",
+            "target_element": 0
+        },
+        "card_id": 11301002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "黄属性の味方の弱化耐性を50%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "黄属性の味方の弱化耐性を50%上昇する",
+            "id": 10403001,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 4
+        },
+        "card_id": 10403001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方のHPを30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方のHPを30%上昇する",
+            "id": 10501001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 2
+        },
+        "card_id": 10501001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方の攻撃を18%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方の攻撃を18%上昇する",
+            "id": 12801002,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 3
+        },
+        "card_id": 12801002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の弱化耐性を20%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の弱化耐性を20%上昇する",
+            "id": 10501002,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 0
+        },
+        "card_id": 10501002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方の防御を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方の防御を35%上昇する",
+            "id": 12801001,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 0
+        },
+        "card_id": 12801001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "赤属性の味方の攻撃を25%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "赤属性の味方の攻撃を25%上昇する",
+            "id": 10201003,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 1
+        },
+        "card_id": 10201003
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方の攻撃を25%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方の攻撃を25%上昇する",
+            "id": 12101001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 3
+        },
+        "card_id": 12101001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方の攻撃を35%上昇する",
+            "id": 10201001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 3
+        },
+        "card_id": 10201001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の弱化耐性を40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の弱化耐性を40%上昇する",
+            "id": 12101002,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 0
+        },
+        "card_id": 12101002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方のHPを35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方のHPを35%上昇する",
+            "id": 11503001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 11503001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 2,
+            "skill_description": "エミリア陣営の味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "エミリア陣営の味方の攻撃を35%上昇する",
+            "id": 10404001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 10404001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方のHPを40%上昇する",
+            "id": 11105001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 3
+        },
+        "card_id": 11105001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の攻撃を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の攻撃を30%上昇する",
+            "id": 11201002,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 11201002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方の防御を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方の防御を35%上昇する",
+            "id": 10103001,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 3
+        },
+        "card_id": 10103001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の攻撃を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の攻撃を30%上昇する",
+            "id": 11201001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 11201001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方の防御を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方の防御を35%上昇する",
+            "id": 11702001,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 3
+        },
+        "card_id": 11702001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 2,
+            "skill_description": "クルシュ陣営の味方のクリティカル率を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "クルシュ陣営の味方のクリティカル率を35%上昇する",
+            "id": 12203001,
+            "skill_icon": "ic_skill_critical",
+            "target_element": 0
+        },
+        "card_id": 12203001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方の攻撃を35%上昇する",
+            "id": 12502002,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 12502002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方のクリティカル率を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方のクリティカル率を30%上昇する",
+            "id": 12901001,
+            "skill_icon": "ic_skill_critical",
+            "target_element": 0
+        },
+        "card_id": 12901001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方のHPを35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方のHPを35%上昇する",
+            "id": 10402001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 10402001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方の攻撃を25%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方の攻撃を25%上昇する",
+            "id": 12901003,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 2
+        },
+        "card_id": 12901003
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方のHPを40%上昇する",
+            "id": 10104001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 3
+        },
+        "card_id": 10104001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方の弱化耐性を50%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方の弱化耐性を50%上昇する",
+            "id": 12204001,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 3
+        },
+        "card_id": 12204001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方の攻撃を35%上昇する",
+            "id": 12001001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 12001001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "赤属性の味方の防御を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "赤属性の味方の防御を35%上昇する",
+            "id": 13103001,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 1
+        },
+        "card_id": 13103001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "赤属性の味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "赤属性の味方のHPを40%上昇する",
+            "id": 11501001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 1
+        },
+        "card_id": 11501001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方の弱化耐性を50%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方の弱化耐性を50%上昇する",
+            "id": 12002001,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 0
+        },
+        "card_id": 12002001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方の弱化耐性を50%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方の弱化耐性を50%上昇する",
+            "id": 12503001,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 3
+        },
+        "card_id": 12503001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の弱化成功力を20%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の弱化成功力を20%上昇する",
+            "id": 10701002,
+            "skill_icon": "ic_skill_weak_hit",
+            "target_element": 0
+        },
+        "card_id": 10701002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の弱化成功力を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の弱化成功力を30%上昇する",
+            "id": 12601001,
+            "skill_icon": "ic_skill_weak_hit",
+            "target_element": 0
+        },
+        "card_id": 12601001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "赤属性の味方のHPを30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "赤属性の味方のHPを30%上昇する",
+            "id": 10701001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 1
+        },
+        "card_id": 10701001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方のHPを25%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方のHPを25%上昇する",
+            "id": 12601002,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 12601002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方の弱化成功力を50%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方の弱化成功力を50%上昇する",
+            "id": 10102001,
+            "skill_icon": "ic_skill_weak_hit",
+            "target_element": 0
+        },
+        "card_id": 10102001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "クエストバトルで味方の攻撃を18%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 2,
+            "skill_name": "クエストバトルで味方の攻撃を18%上昇する",
+            "id": 12301002,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 12301002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方の攻撃を35%上昇する",
+            "id": 14201001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 2
+        },
+        "card_id": 14201001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "クエストバトルで味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 2,
+            "skill_name": "クエストバトルで味方の攻撃を35%上昇する",
+            "id": 12301001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 12301001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の防御を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の防御を30%上昇する",
+            "id": 10401002,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 0
+        },
+        "card_id": 10401002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方のHPを20%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方のHPを20%上昇する",
+            "id": 10401003,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 10401003
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "赤属性の味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "赤属性の味方のHPを40%上昇する",
+            "id": 13102001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 1
+        },
+        "card_id": 13102001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 2,
+            "skill_description": "エミリア陣営の味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "エミリア陣営の味方の攻撃を35%上昇する",
+            "id": 10401001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 10401001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "赤属性の味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "赤属性の味方の攻撃を35%上昇する",
+            "id": 11106001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 1
+        },
+        "card_id": 11106001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方の攻撃を35%上昇する",
+            "id": 10111001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 2
+        },
+        "card_id": 10111001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 2,
+            "skill_description": "エミリア陣営の味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "エミリア陣営の味方のHPを40%上昇する",
+            "id": 10303001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 10303001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "クエストバトルで味方の攻撃を25%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 2,
+            "skill_name": "クエストバトルで味方の攻撃を25%上昇する",
+            "id": 11401001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 11401001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "赤属性の味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "赤属性の味方のHPを40%上昇する",
+            "id": 11305001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 1
+        },
+        "card_id": 11305001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方のHPを23%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方のHPを23%上昇する",
+            "id": 11401002,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 2
+        },
+        "card_id": 11401002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方のHPを30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方のHPを30%上昇する",
+            "id": 10601001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 3
+        },
+        "card_id": 10601001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "クエストバトルで味方の防御を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 2,
+            "skill_name": "クエストバトルで味方の防御を35%上昇する",
+            "id": 11603001,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 0
+        },
+        "card_id": 11603001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方の弱化耐性を50%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方の弱化耐性を50%上昇する",
+            "id": 12701001,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 0
+        },
+        "card_id": 12701001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "クエストバトルで味方の攻撃を18%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 2,
+            "skill_name": "クエストバトルで味方の攻撃を18%上昇する",
+            "id": 12701003,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 12701003
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "赤属性の味方の攻撃を18%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "赤属性の味方の攻撃を18%上昇する",
+            "id": 10601002,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 1
+        },
+        "card_id": 10601002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 2,
+            "skill_description": "エミリア陣営の味方の攻撃を25%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "エミリア陣営の味方の攻撃を25%上昇する",
+            "id": 10101002,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 10101002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方の弱化耐性を50%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方の弱化耐性を50%上昇する",
+            "id": 11604001,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 2
+        },
+        "card_id": 11604001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の弱化耐性を40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の弱化耐性を40%上昇する",
+            "id": 12201002,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 0
+        },
+        "card_id": 12201002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 2,
+            "skill_name": "アリーナバトルで味方のHPを40%上昇する",
+            "id": 10101003,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 10101003
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "クエストバトルで味方の防御を18%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 2,
+            "skill_name": "クエストバトルで味方の防御を18%上昇する",
+            "id": 12201003,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 0
+        },
+        "card_id": 12201003
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方のHPを35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方のHPを35%上昇する",
+            "id": 10101001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 10101001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方の弱化成功力を50%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方の弱化成功力を50%上昇する",
+            "id": 11102001,
+            "skill_icon": "ic_skill_weak_hit",
+            "target_element": 3
+        },
+        "card_id": 11102001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方の攻撃を35%上昇する",
+            "id": 10304001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 10304001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方のHPを40%上昇する",
+            "id": 10803001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 2
+        },
+        "card_id": 10803001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 2,
+            "skill_description": "エミリア陣営の味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "エミリア陣営の味方の攻撃を35%上昇する",
+            "id": 11104001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 11104001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の防御を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の防御を30%上昇する",
+            "id": 10110001,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 0
+        },
+        "card_id": 10110001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の弱化成功力を40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の弱化成功力を40%上昇する",
+            "id": 12202001,
+            "skill_icon": "ic_skill_weak_hit",
+            "target_element": 0
+        },
+        "card_id": 12202001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の攻撃を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の攻撃を30%上昇する",
+            "id": 10302001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 10302001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の防御を15%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の防御を15%上昇する",
+            "id": 10901002,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 0
+        },
+        "card_id": 10901002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の防御を20%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の防御を20%上昇する",
+            "id": 10901001,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 0
+        },
+        "card_id": 10901001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方の弱化耐性を50%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方の弱化耐性を50%上昇する",
+            "id": 15101001,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 2
+        },
+        "card_id": 15101001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の弱化耐性を40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の弱化耐性を40%上昇する",
+            "id": 11103001,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 0
+        },
+        "card_id": 11103001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方のクリティカル率を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方のクリティカル率を35%上昇する",
+            "id": 12902001,
+            "skill_icon": "ic_skill_critical",
+            "target_element": 2
+        },
+        "card_id": 12902001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方の攻撃を35%上昇する",
+            "id": 12501001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 12501001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方の攻撃を18%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方の攻撃を18%上昇する",
+            "id": 11701002,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 2
+        },
+        "card_id": 11701002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "赤属性の味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "赤属性の味方の攻撃を35%上昇する",
+            "id": 11701001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 1
+        },
+        "card_id": 11701001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方のHPを35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方のHPを35%上昇する",
+            "id": 10407001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 10407001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の攻撃を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の攻撃を30%上昇する",
+            "id": 10002001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 10002001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の攻撃を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の攻撃を30%上昇する",
+            "id": 12102001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 12102001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の防御を40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の防御を40%上昇する",
+            "id": 19201001,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 0
+        },
+        "card_id": 19201001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方のHPを35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方のHPを35%上昇する",
+            "id": 10801002,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 10801002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "黄属性の味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "黄属性の味方のHPを40%上昇する",
+            "id": 10109001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 4
+        },
+        "card_id": 10109001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の攻撃を15%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の攻撃を15%上昇する",
+            "id": 10301001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 10301001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "クエストバトルで味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 2,
+            "skill_name": "クエストバトルで味方の攻撃を35%上昇する",
+            "id": 12401001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 12401001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方のHPを40%上昇する",
+            "id": 11601001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 2
+        },
+        "card_id": 11601001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の防御を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の防御を30%上昇する",
+            "id": 12703001,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 0
+        },
+        "card_id": 12703001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方の防御を18%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方の防御を18%上昇する",
+            "id": 11601002,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 0
+        },
+        "card_id": 11601002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 2,
+            "skill_description": "エミリア陣営の味方の弱化成功力を50%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "エミリア陣営の味方の弱化成功力を50%上昇する",
+            "id": 11302001,
+            "skill_icon": "ic_skill_weak_hit",
+            "target_element": 0
+        },
+        "card_id": 11302001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の攻撃を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の攻撃を30%上昇する",
+            "id": 14101001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 0
+        },
+        "card_id": 14101001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方のHPを25%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方のHPを25%上昇する",
+            "id": 11101001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 11101001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方の防御を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方の防御を35%上昇する",
+            "id": 11602001,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 3
+        },
+        "card_id": 11602001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 2,
+            "skill_description": "フェルト陣営の味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "フェルト陣営の味方のHPを40%上昇する",
+            "id": 10203001,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 10203001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方のHPを40%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方のHPを40%上昇する",
+            "id": 11101002,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 0
+        },
+        "card_id": 11101002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "赤属性の味方の防御を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "赤属性の味方の防御を35%上昇する",
+            "id": 15701001,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 1
+        },
+        "card_id": 15701001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方の弱化成功力を25%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方の弱化成功力を25%上昇する",
+            "id": 13001002,
+            "skill_icon": "ic_skill_weak_hit",
+            "target_element": 0
+        },
+        "card_id": 13001002
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の防御を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の防御を30%上昇する",
+            "id": 10406001,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 0
+        },
+        "card_id": 10406001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の弱化耐性を30%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の弱化耐性を30%上昇する",
+            "id": 13001001,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 0
+        },
+        "card_id": 13001001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方の防御を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方の防御を35%上昇する",
+            "id": 10001001,
+            "skill_icon": "ic_skill_defense",
+            "target_element": 2
+        },
+        "card_id": 10001001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "味方の素早さを10%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "味方の素早さを10%上昇する",
+            "id": 18401001,
+            "skill_icon": "ic_skill_speed",
+            "target_element": 0
+        },
+        "card_id": 18401001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 0,
+            "skill_description": "アリーナバトルで味方の弱化耐性を50%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 3,
+            "skill_name": "アリーナバトルで味方の弱化耐性を50%上昇する",
+            "id": 11303001,
+            "skill_icon": "ic_skill_weak_resistance",
+            "target_element": 0
+        },
+        "card_id": 11303001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "青属性の味方の攻撃を35%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "青属性の味方の攻撃を35%上昇する",
+            "id": 11901001,
+            "skill_icon": "ic_skill_attack",
+            "target_element": 2
+        },
+        "card_id": 11901001
+    },
+    {
+        "leader_skill": {
+            "skill_target": 1,
+            "skill_description": "緑属性の味方のHPを23%上昇する",
+            "target_group_id": 0,
+            "target_battle_type": 0,
+            "skill_name": "緑属性の味方のHPを23%上昇する",
+            "id": 11901002,
+            "skill_icon": "ic_skill_hp",
+            "target_element": 3
+        },
+        "card_id": 11901002
+    }
+]

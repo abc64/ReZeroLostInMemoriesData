@@ -1,0 +1,467 @@
+[
+    {
+        "parameter_type": 0,
+        "rank_list": [
+            {
+                "rank": 7,
+                "need_exp": 0,
+                "need_total_exp": 0
+            },
+            {
+                "rank": 8,
+                "need_exp": 2000,
+                "need_total_exp": 2000
+            },
+            {
+                "rank": 9,
+                "need_exp": 2100,
+                "need_total_exp": 4100
+            },
+            {
+                "rank": 10,
+                "need_exp": 2200,
+                "need_total_exp": 6300
+            }
+        ]
+    },
+    {
+        "parameter_type": 1,
+        "rank_list": [
+            {
+                "rank": 1,
+                "need_exp": 0,
+                "need_total_exp": 0
+            },
+            {
+                "rank": 2,
+                "need_exp": 43,
+                "need_total_exp": 43
+            },
+            {
+                "rank": 3,
+                "need_exp": 67,
+                "need_total_exp": 110
+            },
+            {
+                "rank": 4,
+                "need_exp": 101,
+                "need_total_exp": 211
+            },
+            {
+                "rank": 5,
+                "need_exp": 150,
+                "need_total_exp": 361
+            },
+            {
+                "rank": 6,
+                "need_exp": 224,
+                "need_total_exp": 585
+            },
+            {
+                "rank": 7,
+                "need_exp": 338,
+                "need_total_exp": 923
+            },
+            {
+                "rank": 8,
+                "need_exp": 515,
+                "need_total_exp": 1438
+            },
+            {
+                "rank": 9,
+                "need_exp": 793,
+                "need_total_exp": 2231
+            },
+            {
+                "rank": 10,
+                "need_exp": 1233,
+                "need_total_exp": 3464
+            }
+        ]
+    },
+    {
+        "parameter_type": 2,
+        "rank_list": [
+            {
+                "rank": 1,
+                "need_exp": 0,
+                "need_total_exp": 0
+            },
+            {
+                "rank": 2,
+                "need_exp": 43,
+                "need_total_exp": 43
+            },
+            {
+                "rank": 3,
+                "need_exp": 67,
+                "need_total_exp": 110
+            },
+            {
+                "rank": 4,
+                "need_exp": 101,
+                "need_total_exp": 211
+            },
+            {
+                "rank": 5,
+                "need_exp": 150,
+                "need_total_exp": 361
+            },
+            {
+                "rank": 6,
+                "need_exp": 224,
+                "need_total_exp": 585
+            },
+            {
+                "rank": 7,
+                "need_exp": 338,
+                "need_total_exp": 923
+            },
+            {
+                "rank": 8,
+                "need_exp": 515,
+                "need_total_exp": 1438
+            },
+            {
+                "rank": 9,
+                "need_exp": 793,
+                "need_total_exp": 2231
+            },
+            {
+                "rank": 10,
+                "need_exp": 1233,
+                "need_total_exp": 3464
+            }
+        ]
+    },
+    {
+        "parameter_type": 3,
+        "rank_list": [
+            {
+                "rank": 1,
+                "need_exp": 0,
+                "need_total_exp": 0
+            },
+            {
+                "rank": 2,
+                "need_exp": 43,
+                "need_total_exp": 43
+            },
+            {
+                "rank": 3,
+                "need_exp": 67,
+                "need_total_exp": 110
+            },
+            {
+                "rank": 4,
+                "need_exp": 101,
+                "need_total_exp": 211
+            },
+            {
+                "rank": 5,
+                "need_exp": 150,
+                "need_total_exp": 361
+            },
+            {
+                "rank": 6,
+                "need_exp": 224,
+                "need_total_exp": 585
+            },
+            {
+                "rank": 7,
+                "need_exp": 338,
+                "need_total_exp": 923
+            },
+            {
+                "rank": 8,
+                "need_exp": 515,
+                "need_total_exp": 1438
+            },
+            {
+                "rank": 9,
+                "need_exp": 793,
+                "need_total_exp": 2231
+            },
+            {
+                "rank": 10,
+                "need_exp": 1233,
+                "need_total_exp": 3464
+            }
+        ]
+    },
+    {
+        "parameter_type": 4,
+        "rank_list": [
+            {
+                "rank": 1,
+                "need_exp": 0,
+                "need_total_exp": 0
+            },
+            {
+                "rank": 2,
+                "need_exp": 108,
+                "need_total_exp": 108
+            },
+            {
+                "rank": 3,
+                "need_exp": 159,
+                "need_total_exp": 267
+            },
+            {
+                "rank": 4,
+                "need_exp": 210,
+                "need_total_exp": 477
+            },
+            {
+                "rank": 5,
+                "need_exp": 261,
+                "need_total_exp": 738
+            },
+            {
+                "rank": 6,
+                "need_exp": 313,
+                "need_total_exp": 1051
+            },
+            {
+                "rank": 7,
+                "need_exp": 364,
+                "need_total_exp": 1415
+            },
+            {
+                "rank": 8,
+                "need_exp": 416,
+                "need_total_exp": 1831
+            },
+            {
+                "rank": 9,
+                "need_exp": 468,
+                "need_total_exp": 2299
+            },
+            {
+                "rank": 10,
+                "need_exp": 520,
+                "need_total_exp": 2819
+            }
+        ]
+    },
+    {
+        "parameter_type": 5,
+        "rank_list": [
+            {
+                "rank": 1,
+                "need_exp": 0,
+                "need_total_exp": 0
+            },
+            {
+                "rank": 2,
+                "need_exp": 43,
+                "need_total_exp": 43
+            },
+            {
+                "rank": 3,
+                "need_exp": 67,
+                "need_total_exp": 110
+            },
+            {
+                "rank": 4,
+                "need_exp": 101,
+                "need_total_exp": 211
+            },
+            {
+                "rank": 5,
+                "need_exp": 150,
+                "need_total_exp": 361
+            },
+            {
+                "rank": 6,
+                "need_exp": 224,
+                "need_total_exp": 585
+            },
+            {
+                "rank": 7,
+                "need_exp": 338,
+                "need_total_exp": 923
+            },
+            {
+                "rank": 8,
+                "need_exp": 515,
+                "need_total_exp": 1438
+            },
+            {
+                "rank": 9,
+                "need_exp": 793,
+                "need_total_exp": 2231
+            },
+            {
+                "rank": 10,
+                "need_exp": 1233,
+                "need_total_exp": 3464
+            }
+        ]
+    },
+    {
+        "parameter_type": 6,
+        "rank_list": [
+            {
+                "rank": 1,
+                "need_exp": 0,
+                "need_total_exp": 0
+            },
+            {
+                "rank": 2,
+                "need_exp": 43,
+                "need_total_exp": 43
+            },
+            {
+                "rank": 3,
+                "need_exp": 67,
+                "need_total_exp": 110
+            },
+            {
+                "rank": 4,
+                "need_exp": 101,
+                "need_total_exp": 211
+            },
+            {
+                "rank": 5,
+                "need_exp": 150,
+                "need_total_exp": 361
+            },
+            {
+                "rank": 6,
+                "need_exp": 224,
+                "need_total_exp": 585
+            },
+            {
+                "rank": 7,
+                "need_exp": 338,
+                "need_total_exp": 923
+            },
+            {
+                "rank": 8,
+                "need_exp": 515,
+                "need_total_exp": 1438
+            },
+            {
+                "rank": 9,
+                "need_exp": 793,
+                "need_total_exp": 2231
+            },
+            {
+                "rank": 10,
+                "need_exp": 1233,
+                "need_total_exp": 3464
+            }
+        ]
+    },
+    {
+        "parameter_type": 7,
+        "rank_list": [
+            {
+                "rank": 1,
+                "need_exp": 0,
+                "need_total_exp": 0
+            },
+            {
+                "rank": 2,
+                "need_exp": 43,
+                "need_total_exp": 43
+            },
+            {
+                "rank": 3,
+                "need_exp": 67,
+                "need_total_exp": 110
+            },
+            {
+                "rank": 4,
+                "need_exp": 101,
+                "need_total_exp": 211
+            },
+            {
+                "rank": 5,
+                "need_exp": 150,
+                "need_total_exp": 361
+            },
+            {
+                "rank": 6,
+                "need_exp": 224,
+                "need_total_exp": 585
+            },
+            {
+                "rank": 7,
+                "need_exp": 338,
+                "need_total_exp": 923
+            },
+            {
+                "rank": 8,
+                "need_exp": 515,
+                "need_total_exp": 1438
+            },
+            {
+                "rank": 9,
+                "need_exp": 793,
+                "need_total_exp": 2231
+            },
+            {
+                "rank": 10,
+                "need_exp": 1233,
+                "need_total_exp": 3464
+            }
+        ]
+    },
+    {
+        "parameter_type": 8,
+        "rank_list": [
+            {
+                "rank": 1,
+                "need_exp": 0,
+                "need_total_exp": 0
+            },
+            {
+                "rank": 2,
+                "need_exp": 43,
+                "need_total_exp": 43
+            },
+            {
+                "rank": 3,
+                "need_exp": 67,
+                "need_total_exp": 110
+            },
+            {
+                "rank": 4,
+                "need_exp": 101,
+                "need_total_exp": 211
+            },
+            {
+                "rank": 5,
+                "need_exp": 150,
+                "need_total_exp": 361
+            },
+            {
+                "rank": 6,
+                "need_exp": 224,
+                "need_total_exp": 585
+            },
+            {
+                "rank": 7,
+                "need_exp": 338,
+                "need_total_exp": 923
+            },
+            {
+                "rank": 8,
+                "need_exp": 515,
+                "need_total_exp": 1438
+            },
+            {
+                "rank": 9,
+                "need_exp": 793,
+                "need_total_exp": 2231
+            },
+            {
+                "rank": 10,
+                "need_exp": 1233,
+                "need_total_exp": 3464
+            }
+        ]
+    }
+]

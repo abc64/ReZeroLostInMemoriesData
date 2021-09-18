@@ -1,0 +1,902 @@
+[
+    {
+        "max_stamina": 100,
+        "rank": 1,
+        "need_exp": 50,
+        "need_total_exp": 0
+    },
+    {
+        "max_stamina": 100,
+        "rank": 2,
+        "need_exp": 500,
+        "need_total_exp": 50
+    },
+    {
+        "max_stamina": 100,
+        "rank": 3,
+        "need_exp": 750,
+        "need_total_exp": 550
+    },
+    {
+        "max_stamina": 101,
+        "rank": 4,
+        "need_exp": 1000,
+        "need_total_exp": 1300
+    },
+    {
+        "max_stamina": 101,
+        "rank": 5,
+        "need_exp": 1600,
+        "need_total_exp": 2300
+    },
+    {
+        "max_stamina": 101,
+        "rank": 6,
+        "need_exp": 1760,
+        "need_total_exp": 3900
+    },
+    {
+        "max_stamina": 101,
+        "rank": 7,
+        "need_exp": 1936,
+        "need_total_exp": 5660
+    },
+    {
+        "max_stamina": 102,
+        "rank": 8,
+        "need_exp": 2130,
+        "need_total_exp": 7596
+    },
+    {
+        "max_stamina": 102,
+        "rank": 9,
+        "need_exp": 2342,
+        "need_total_exp": 9726
+    },
+    {
+        "max_stamina": 102,
+        "rank": 10,
+        "need_exp": 2413,
+        "need_total_exp": 12068
+    },
+    {
+        "max_stamina": 102,
+        "rank": 11,
+        "need_exp": 2485,
+        "need_total_exp": 14481
+    },
+    {
+        "max_stamina": 103,
+        "rank": 12,
+        "need_exp": 2560,
+        "need_total_exp": 16966
+    },
+    {
+        "max_stamina": 103,
+        "rank": 13,
+        "need_exp": 2637,
+        "need_total_exp": 19526
+    },
+    {
+        "max_stamina": 103,
+        "rank": 14,
+        "need_exp": 2715,
+        "need_total_exp": 22163
+    },
+    {
+        "max_stamina": 103,
+        "rank": 15,
+        "need_exp": 2797,
+        "need_total_exp": 24878
+    },
+    {
+        "max_stamina": 104,
+        "rank": 16,
+        "need_exp": 2881,
+        "need_total_exp": 27675
+    },
+    {
+        "max_stamina": 104,
+        "rank": 17,
+        "need_exp": 2968,
+        "need_total_exp": 30556
+    },
+    {
+        "max_stamina": 104,
+        "rank": 18,
+        "need_exp": 3056,
+        "need_total_exp": 33524
+    },
+    {
+        "max_stamina": 104,
+        "rank": 19,
+        "need_exp": 3149,
+        "need_total_exp": 36580
+    },
+    {
+        "max_stamina": 105,
+        "rank": 20,
+        "need_exp": 3242,
+        "need_total_exp": 39729
+    },
+    {
+        "max_stamina": 105,
+        "rank": 21,
+        "need_exp": 3340,
+        "need_total_exp": 42971
+    },
+    {
+        "max_stamina": 105,
+        "rank": 22,
+        "need_exp": 3440,
+        "need_total_exp": 46311
+    },
+    {
+        "max_stamina": 105,
+        "rank": 23,
+        "need_exp": 3544,
+        "need_total_exp": 49751
+    },
+    {
+        "max_stamina": 106,
+        "rank": 24,
+        "need_exp": 3649,
+        "need_total_exp": 53295
+    },
+    {
+        "max_stamina": 106,
+        "rank": 25,
+        "need_exp": 3759,
+        "need_total_exp": 56944
+    },
+    {
+        "max_stamina": 106,
+        "rank": 26,
+        "need_exp": 3872,
+        "need_total_exp": 60703
+    },
+    {
+        "max_stamina": 106,
+        "rank": 27,
+        "need_exp": 3988,
+        "need_total_exp": 64575
+    },
+    {
+        "max_stamina": 107,
+        "rank": 28,
+        "need_exp": 4108,
+        "need_total_exp": 68563
+    },
+    {
+        "max_stamina": 107,
+        "rank": 29,
+        "need_exp": 4231,
+        "need_total_exp": 72671
+    },
+    {
+        "max_stamina": 107,
+        "rank": 30,
+        "need_exp": 4358,
+        "need_total_exp": 76902
+    },
+    {
+        "max_stamina": 107,
+        "rank": 31,
+        "need_exp": 4488,
+        "need_total_exp": 81260
+    },
+    {
+        "max_stamina": 108,
+        "rank": 32,
+        "need_exp": 4624,
+        "need_total_exp": 85748
+    },
+    {
+        "max_stamina": 108,
+        "rank": 33,
+        "need_exp": 4762,
+        "need_total_exp": 90372
+    },
+    {
+        "max_stamina": 108,
+        "rank": 34,
+        "need_exp": 4904,
+        "need_total_exp": 95134
+    },
+    {
+        "max_stamina": 108,
+        "rank": 35,
+        "need_exp": 5052,
+        "need_total_exp": 100038
+    },
+    {
+        "max_stamina": 109,
+        "rank": 36,
+        "need_exp": 5204,
+        "need_total_exp": 105090
+    },
+    {
+        "max_stamina": 109,
+        "rank": 37,
+        "need_exp": 5359,
+        "need_total_exp": 110294
+    },
+    {
+        "max_stamina": 109,
+        "rank": 38,
+        "need_exp": 5521,
+        "need_total_exp": 115653
+    },
+    {
+        "max_stamina": 109,
+        "rank": 39,
+        "need_exp": 5686,
+        "need_total_exp": 121174
+    },
+    {
+        "max_stamina": 110,
+        "rank": 40,
+        "need_exp": 5970,
+        "need_total_exp": 126860
+    },
+    {
+        "max_stamina": 110,
+        "rank": 41,
+        "need_exp": 6269,
+        "need_total_exp": 132830
+    },
+    {
+        "max_stamina": 110,
+        "rank": 42,
+        "need_exp": 6582,
+        "need_total_exp": 139099
+    },
+    {
+        "max_stamina": 110,
+        "rank": 43,
+        "need_exp": 6912,
+        "need_total_exp": 145681
+    },
+    {
+        "max_stamina": 111,
+        "rank": 44,
+        "need_exp": 7257,
+        "need_total_exp": 152593
+    },
+    {
+        "max_stamina": 111,
+        "rank": 45,
+        "need_exp": 7619,
+        "need_total_exp": 159850
+    },
+    {
+        "max_stamina": 111,
+        "rank": 46,
+        "need_exp": 8001,
+        "need_total_exp": 167469
+    },
+    {
+        "max_stamina": 111,
+        "rank": 47,
+        "need_exp": 8401,
+        "need_total_exp": 175470
+    },
+    {
+        "max_stamina": 112,
+        "rank": 48,
+        "need_exp": 8821,
+        "need_total_exp": 183871
+    },
+    {
+        "max_stamina": 112,
+        "rank": 49,
+        "need_exp": 9262,
+        "need_total_exp": 192692
+    },
+    {
+        "max_stamina": 112,
+        "rank": 50,
+        "need_exp": 9725,
+        "need_total_exp": 201954
+    },
+    {
+        "max_stamina": 112,
+        "rank": 51,
+        "need_exp": 10211,
+        "need_total_exp": 211679
+    },
+    {
+        "max_stamina": 113,
+        "rank": 52,
+        "need_exp": 10722,
+        "need_total_exp": 221890
+    },
+    {
+        "max_stamina": 113,
+        "rank": 53,
+        "need_exp": 11258,
+        "need_total_exp": 232612
+    },
+    {
+        "max_stamina": 113,
+        "rank": 54,
+        "need_exp": 11821,
+        "need_total_exp": 243870
+    },
+    {
+        "max_stamina": 113,
+        "rank": 55,
+        "need_exp": 12411,
+        "need_total_exp": 255691
+    },
+    {
+        "max_stamina": 114,
+        "rank": 56,
+        "need_exp": 13033,
+        "need_total_exp": 268102
+    },
+    {
+        "max_stamina": 114,
+        "rank": 57,
+        "need_exp": 13684,
+        "need_total_exp": 281135
+    },
+    {
+        "max_stamina": 114,
+        "rank": 58,
+        "need_exp": 14368,
+        "need_total_exp": 294819
+    },
+    {
+        "max_stamina": 114,
+        "rank": 59,
+        "need_exp": 15087,
+        "need_total_exp": 309187
+    },
+    {
+        "max_stamina": 115,
+        "rank": 60,
+        "need_exp": 15841,
+        "need_total_exp": 324274
+    },
+    {
+        "max_stamina": 115,
+        "rank": 61,
+        "need_exp": 16633,
+        "need_total_exp": 340115
+    },
+    {
+        "max_stamina": 115,
+        "rank": 62,
+        "need_exp": 17465,
+        "need_total_exp": 356748
+    },
+    {
+        "max_stamina": 115,
+        "rank": 63,
+        "need_exp": 18338,
+        "need_total_exp": 374213
+    },
+    {
+        "max_stamina": 116,
+        "rank": 64,
+        "need_exp": 19254,
+        "need_total_exp": 392551
+    },
+    {
+        "max_stamina": 116,
+        "rank": 65,
+        "need_exp": 20218,
+        "need_total_exp": 411805
+    },
+    {
+        "max_stamina": 116,
+        "rank": 66,
+        "need_exp": 21228,
+        "need_total_exp": 432023
+    },
+    {
+        "max_stamina": 116,
+        "rank": 67,
+        "need_exp": 22290,
+        "need_total_exp": 453251
+    },
+    {
+        "max_stamina": 117,
+        "rank": 68,
+        "need_exp": 23405,
+        "need_total_exp": 475541
+    },
+    {
+        "max_stamina": 117,
+        "rank": 69,
+        "need_exp": 24574,
+        "need_total_exp": 498946
+    },
+    {
+        "max_stamina": 117,
+        "rank": 70,
+        "need_exp": 25804,
+        "need_total_exp": 523520
+    },
+    {
+        "max_stamina": 117,
+        "rank": 71,
+        "need_exp": 27093,
+        "need_total_exp": 549324
+    },
+    {
+        "max_stamina": 118,
+        "rank": 72,
+        "need_exp": 28448,
+        "need_total_exp": 576417
+    },
+    {
+        "max_stamina": 118,
+        "rank": 73,
+        "need_exp": 29871,
+        "need_total_exp": 604865
+    },
+    {
+        "max_stamina": 118,
+        "rank": 74,
+        "need_exp": 31364,
+        "need_total_exp": 634736
+    },
+    {
+        "max_stamina": 118,
+        "rank": 75,
+        "need_exp": 32932,
+        "need_total_exp": 666100
+    },
+    {
+        "max_stamina": 119,
+        "rank": 76,
+        "need_exp": 34579,
+        "need_total_exp": 699032
+    },
+    {
+        "max_stamina": 119,
+        "rank": 77,
+        "need_exp": 36308,
+        "need_total_exp": 733611
+    },
+    {
+        "max_stamina": 119,
+        "rank": 78,
+        "need_exp": 38123,
+        "need_total_exp": 769919
+    },
+    {
+        "max_stamina": 119,
+        "rank": 79,
+        "need_exp": 40030,
+        "need_total_exp": 808042
+    },
+    {
+        "max_stamina": 120,
+        "rank": 80,
+        "need_exp": 42031,
+        "need_total_exp": 848072
+    },
+    {
+        "max_stamina": 120,
+        "rank": 81,
+        "need_exp": 44132,
+        "need_total_exp": 890103
+    },
+    {
+        "max_stamina": 120,
+        "rank": 82,
+        "need_exp": 46339,
+        "need_total_exp": 934235
+    },
+    {
+        "max_stamina": 120,
+        "rank": 83,
+        "need_exp": 48656,
+        "need_total_exp": 980574
+    },
+    {
+        "max_stamina": 121,
+        "rank": 84,
+        "need_exp": 51089,
+        "need_total_exp": 1029230
+    },
+    {
+        "max_stamina": 121,
+        "rank": 85,
+        "need_exp": 53643,
+        "need_total_exp": 1080319
+    },
+    {
+        "max_stamina": 121,
+        "rank": 86,
+        "need_exp": 56326,
+        "need_total_exp": 1133962
+    },
+    {
+        "max_stamina": 121,
+        "rank": 87,
+        "need_exp": 59141,
+        "need_total_exp": 1190288
+    },
+    {
+        "max_stamina": 122,
+        "rank": 88,
+        "need_exp": 62099,
+        "need_total_exp": 1249429
+    },
+    {
+        "max_stamina": 122,
+        "rank": 89,
+        "need_exp": 65204,
+        "need_total_exp": 1311528
+    },
+    {
+        "max_stamina": 122,
+        "rank": 90,
+        "need_exp": 68464,
+        "need_total_exp": 1376732
+    },
+    {
+        "max_stamina": 122,
+        "rank": 91,
+        "need_exp": 71887,
+        "need_total_exp": 1445196
+    },
+    {
+        "max_stamina": 123,
+        "rank": 92,
+        "need_exp": 75481,
+        "need_total_exp": 1517083
+    },
+    {
+        "max_stamina": 123,
+        "rank": 93,
+        "need_exp": 79256,
+        "need_total_exp": 1592564
+    },
+    {
+        "max_stamina": 123,
+        "rank": 94,
+        "need_exp": 83218,
+        "need_total_exp": 1671820
+    },
+    {
+        "max_stamina": 123,
+        "rank": 95,
+        "need_exp": 87380,
+        "need_total_exp": 1755038
+    },
+    {
+        "max_stamina": 124,
+        "rank": 96,
+        "need_exp": 91748,
+        "need_total_exp": 1842418
+    },
+    {
+        "max_stamina": 124,
+        "rank": 97,
+        "need_exp": 96335,
+        "need_total_exp": 1934166
+    },
+    {
+        "max_stamina": 124,
+        "rank": 98,
+        "need_exp": 101153,
+        "need_total_exp": 2030501
+    },
+    {
+        "max_stamina": 124,
+        "rank": 99,
+        "need_exp": 106210,
+        "need_total_exp": 2131654
+    },
+    {
+        "max_stamina": 125,
+        "rank": 100,
+        "need_exp": 107272,
+        "need_total_exp": 2237864
+    },
+    {
+        "max_stamina": 125,
+        "rank": 101,
+        "need_exp": 108345,
+        "need_total_exp": 2345136
+    },
+    {
+        "max_stamina": 125,
+        "rank": 102,
+        "need_exp": 109428,
+        "need_total_exp": 2453481
+    },
+    {
+        "max_stamina": 125,
+        "rank": 103,
+        "need_exp": 110522,
+        "need_total_exp": 2562909
+    },
+    {
+        "max_stamina": 126,
+        "rank": 104,
+        "need_exp": 111628,
+        "need_total_exp": 2673431
+    },
+    {
+        "max_stamina": 126,
+        "rank": 105,
+        "need_exp": 112744,
+        "need_total_exp": 2785059
+    },
+    {
+        "max_stamina": 126,
+        "rank": 106,
+        "need_exp": 113872,
+        "need_total_exp": 2897803
+    },
+    {
+        "max_stamina": 126,
+        "rank": 107,
+        "need_exp": 115010,
+        "need_total_exp": 3011675
+    },
+    {
+        "max_stamina": 127,
+        "rank": 108,
+        "need_exp": 116160,
+        "need_total_exp": 3126685
+    },
+    {
+        "max_stamina": 127,
+        "rank": 109,
+        "need_exp": 117322,
+        "need_total_exp": 3242845
+    },
+    {
+        "max_stamina": 127,
+        "rank": 110,
+        "need_exp": 118495,
+        "need_total_exp": 3360167
+    },
+    {
+        "max_stamina": 127,
+        "rank": 111,
+        "need_exp": 119680,
+        "need_total_exp": 3478662
+    },
+    {
+        "max_stamina": 128,
+        "rank": 112,
+        "need_exp": 120877,
+        "need_total_exp": 3598342
+    },
+    {
+        "max_stamina": 128,
+        "rank": 113,
+        "need_exp": 122086,
+        "need_total_exp": 3719219
+    },
+    {
+        "max_stamina": 128,
+        "rank": 114,
+        "need_exp": 123306,
+        "need_total_exp": 3841305
+    },
+    {
+        "max_stamina": 128,
+        "rank": 115,
+        "need_exp": 124540,
+        "need_total_exp": 3964611
+    },
+    {
+        "max_stamina": 129,
+        "rank": 116,
+        "need_exp": 125785,
+        "need_total_exp": 4089151
+    },
+    {
+        "max_stamina": 129,
+        "rank": 117,
+        "need_exp": 127043,
+        "need_total_exp": 4214936
+    },
+    {
+        "max_stamina": 129,
+        "rank": 118,
+        "need_exp": 128313,
+        "need_total_exp": 4341979
+    },
+    {
+        "max_stamina": 129,
+        "rank": 119,
+        "need_exp": 129597,
+        "need_total_exp": 4470292
+    },
+    {
+        "max_stamina": 130,
+        "rank": 120,
+        "need_exp": 129596,
+        "need_total_exp": 4599889
+    },
+    {
+        "max_stamina": 130,
+        "rank": 121,
+        "need_exp": 129596,
+        "need_total_exp": 4729485
+    },
+    {
+        "max_stamina": 130,
+        "rank": 122,
+        "need_exp": 129597,
+        "need_total_exp": 4859081
+    },
+    {
+        "max_stamina": 130,
+        "rank": 123,
+        "need_exp": 129596,
+        "need_total_exp": 4988678
+    },
+    {
+        "max_stamina": 131,
+        "rank": 124,
+        "need_exp": 129596,
+        "need_total_exp": 5118274
+    },
+    {
+        "max_stamina": 131,
+        "rank": 125,
+        "need_exp": 129597,
+        "need_total_exp": 5247870
+    },
+    {
+        "max_stamina": 131,
+        "rank": 126,
+        "need_exp": 129596,
+        "need_total_exp": 5377467
+    },
+    {
+        "max_stamina": 131,
+        "rank": 127,
+        "need_exp": 129597,
+        "need_total_exp": 5507063
+    },
+    {
+        "max_stamina": 132,
+        "rank": 128,
+        "need_exp": 129596,
+        "need_total_exp": 5636660
+    },
+    {
+        "max_stamina": 132,
+        "rank": 129,
+        "need_exp": 129596,
+        "need_total_exp": 5766256
+    },
+    {
+        "max_stamina": 132,
+        "rank": 130,
+        "need_exp": 129597,
+        "need_total_exp": 5895852
+    },
+    {
+        "max_stamina": 132,
+        "rank": 131,
+        "need_exp": 129596,
+        "need_total_exp": 6025449
+    },
+    {
+        "max_stamina": 133,
+        "rank": 132,
+        "need_exp": 129596,
+        "need_total_exp": 6155045
+    },
+    {
+        "max_stamina": 133,
+        "rank": 133,
+        "need_exp": 129597,
+        "need_total_exp": 6284641
+    },
+    {
+        "max_stamina": 133,
+        "rank": 134,
+        "need_exp": 129596,
+        "need_total_exp": 6414238
+    },
+    {
+        "max_stamina": 133,
+        "rank": 135,
+        "need_exp": 129597,
+        "need_total_exp": 6543834
+    },
+    {
+        "max_stamina": 134,
+        "rank": 136,
+        "need_exp": 129596,
+        "need_total_exp": 6673431
+    },
+    {
+        "max_stamina": 134,
+        "rank": 137,
+        "need_exp": 129596,
+        "need_total_exp": 6803027
+    },
+    {
+        "max_stamina": 134,
+        "rank": 138,
+        "need_exp": 129597,
+        "need_total_exp": 6932623
+    },
+    {
+        "max_stamina": 134,
+        "rank": 139,
+        "need_exp": 129596,
+        "need_total_exp": 7062220
+    },
+    {
+        "max_stamina": 135,
+        "rank": 140,
+        "need_exp": 129597,
+        "need_total_exp": 7191816
+    },
+    {
+        "max_stamina": 135,
+        "rank": 141,
+        "need_exp": 129596,
+        "need_total_exp": 7321413
+    },
+    {
+        "max_stamina": 135,
+        "rank": 142,
+        "need_exp": 129596,
+        "need_total_exp": 7451009
+    },
+    {
+        "max_stamina": 135,
+        "rank": 143,
+        "need_exp": 129597,
+        "need_total_exp": 7580605
+    },
+    {
+        "max_stamina": 136,
+        "rank": 144,
+        "need_exp": 129596,
+        "need_total_exp": 7710202
+    },
+    {
+        "max_stamina": 136,
+        "rank": 145,
+        "need_exp": 129596,
+        "need_total_exp": 7839798
+    },
+    {
+        "max_stamina": 136,
+        "rank": 146,
+        "need_exp": 129597,
+        "need_total_exp": 7969394
+    },
+    {
+        "max_stamina": 136,
+        "rank": 147,
+        "need_exp": 129596,
+        "need_total_exp": 8098991
+    },
+    {
+        "max_stamina": 137,
+        "rank": 148,
+        "need_exp": 129597,
+        "need_total_exp": 8228587
+    },
+    {
+        "max_stamina": 137,
+        "rank": 149,
+        "need_exp": 129596,
+        "need_total_exp": 8358184
+    },
+    {
+        "max_stamina": 137,
+        "rank": 150,
+        "need_exp": 0,
+        "need_total_exp": 8487780
+    }
+]

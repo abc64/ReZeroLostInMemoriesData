@@ -1,0 +1,62 @@
+[
+    {
+        "defense": 0,
+        "critical_damage": 0,
+        "attack": 0,
+        "limit_break": 1,
+        "hp": 0,
+        "critical_rate": 0,
+        "accuracy": 0,
+        "id": 1,
+        "speed": 0,
+        "resistance": 0
+    },
+    {
+        "defense": 0,
+        "critical_damage": 0,
+        "attack": 0,
+        "limit_break": 2,
+        "hp": 0,
+        "critical_rate": 0,
+        "accuracy": 0,
+        "id": 2,
+        "speed": 0,
+        "resistance": 0
+    },
+    {
+        "defense": 0,
+        "critical_damage": 0,
+        "attack": 0,
+        "limit_break": 3,
+        "hp": 0,
+        "critical_rate": 0,
+        "accuracy": 0,
+        "id": 3,
+        "speed": 0,
+        "resistance": 0
+    },
+    {
+        "defense": 0,
+        "critical_damage": 0,
+        "attack": 0,
+        "limit_break": 4,
+        "hp": 0,
+        "critical_rate": 0,
+        "accuracy": 0,
+        "id": 4,
+        "speed": 0,
+        "resistance": 0
+    },
+    {
+        "defense": 0,
+        "critical_damage": 0,
+        "attack": 0,
+        "limit_break": 5,
+        "hp": 0,
+        "critical_rate": 0,
+        "accuracy": 0,
+        "id": 5,
+        "speed": 0,
+        "resistance": 0
+    }
+]

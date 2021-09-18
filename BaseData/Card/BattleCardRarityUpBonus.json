@@ -1,0 +1,62 @@
+[
+    {
+        "defense": 0,
+        "critical_damage": 0,
+        "attack": 0,
+        "hp": 0,
+        "critical_rate": 0,
+        "accuracy": 0,
+        "id": 1,
+        "speed": 0,
+        "resistance": 0,
+        "rarity": 1
+    },
+    {
+        "defense": 24,
+        "critical_damage": 4,
+        "attack": 30,
+        "hp": 300,
+        "critical_rate": 4,
+        "accuracy": 4,
+        "id": 2,
+        "speed": 0,
+        "resistance": 4,
+        "rarity": 2
+    },
+    {
+        "defense": 56,
+        "critical_damage": 8,
+        "attack": 70,
+        "hp": 700,
+        "critical_rate": 8,
+        "accuracy": 8,
+        "id": 3,
+        "speed": 0,
+        "resistance": 8,
+        "rarity": 3
+    },
+    {
+        "defense": 96,
+        "critical_damage": 12,
+        "attack": 120,
+        "hp": 1200,
+        "critical_rate": 12,
+        "accuracy": 12,
+        "id": 4,
+        "speed": 0,
+        "resistance": 12,
+        "rarity": 4
+    },
+    {
+        "defense": 160,
+        "critical_damage": 20,
+        "attack": 200,
+        "hp": 2000,
+        "critical_rate": 20,
+        "accuracy": 20,
+        "id": 5,
+        "speed": 0,
+        "resistance": 20,
+        "rarity": 5
+    }
+]

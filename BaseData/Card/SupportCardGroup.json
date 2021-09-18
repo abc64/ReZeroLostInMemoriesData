@@ -1,0 +1,4268 @@
+[
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501040451
+            }
+        ],
+        "skill_id": 5010404005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501040441
+            }
+        ],
+        "skill_id": 5010404004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501040411
+            }
+        ],
+        "skill_id": 5010404001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501040431
+            }
+        ],
+        "skill_id": 5010404003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501040421
+            }
+        ],
+        "skill_id": 5010404002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501002151
+            }
+        ],
+        "skill_id": 5010021005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501002141
+            }
+        ],
+        "skill_id": 5010021004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501002131
+            }
+        ],
+        "skill_id": 5010021003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501002121
+            }
+        ],
+        "skill_id": 5010021002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501002111
+            }
+        ],
+        "skill_id": 5010021001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501001951
+            }
+        ],
+        "skill_id": 5010019005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501001941
+            }
+        ],
+        "skill_id": 5010019004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501001931
+            }
+        ],
+        "skill_id": 5010019003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501001921
+            }
+        ],
+        "skill_id": 5010019002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501001911
+            }
+        ],
+        "skill_id": 5010019001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501270541
+            }
+        ],
+        "skill_id": 5012705004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501270551
+            }
+        ],
+        "skill_id": 5012705005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501270521
+            }
+        ],
+        "skill_id": 5012705002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501270531
+            }
+        ],
+        "skill_id": 5012705003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501270511
+            }
+        ],
+        "skill_id": 5012705001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501040141
+            }
+        ],
+        "skill_id": 5010401004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121111
+            }
+        ],
+        "skill_id": 5011211001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121121
+            }
+        ],
+        "skill_id": 5011211002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121131
+            }
+        ],
+        "skill_id": 5011211003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501040111
+            }
+        ],
+        "skill_id": 5010401001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121141
+            }
+        ],
+        "skill_id": 5011211004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121151
+            }
+        ],
+        "skill_id": 5011211005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501040131
+            }
+        ],
+        "skill_id": 5010401003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121161
+            }
+        ],
+        "skill_id": 5011211006
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501040121
+            }
+        ],
+        "skill_id": 5010401002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121171
+            }
+        ],
+        "skill_id": 5011211007
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010211
+            }
+        ],
+        "skill_id": 5010102001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121211
+            }
+        ],
+        "skill_id": 5011212001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010231
+            }
+        ],
+        "skill_id": 5010102003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121221
+            }
+        ],
+        "skill_id": 5011212002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010221
+            }
+        ],
+        "skill_id": 5010102002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121231
+            }
+        ],
+        "skill_id": 5011212003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010251
+            }
+        ],
+        "skill_id": 5010102005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121241
+            }
+        ],
+        "skill_id": 5011212004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010241
+            }
+        ],
+        "skill_id": 5010102004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121251
+            }
+        ],
+        "skill_id": 5011212005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121261
+            }
+        ],
+        "skill_id": 5011212006
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121271
+            }
+        ],
+        "skill_id": 5011212007
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121281
+            }
+        ],
+        "skill_id": 5011212008
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121291
+            }
+        ],
+        "skill_id": 5011212009
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501001751
+            }
+        ],
+        "skill_id": 5010017005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501001741
+            }
+        ],
+        "skill_id": 5010017004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501001731
+            }
+        ],
+        "skill_id": 5010017003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501001721
+            }
+        ],
+        "skill_id": 5010017002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501001711
+            }
+        ],
+        "skill_id": 5010017001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501040941
+            }
+        ],
+        "skill_id": 5010409004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501160341
+            }
+        ],
+        "skill_id": 5011603004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501040911
+            }
+        ],
+        "skill_id": 5010409001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501160331
+            }
+        ],
+        "skill_id": 5011603003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501160321
+            }
+        ],
+        "skill_id": 5011603002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501040931
+            }
+        ],
+        "skill_id": 5010409003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501160311
+            }
+        ],
+        "skill_id": 5011603001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501040921
+            }
+        ],
+        "skill_id": 5010409002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501011211
+            }
+        ],
+        "skill_id": 5010112001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501510151
+            }
+        ],
+        "skill_id": 5015101005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501510141
+            }
+        ],
+        "skill_id": 5015101004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501011231
+            }
+        ],
+        "skill_id": 5010112003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501011221
+            }
+        ],
+        "skill_id": 5010112002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501011251
+            }
+        ],
+        "skill_id": 5010112005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501510111
+            }
+        ],
+        "skill_id": 5015101001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501011241
+            }
+        ],
+        "skill_id": 5010112004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501510131
+            }
+        ],
+        "skill_id": 5015101003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501510121
+            }
+        ],
+        "skill_id": 5015101002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501100841
+            }
+        ],
+        "skill_id": 5011008004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501100851
+            }
+        ],
+        "skill_id": 5011008005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501100811
+            }
+        ],
+        "skill_id": 5011008001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501100821
+            }
+        ],
+        "skill_id": 5011008002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501100831
+            }
+        ],
+        "skill_id": 5011008003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501041051
+            }
+        ],
+        "skill_id": 5010410005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501100741
+            }
+        ],
+        "skill_id": 5011007004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501041041
+            }
+        ],
+        "skill_id": 5010410004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501100751
+            }
+        ],
+        "skill_id": 5011007005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501002551
+            }
+        ],
+        "skill_id": 5010025005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501002541
+            }
+        ],
+        "skill_id": 5010025004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501002531
+            }
+        ],
+        "skill_id": 5010025003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501041011
+            }
+        ],
+        "skill_id": 5010410001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501002521
+            }
+        ],
+        "skill_id": 5010025002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501100711
+            }
+        ],
+        "skill_id": 5011007001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501002511
+            }
+        ],
+        "skill_id": 5010025001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501041031
+            }
+        ],
+        "skill_id": 5010410003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501100721
+            }
+        ],
+        "skill_id": 5011007002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501041021
+            }
+        ],
+        "skill_id": 5010410002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501100731
+            }
+        ],
+        "skill_id": 5011007003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501011111
+            }
+        ],
+        "skill_id": 5010111001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501011131
+            }
+        ],
+        "skill_id": 5010111003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501160541
+            }
+        ],
+        "skill_id": 5011605004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501011121
+            }
+        ],
+        "skill_id": 5010111002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501011151
+            }
+        ],
+        "skill_id": 5010111005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501160521
+            }
+        ],
+        "skill_id": 5011605002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501011141
+            }
+        ],
+        "skill_id": 5010111004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501160531
+            }
+        ],
+        "skill_id": 5011605003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501160511
+            }
+        ],
+        "skill_id": 5011605001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501130231
+            }
+        ],
+        "skill_id": 5011302003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501010811
+            }
+        ],
+        "skill_id": 5010108001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501130221
+            }
+        ],
+        "skill_id": 5011302002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501130211
+            }
+        ],
+        "skill_id": 5011302001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501010831
+            }
+        ],
+        "skill_id": 5010108003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501010821
+            }
+        ],
+        "skill_id": 5010108002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501010851
+            }
+        ],
+        "skill_id": 5010108005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501010841
+            }
+        ],
+        "skill_id": 5010108004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501130251
+            }
+        ],
+        "skill_id": 5011302005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501130241
+            }
+        ],
+        "skill_id": 5011302004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220211
+            }
+        ],
+        "skill_id": 5012202001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220231
+            }
+        ],
+        "skill_id": 5012202003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220221
+            }
+        ],
+        "skill_id": 5012202002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220251
+            }
+        ],
+        "skill_id": 5012202005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220241
+            }
+        ],
+        "skill_id": 5012202004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010711
+            }
+        ],
+        "skill_id": 5010107001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010731
+            }
+        ],
+        "skill_id": 5010107003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 501002451
+            }
+        ],
+        "skill_id": 5010024005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010721
+            }
+        ],
+        "skill_id": 5010107002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 501002441
+            }
+        ],
+        "skill_id": 5010024004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 501002431
+            }
+        ],
+        "skill_id": 5010024003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010741
+            }
+        ],
+        "skill_id": 5010107004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 501002421
+            }
+        ],
+        "skill_id": 5010024002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 501002411
+            }
+        ],
+        "skill_id": 5010024001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010911
+            }
+        ],
+        "skill_id": 5010109001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501130331
+            }
+        ],
+        "skill_id": 5011303003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220111
+            }
+        ],
+        "skill_id": 5012201001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501130321
+            }
+        ],
+        "skill_id": 5011303002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010931
+            }
+        ],
+        "skill_id": 5010109003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501130311
+            }
+        ],
+        "skill_id": 5011303001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220131
+            }
+        ],
+        "skill_id": 5012201003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010921
+            }
+        ],
+        "skill_id": 5010109002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220121
+            }
+        ],
+        "skill_id": 5012201002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010951
+            }
+        ],
+        "skill_id": 5010109005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220151
+            }
+        ],
+        "skill_id": 5012201005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010941
+            }
+        ],
+        "skill_id": 5010109004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220141
+            }
+        ],
+        "skill_id": 5012201004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501130341
+            }
+        ],
+        "skill_id": 5011303004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501001051
+            }
+        ],
+        "skill_id": 5010010005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501001041
+            }
+        ],
+        "skill_id": 5010010004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501001031
+            }
+        ],
+        "skill_id": 5010010003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501001021
+            }
+        ],
+        "skill_id": 5010010002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501001011
+            }
+        ],
+        "skill_id": 5010010001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10014,
+                "id": 501120411
+            }
+        ],
+        "skill_id": 5011204001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10014,
+                "id": 501120431
+            }
+        ],
+        "skill_id": 5011204003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10014,
+                "id": 501120421
+            }
+        ],
+        "skill_id": 5011204002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10014,
+                "id": 501120451
+            }
+        ],
+        "skill_id": 5011204005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 1510000521
+            }
+        ],
+        "skill_id": 5100005102
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10014,
+                "id": 501120441
+            }
+        ],
+        "skill_id": 5011204004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10016,
+                "id": 1510000531
+            }
+        ],
+        "skill_id": 5100005103
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 1510000511
+            }
+        ],
+        "skill_id": 5100005101
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501180231
+            }
+        ],
+        "skill_id": 5011802003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501180221
+            }
+        ],
+        "skill_id": 5011802002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501180211
+            }
+        ],
+        "skill_id": 5011802001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501180241
+            }
+        ],
+        "skill_id": 5011802004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 599001411
+            }
+        ],
+        "skill_id": 5990014001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 599001431
+            }
+        ],
+        "skill_id": 5990014003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 599001421
+            }
+        ],
+        "skill_id": 5990014002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10007,
+                "id": 599001451
+            }
+        ],
+        "skill_id": 5990014005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 599001441
+            }
+        ],
+        "skill_id": 5990014004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 599001311
+            }
+        ],
+        "skill_id": 5990013001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501000751
+            }
+        ],
+        "skill_id": 5010007005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 599001331
+            }
+        ],
+        "skill_id": 5990013003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501000741
+            }
+        ],
+        "skill_id": 5010007004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 599001321
+            }
+        ],
+        "skill_id": 5990013002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501000731
+            }
+        ],
+        "skill_id": 5010007003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 599001351
+            }
+        ],
+        "skill_id": 5990013005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 1599001711
+            }
+        ],
+        "skill_id": 5990017101
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501000721
+            }
+        ],
+        "skill_id": 5010007002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 599001341
+            }
+        ],
+        "skill_id": 5990013004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501000711
+            }
+        ],
+        "skill_id": 5010007001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10042,
+                "id": 1599001731
+            }
+        ],
+        "skill_id": 5990017103
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10007,
+                "id": 1599001721
+            }
+        ],
+        "skill_id": 5990017102
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501090241
+            }
+        ],
+        "skill_id": 5010902004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10014,
+                "id": 501000851
+            }
+        ],
+        "skill_id": 5010008005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10014,
+                "id": 501000841
+            }
+        ],
+        "skill_id": 5010008004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10014,
+                "id": 501000831
+            }
+        ],
+        "skill_id": 5010008003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501090211
+            }
+        ],
+        "skill_id": 5010902001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10014,
+                "id": 501000821
+            }
+        ],
+        "skill_id": 5010008002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10014,
+                "id": 501000811
+            }
+        ],
+        "skill_id": 5010008001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501090231
+            }
+        ],
+        "skill_id": 5010902003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501090221
+            }
+        ],
+        "skill_id": 5010902002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 510000521
+            }
+        ],
+        "skill_id": 5100005002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 510000531
+            }
+        ],
+        "skill_id": 5100005003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 510000511
+            }
+        ],
+        "skill_id": 5100005001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 510000541
+            }
+        ],
+        "skill_id": 5100005004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10016,
+                "id": 510000551
+            }
+        ],
+        "skill_id": 5100005005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501001551
+            }
+        ],
+        "skill_id": 5010015005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501001541
+            }
+        ],
+        "skill_id": 5010015004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501001531
+            }
+        ],
+        "skill_id": 5010015003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501001521
+            }
+        ],
+        "skill_id": 5010015002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501001511
+            }
+        ],
+        "skill_id": 5010015001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501031321
+            }
+        ],
+        "skill_id": 5010313002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501031331
+            }
+        ],
+        "skill_id": 5010313003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501031311
+            }
+        ],
+        "skill_id": 5010313001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501031341
+            }
+        ],
+        "skill_id": 5010313004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501031351
+            }
+        ],
+        "skill_id": 5010313005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 599001011
+            }
+        ],
+        "skill_id": 5990010001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501001651
+            }
+        ],
+        "skill_id": 5010016005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 599001031
+            }
+        ],
+        "skill_id": 5990010003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501001641
+            }
+        ],
+        "skill_id": 5010016004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 599001021
+            }
+        ],
+        "skill_id": 5990010002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501001631
+            }
+        ],
+        "skill_id": 5010016003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 599001051
+            }
+        ],
+        "skill_id": 5990010005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 1599001411
+            }
+        ],
+        "skill_id": 5990014101
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501001621
+            }
+        ],
+        "skill_id": 5010016002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 599001041
+            }
+        ],
+        "skill_id": 5990010004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501001611
+            }
+        ],
+        "skill_id": 5010016001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10007,
+                "id": 1599001431
+            }
+        ],
+        "skill_id": 5990014103
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 1599001421
+            }
+        ],
+        "skill_id": 5990014102
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121011
+            }
+        ],
+        "skill_id": 5011210001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121031
+            }
+        ],
+        "skill_id": 5011210003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121021
+            }
+        ],
+        "skill_id": 5011210002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121051
+            }
+        ],
+        "skill_id": 5011210005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 1599001311
+            }
+        ],
+        "skill_id": 5990013101
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121041
+            }
+        ],
+        "skill_id": 5011210004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121071
+            }
+        ],
+        "skill_id": 5011210007
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121061
+            }
+        ],
+        "skill_id": 5011210006
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 1599001321
+            }
+        ],
+        "skill_id": 5990013102
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121091
+            }
+        ],
+        "skill_id": 5011210009
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010111
+            }
+        ],
+        "skill_id": 5010101001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501240121
+            }
+        ],
+        "skill_id": 5012401002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121081
+            }
+        ],
+        "skill_id": 5011210008
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501240131
+            }
+        ],
+        "skill_id": 5012401003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010131
+            }
+        ],
+        "skill_id": 5010101003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010121
+            }
+        ],
+        "skill_id": 5010101002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501240111
+            }
+        ],
+        "skill_id": 5012401001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010151
+            }
+        ],
+        "skill_id": 5010101005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 501010141
+            }
+        ],
+        "skill_id": 5010101004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501240141
+            }
+        ],
+        "skill_id": 5012401004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501240151
+            }
+        ],
+        "skill_id": 5012401005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121181
+            }
+        ],
+        "skill_id": 5011211008
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10032,
+                "id": 501121191
+            }
+        ],
+        "skill_id": 5011211009
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501270441
+            }
+        ],
+        "skill_id": 5012704004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501270451
+            }
+        ],
+        "skill_id": 5012704005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501270421
+            }
+        ],
+        "skill_id": 5012704002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501270431
+            }
+        ],
+        "skill_id": 5012704003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501270411
+            }
+        ],
+        "skill_id": 5012704001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 599000711
+            }
+        ],
+        "skill_id": 5990007001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 599000731
+            }
+        ],
+        "skill_id": 5990007003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 599000721
+            }
+        ],
+        "skill_id": 5990007002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 599000751
+            }
+        ],
+        "skill_id": 5990007005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 599000741
+            }
+        ],
+        "skill_id": 5990007004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501210441
+            }
+        ],
+        "skill_id": 5012104004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501210431
+            }
+        ],
+        "skill_id": 5012104003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501210421
+            }
+        ],
+        "skill_id": 5012104002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501210411
+            }
+        ],
+        "skill_id": 5012104001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110841
+            }
+        ],
+        "skill_id": 5011108004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110851
+            }
+        ],
+        "skill_id": 5011108005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110821
+            }
+        ],
+        "skill_id": 5011108002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110831
+            }
+        ],
+        "skill_id": 5011108003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110811
+            }
+        ],
+        "skill_id": 5011108001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110741
+            }
+        ],
+        "skill_id": 5011107004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110751
+            }
+        ],
+        "skill_id": 5011107005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110721
+            }
+        ],
+        "skill_id": 5011107002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110731
+            }
+        ],
+        "skill_id": 5011107003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110711
+            }
+        ],
+        "skill_id": 5011107001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110941
+            }
+        ],
+        "skill_id": 5011109004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110951
+            }
+        ],
+        "skill_id": 5011109005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110921
+            }
+        ],
+        "skill_id": 5011109002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110931
+            }
+        ],
+        "skill_id": 5011109003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110911
+            }
+        ],
+        "skill_id": 5011109001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501200541
+            }
+        ],
+        "skill_id": 5012005004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501200511
+            }
+        ],
+        "skill_id": 5012005001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501200521
+            }
+        ],
+        "skill_id": 5012005002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501200531
+            }
+        ],
+        "skill_id": 5012005003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501290131
+            }
+        ],
+        "skill_id": 5012901003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501550231
+            }
+        ],
+        "skill_id": 5015502003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501290121
+            }
+        ],
+        "skill_id": 5012901002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501550221
+            }
+        ],
+        "skill_id": 5015502002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501290111
+            }
+        ],
+        "skill_id": 5012901001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501550211
+            }
+        ],
+        "skill_id": 5015502001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501290151
+            }
+        ],
+        "skill_id": 5012901005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501550251
+            }
+        ],
+        "skill_id": 5015502005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501290141
+            }
+        ],
+        "skill_id": 5012901004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501550241
+            }
+        ],
+        "skill_id": 5015502004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501170211
+            }
+        ],
+        "skill_id": 5011702001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501170231
+            }
+        ],
+        "skill_id": 5011702003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501170221
+            }
+        ],
+        "skill_id": 5011702002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501170241
+            }
+        ],
+        "skill_id": 5011702004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501200241
+            }
+        ],
+        "skill_id": 5012002004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501200211
+            }
+        ],
+        "skill_id": 5012002001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501200221
+            }
+        ],
+        "skill_id": 5012002002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501200231
+            }
+        ],
+        "skill_id": 5012002003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010211
+            }
+        ],
+        "skill_id": 3001021
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010201
+            }
+        ],
+        "skill_id": 3001020
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010231
+            }
+        ],
+        "skill_id": 3001023
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010221
+            }
+        ],
+        "skill_id": 3001022
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010171
+            }
+        ],
+        "skill_id": 3001017
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010161
+            }
+        ],
+        "skill_id": 3001016
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010191
+            }
+        ],
+        "skill_id": 3001019
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010181
+            }
+        ],
+        "skill_id": 3001018
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010131
+            }
+        ],
+        "skill_id": 3001013
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010121
+            }
+        ],
+        "skill_id": 3001012
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010151
+            }
+        ],
+        "skill_id": 3001015
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010141
+            }
+        ],
+        "skill_id": 3001014
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010091
+            }
+        ],
+        "skill_id": 3001009
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010111
+            }
+        ],
+        "skill_id": 3001011
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010101
+            }
+        ],
+        "skill_id": 3001010
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501090141
+            }
+        ],
+        "skill_id": 5010901004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501090111
+            }
+        ],
+        "skill_id": 5010901001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501090131
+            }
+        ],
+        "skill_id": 5010901003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501090121
+            }
+        ],
+        "skill_id": 5010901002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501000451
+            }
+        ],
+        "skill_id": 5010004005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501000441
+            }
+        ],
+        "skill_id": 5010004004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501000431
+            }
+        ],
+        "skill_id": 5010004003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501000421
+            }
+        ],
+        "skill_id": 5010004002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501000411
+            }
+        ],
+        "skill_id": 5010004001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010691
+            }
+        ],
+        "skill_id": 3001069
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501170711
+            }
+        ],
+        "skill_id": 5011707001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010681
+            }
+        ],
+        "skill_id": 3001068
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010711
+            }
+        ],
+        "skill_id": 3001071
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501170731
+            }
+        ],
+        "skill_id": 5011707003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010701
+            }
+        ],
+        "skill_id": 3001070
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501170721
+            }
+        ],
+        "skill_id": 5011707002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010651
+            }
+        ],
+        "skill_id": 3001065
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501170751
+            }
+        ],
+        "skill_id": 5011707005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010641
+            }
+        ],
+        "skill_id": 3001064
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501170741
+            }
+        ],
+        "skill_id": 5011707004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010671
+            }
+        ],
+        "skill_id": 3001067
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010661
+            }
+        ],
+        "skill_id": 3001066
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010611
+            }
+        ],
+        "skill_id": 3001061
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010601
+            }
+        ],
+        "skill_id": 3001060
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010631
+            }
+        ],
+        "skill_id": 3001063
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010621
+            }
+        ],
+        "skill_id": 3001062
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010571
+            }
+        ],
+        "skill_id": 3001057
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010561
+            }
+        ],
+        "skill_id": 3001056
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010591
+            }
+        ],
+        "skill_id": 3001059
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010581
+            }
+        ],
+        "skill_id": 3001058
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010771
+            }
+        ],
+        "skill_id": 3001077
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010761
+            }
+        ],
+        "skill_id": 3001076
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501111041
+            }
+        ],
+        "skill_id": 5011110004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010781
+            }
+        ],
+        "skill_id": 3001078
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501111051
+            }
+        ],
+        "skill_id": 5011110005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010731
+            }
+        ],
+        "skill_id": 3001073
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501111021
+            }
+        ],
+        "skill_id": 5011110002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010721
+            }
+        ],
+        "skill_id": 3001072
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501111031
+            }
+        ],
+        "skill_id": 5011110003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10036,
+                "id": 30010751
+            }
+        ],
+        "skill_id": 3001075
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010741
+            }
+        ],
+        "skill_id": 3001074
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10012,
+                "id": 501111011
+            }
+        ],
+        "skill_id": 5011110001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010371
+            }
+        ],
+        "skill_id": 3001037
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501290531
+            }
+        ],
+        "skill_id": 5012905003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 599001711
+            }
+        ],
+        "skill_id": 5990017001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010361
+            }
+        ],
+        "skill_id": 3001036
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501290521
+            }
+        ],
+        "skill_id": 5012905002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010391
+            }
+        ],
+        "skill_id": 3001039
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501290511
+            }
+        ],
+        "skill_id": 5012905001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 599001731
+            }
+        ],
+        "skill_id": 5990017003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010381
+            }
+        ],
+        "skill_id": 3001038
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 599001721
+            }
+        ],
+        "skill_id": 5990017002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010331
+            }
+        ],
+        "skill_id": 3001033
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10042,
+                "id": 599001751
+            }
+        ],
+        "skill_id": 5990017005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010321
+            }
+        ],
+        "skill_id": 3001032
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10007,
+                "id": 599001741
+            }
+        ],
+        "skill_id": 5990017004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010351
+            }
+        ],
+        "skill_id": 3001035
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501290551
+            }
+        ],
+        "skill_id": 5012905005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010341
+            }
+        ],
+        "skill_id": 3001034
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10004,
+                "id": 501290541
+            }
+        ],
+        "skill_id": 5012905004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010291
+            }
+        ],
+        "skill_id": 3001029
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010281
+            }
+        ],
+        "skill_id": 3001028
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010311
+            }
+        ],
+        "skill_id": 3001031
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010301
+            }
+        ],
+        "skill_id": 3001030
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010251
+            }
+        ],
+        "skill_id": 3001025
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010241
+            }
+        ],
+        "skill_id": 3001024
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010271
+            }
+        ],
+        "skill_id": 3001027
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10037,
+                "id": 30010261
+            }
+        ],
+        "skill_id": 3001026
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010531
+            }
+        ],
+        "skill_id": 3001053
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010521
+            }
+        ],
+        "skill_id": 3001052
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010551
+            }
+        ],
+        "skill_id": 3001055
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10039,
+                "id": 30010541
+            }
+        ],
+        "skill_id": 3001054
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010491
+            }
+        ],
+        "skill_id": 3001049
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010481
+            }
+        ],
+        "skill_id": 3001048
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010511
+            }
+        ],
+        "skill_id": 3001051
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010501
+            }
+        ],
+        "skill_id": 3001050
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010451
+            }
+        ],
+        "skill_id": 3001045
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010441
+            }
+        ],
+        "skill_id": 3001044
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 599010211
+            }
+        ],
+        "skill_id": 5990102001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010471
+            }
+        ],
+        "skill_id": 3001047
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 599010221
+            }
+        ],
+        "skill_id": 5990102002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010461
+            }
+        ],
+        "skill_id": 3001046
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 599010231
+            }
+        ],
+        "skill_id": 5990102003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010411
+            }
+        ],
+        "skill_id": 3001041
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 599010241
+            }
+        ],
+        "skill_id": 5990102004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010401
+            }
+        ],
+        "skill_id": 3001040
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10001,
+                "id": 599010251
+            }
+        ],
+        "skill_id": 5990102005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010431
+            }
+        ],
+        "skill_id": 3001043
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10038,
+                "id": 30010421
+            }
+        ],
+        "skill_id": 3001042
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220511
+            }
+        ],
+        "skill_id": 5012205001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220531
+            }
+        ],
+        "skill_id": 5012205003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220521
+            }
+        ],
+        "skill_id": 5012205002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220551
+            }
+        ],
+        "skill_id": 5012205005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220541
+            }
+        ],
+        "skill_id": 5012205004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501041651
+            }
+        ],
+        "skill_id": 5010416005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501041641
+            }
+        ],
+        "skill_id": 5010416004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501280111
+            }
+        ],
+        "skill_id": 5012801001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501280121
+            }
+        ],
+        "skill_id": 5012801002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501280131
+            }
+        ],
+        "skill_id": 5012801003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501041611
+            }
+        ],
+        "skill_id": 5010416001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501280141
+            }
+        ],
+        "skill_id": 5012801004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501041631
+            }
+        ],
+        "skill_id": 5010416003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501041621
+            }
+        ],
+        "skill_id": 5010416002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 501250251
+            }
+        ],
+        "skill_id": 5012502005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020211
+            }
+        ],
+        "skill_id": 5010202001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 501250241
+            }
+        ],
+        "skill_id": 5012502004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020221
+            }
+        ],
+        "skill_id": 5010202002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020231
+            }
+        ],
+        "skill_id": 5010202003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020241
+            }
+        ],
+        "skill_id": 5010202004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 501250211
+            }
+        ],
+        "skill_id": 5012502001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020251
+            }
+        ],
+        "skill_id": 5010202005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 501250231
+            }
+        ],
+        "skill_id": 5012502003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10006,
+                "id": 501250221
+            }
+        ],
+        "skill_id": 5012502002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501041551
+            }
+        ],
+        "skill_id": 5010415005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501041541
+            }
+        ],
+        "skill_id": 5010415004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501041571
+            }
+        ],
+        "skill_id": 5010415007
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501041561
+            }
+        ],
+        "skill_id": 5010415006
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501041511
+            }
+        ],
+        "skill_id": 5010415001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501041531
+            }
+        ],
+        "skill_id": 5010415003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501041521
+            }
+        ],
+        "skill_id": 5010415002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501041251
+            }
+        ],
+        "skill_id": 5010412005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220811
+            }
+        ],
+        "skill_id": 5012208001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501041241
+            }
+        ],
+        "skill_id": 5010412004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220831
+            }
+        ],
+        "skill_id": 5012208003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220821
+            }
+        ],
+        "skill_id": 5012208002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501041211
+            }
+        ],
+        "skill_id": 5010412001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220841
+            }
+        ],
+        "skill_id": 5012208004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501041231
+            }
+        ],
+        "skill_id": 5010412003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501041221
+            }
+        ],
+        "skill_id": 5010412002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10007,
+                "id": 501011311
+            }
+        ],
+        "skill_id": 5010113001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501130731
+            }
+        ],
+        "skill_id": 5011307003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501130721
+            }
+        ],
+        "skill_id": 5011307002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10007,
+                "id": 501011331
+            }
+        ],
+        "skill_id": 5010113003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501130711
+            }
+        ],
+        "skill_id": 5011307001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10007,
+                "id": 501011321
+            }
+        ],
+        "skill_id": 5010113002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10007,
+                "id": 501011351
+            }
+        ],
+        "skill_id": 5010113005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10007,
+                "id": 501011341
+            }
+        ],
+        "skill_id": 5010113004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501130751
+            }
+        ],
+        "skill_id": 5011307005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501130741
+            }
+        ],
+        "skill_id": 5011307004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 510002651
+            }
+        ],
+        "skill_id": 5100026005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 510002641
+            }
+        ],
+        "skill_id": 5100026004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 510002611
+            }
+        ],
+        "skill_id": 5100026001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 510002631
+            }
+        ],
+        "skill_id": 5100026003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 510002621
+            }
+        ],
+        "skill_id": 5100026002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501280311
+            }
+        ],
+        "skill_id": 5012803001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501280321
+            }
+        ],
+        "skill_id": 5012803002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501280331
+            }
+        ],
+        "skill_id": 5012803003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10005,
+                "id": 501280341
+            }
+        ],
+        "skill_id": 5012803004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501080531
+            }
+        ],
+        "skill_id": 5010805003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501080521
+            }
+        ],
+        "skill_id": 5010805002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501080511
+            }
+        ],
+        "skill_id": 5010805001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501080551
+            }
+        ],
+        "skill_id": 5010805005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10009,
+                "id": 501080541
+            }
+        ],
+        "skill_id": 5010805004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220911
+            }
+        ],
+        "skill_id": 5012209001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220931
+            }
+        ],
+        "skill_id": 5012209003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220921
+            }
+        ],
+        "skill_id": 5012209002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220951
+            }
+        ],
+        "skill_id": 5012209005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10003,
+                "id": 501220941
+            }
+        ],
+        "skill_id": 5012209004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110341
+            }
+        ],
+        "skill_id": 5011103004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110351
+            }
+        ],
+        "skill_id": 5011103005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110321
+            }
+        ],
+        "skill_id": 5011103002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110331
+            }
+        ],
+        "skill_id": 5011103003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10017,
+                "id": 501110311
+            }
+        ],
+        "skill_id": 5011103001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020711
+            }
+        ],
+        "skill_id": 5010207001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020721
+            }
+        ],
+        "skill_id": 5010207002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020731
+            }
+        ],
+        "skill_id": 5010207003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020741
+            }
+        ],
+        "skill_id": 5010207004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020751
+            }
+        ],
+        "skill_id": 5010207005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020411
+            }
+        ],
+        "skill_id": 5010204001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020421
+            }
+        ],
+        "skill_id": 5010204002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020431
+            }
+        ],
+        "skill_id": 5010204003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020441
+            }
+        ],
+        "skill_id": 5010204004
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10002,
+                "id": 501020451
+            }
+        ],
+        "skill_id": 5010204005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501221111
+            }
+        ],
+        "skill_id": 5012211001
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501221131
+            }
+        ],
+        "skill_id": 5012211003
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501221121
+            }
+        ],
+        "skill_id": 5012211002
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501221151
+            }
+        ],
+        "skill_id": 5012211005
+    },
+    {
+        "group_list": [
+            {
+                "group_id": 10008,
+                "id": 501221141
+            }
+        ],
+        "skill_id": 5012211004
+    }
+]

@@ -1,0 +1,698 @@
+[
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_exp_sp_01",
+        "area_id": 3001,
+        "category": 5,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_evo_red_sp_01",
+        "area_id": 3002,
+        "category": 3,
+        "element": 1,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_evo_blue_sp_01",
+        "area_id": 3003,
+        "category": 3,
+        "element": 2,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_evo_green_sp_01",
+        "area_id": 3004,
+        "category": 3,
+        "element": 3,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_evo_yellow_sp_01",
+        "area_id": 3005,
+        "category": 3,
+        "element": 4,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_evo_purple_sp_01",
+        "area_id": 3006,
+        "category": 3,
+        "element": 5,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_skill_sp_01",
+        "area_id": 3007,
+        "category": 10,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_exp_01",
+        "area_id": 3008,
+        "category": 5,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_evo_red_01",
+        "area_id": 3009,
+        "category": 3,
+        "element": 1,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_evo_blue_01",
+        "area_id": 3010,
+        "category": 3,
+        "element": 2,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_evo_green_01",
+        "area_id": 3011,
+        "category": 3,
+        "element": 3,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_evo_yellow_01",
+        "area_id": 3012,
+        "category": 3,
+        "element": 4,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_evo_purple_01",
+        "area_id": 3013,
+        "category": 3,
+        "element": 5,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_skill_01",
+        "area_id": 3024,
+        "category": 10,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_skill_sp_04",
+        "area_id": 3025,
+        "category": 10,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_skill_sp_05",
+        "area_id": 3026,
+        "category": 10,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_skill_04",
+        "area_id": 3027,
+        "category": 10,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_skill_05",
+        "area_id": 3028,
+        "category": 10,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_gold_01",
+        "area_id": 3030,
+        "category": 10,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_10401002",
+        "area_id": 6001,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_10101002",
+        "area_id": 6002,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_13101001",
+        "area_id": 6003,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_11401001",
+        "area_id": 6004,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_10302001_1",
+        "area_id": 6005,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_11001001_1",
+        "area_id": 6006,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_11101002_1",
+        "area_id": 6007,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_12101001",
+        "area_id": 6008,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_12202001_1",
+        "area_id": 6011,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_11503001_1",
+        "area_id": 6012,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_10103001_1",
+        "area_id": 6013,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_12101002_1",
+        "area_id": 6014,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_12703001_1",
+        "area_id": 6015,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_10203001_1",
+        "area_id": 6016,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_13103001_1",
+        "area_id": 6017,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_11102001_01",
+        "area_id": 6018,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_11603001_01",
+        "area_id": 6019,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_11802001_01",
+        "area_id": 6020,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 1,
+        "banner": "btl_bnr_Anniversary_100day_01",
+        "area_id": 6501,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_tower_01",
+        "area_id": 6602,
+        "category": 9,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_tower_01",
+        "area_id": 6603,
+        "category": 9,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_100016",
+        "area_id": 6604,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_Character_magic_01",
+        "area_id": 6701,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_Character_physics_01",
+        "area_id": 6702,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_Character_magic_01",
+        "area_id": 6703,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_100001",
+        "area_id": 6704,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_Character_physics_01",
+        "area_id": 6705,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_Character_human_01",
+        "area_id": 6706,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_Character_Ogre_01",
+        "area_id": 6707,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_Character_human_02",
+        "area_id": 6708,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_100001",
+        "area_id": 6709,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 1,
+        "banner": "btl_bnr_2021Newyear_dungeon_01",
+        "area_id": 6801,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 1,
+        "banner": "btl_bnr_2021Newyear_dungeon_02",
+        "area_id": 6802,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 1,
+        "banner": "btl_bnr_2021Birthday_ramuremu_dungeon_01",
+        "area_id": 6803,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 1,
+        "banner": "btl_bnr_Half_Anniversary_Dungeon_02",
+        "area_id": 6804,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 1,
+        "banner": "btl_bnr_Half_Anniversary_Dungeon_01",
+        "area_id": 6805,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 1,
+        "banner": "btl_bnr_Half_Anniversary_Dungeon_03",
+        "area_id": 6806,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 1,
+        "banner": "btl_bnr_2021Birthday_kurushu_dungeon_01",
+        "area_id": 6807,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 1,
+        "banner": "btl_bnr_elixir_Dungeon_01",
+        "area_id": 6808,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_Hard_Wave_quest_01",
+        "area_id": 6809,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_Hard_Boss_Rush_quest_01",
+        "area_id": 6810,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_100003",
+        "area_id": 6811,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_Hard_Boss_Rush_quest_02",
+        "area_id": 6812,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_100002",
+        "area_id": 6813,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_100003",
+        "area_id": 6814,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 1,
+        "banner": "btl_bnr_100010_01",
+        "area_id": 6815,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_fragment_100013",
+        "area_id": 6816,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 1,
+        "banner": "btl_bnr_100019_1",
+        "area_id": 6818,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 1,
+        "banner": "btl_bnr_100019_2",
+        "area_id": 6819,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_100015",
+        "area_id": 6820,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_100015",
+        "area_id": 6821,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_100015",
+        "area_id": 6822,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_gold_sp_01",
+        "area_id": 6901,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 3,
+        "banner": "btl_bnr_memory_point_sp_01",
+        "area_id": 6911,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_Sweep_urugarumu_01",
+        "area_id": 6912,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_Sweep_eruza_01",
+        "area_id": 6913,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_Sweep_hakugei_01",
+        "area_id": 6914,
+        "category": 13,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": 1,
+        "banner": "btl_bnr_labylinth_EX_01",
+        "area_id": 7001,
+        "category": 17,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_labylinth_01",
+        "area_id": 7101,
+        "category": 16,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_labylinth_01",
+        "area_id": 7102,
+        "category": 16,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_labylinth_01",
+        "area_id": 7103,
+        "category": 16,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_labylinth_01",
+        "area_id": 7104,
+        "category": 16,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_labylinth_01",
+        "area_id": 7105,
+        "category": 16,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_labylinth_01",
+        "area_id": 7106,
+        "category": 16,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_labylinth_01",
+        "area_id": 7107,
+        "category": 16,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_labylinth_01",
+        "area_id": 7108,
+        "category": 16,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_labylinth_01",
+        "area_id": 7109,
+        "category": 16,
+        "element": 0,
+        "total_play_limit": -1
+    },
+    {
+        "today_play_limit": -1,
+        "banner": "btl_bnr_labylinth_01",
+        "area_id": 7110,
+        "category": 16,
+        "element": 0,
+        "total_play_limit": -1
+    }
+]

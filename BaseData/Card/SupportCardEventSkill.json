@@ -1,0 +1,2080 @@
+[
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 100502001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 100502002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 100502003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 100502004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50113020
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "旅のメダルと旅の羽(黄昏)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": -1,
+                "id": 300103016,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(黄昏)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103017,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(黄昏)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103018,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(黄昏)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103019,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(黄昏)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103020,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50111100
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 102903006,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102903007,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102903008,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102903009,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102903010,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50122110
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": -1,
+                "id": 109803001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109803002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109803003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109803004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50104120
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 102303007,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102303008,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102303009,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102303010,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102303011,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50101110
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 101703001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101703002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101703003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101703004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101703005,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50102070
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 101103001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101103002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101103003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101103004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50110070
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 1000905,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 1000906,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 1000907,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 1000908,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50111030
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": -1,
+                "id": 109403001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109403002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109403003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109403004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50125040
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 101104001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101104002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101104003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101104004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50100210
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 102503006,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102503007,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102503008,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102503009,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102503010,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50111090
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 103103001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 103103002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 103103003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 103103004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 103103005,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 51000260
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 100903001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 100903002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 100903003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 100903004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50100200
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 103103006,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 103103007,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 103103008,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 103103009,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 103103010,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50104040
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 101903001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101903002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101903003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101903004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101903005,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 59900100
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 102303001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102303002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102303003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102303004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102303005,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102303006,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 5,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50122090
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": -1,
+                "id": 109603001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109603002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109603003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109603004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50124010
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 100302001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 100302002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 100302003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 100302004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50122020
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 102103006,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102103007,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102103008,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102103009,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102103010,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 59900110
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "旅のメダルと旅の羽(黄昏)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": -1,
+                "id": 300103011,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(黄昏)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103012,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(黄昏)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103013,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(黄昏)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103014,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(黄昏)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103015,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50104160
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 100702001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 100702002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 100702003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大100%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 100702004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50101090
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 102703006,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102703007,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102703008,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102703009,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102703010,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50125020
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 103103011,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 103103012,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 103103013,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 103103014,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大300%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 103103015,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50111070
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 102103001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102103002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102103003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102103004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102103005,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50100250
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大5）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": -1,
+                "id": 110203001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大5）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 110203002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大5）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 110203003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大5）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 110203004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50103130
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 102903001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102903002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102903003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102903004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102903005,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50104150
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": -1,
+                "id": 109203001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109203002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109203003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109203004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109203005,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50100240
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": -1,
+                "id": 110003001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 110003002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 110003003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 110003004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50108050
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 102503001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102503002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102503003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102503004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102503005,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50117070
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 101704001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101704002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101704003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101704004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 101704005,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50108040
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "旅のメダルと旅の羽(青空)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": -1,
+                "id": 300103001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(青空)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(青空)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(青空)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(青空)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103005,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50101130
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": -1,
+                "id": 109003001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109003002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109003003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109003004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "総力戦の特効ドロップ枠が1増加する（合算で最大4）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "特効ドロップ枠が1増加",
+                "unlock_condition_type": 0,
+                "id": 109003005,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50100230
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": -1,
+                "id": 102703001,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102703002,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102703003,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102703004,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "獲得勲章数が25%上昇する（合算で最大200%）",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "獲得勲章数25%上昇",
+                "unlock_condition_type": 0,
+                "id": 102703005,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50101120
+    },
+    {
+        "skill_list": [
+            {
+                "skill_description": "旅のメダルと旅の羽(青空)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": -1,
+                "id": 300103006,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 0,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(青空)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103007,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 1,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(青空)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103008,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 2,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(青空)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103009,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 3,
+                "charge_time": 0
+            },
+            {
+                "skill_description": "旅のメダルと旅の羽(青空)の獲得数25％上昇(合算最大400％)",
+                "drama": "",
+                "skill_effect_icon": "",
+                "move_type": 0,
+                "skill_name": "収集アイテム獲得数25％上昇",
+                "unlock_condition_type": 0,
+                "id": 300103010,
+                "skill_icon": "ic_skill_hp",
+                "unlock_condition_value": 4,
+                "charge_time": 0
+            }
+        ],
+        "card_id": 50110080
+    }
+]

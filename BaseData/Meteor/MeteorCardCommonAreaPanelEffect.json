@@ -1,0 +1,4592 @@
+[
+    {
+        "panel_id": 512,
+        "effect_list": [
+            {
+                "min": 350,
+                "level": 6,
+                "max": 350,
+                "name": "HP",
+                "description": "",
+                "id": 51201,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 513,
+        "effect_list": [
+            {
+                "min": 58,
+                "level": 7,
+                "max": 58,
+                "name": "攻撃",
+                "description": "",
+                "id": 51301,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 514,
+        "effect_list": [
+            {
+                "min": 82,
+                "level": 9,
+                "max": 82,
+                "name": "攻撃",
+                "description": "",
+                "id": 51401,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 515,
+        "effect_list": [
+            {
+                "min": 11,
+                "level": 5,
+                "max": 11,
+                "name": "素早さ",
+                "description": "",
+                "id": 51501,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 516,
+        "effect_list": [
+            {
+                "min": 70,
+                "level": 8,
+                "max": 70,
+                "name": "攻撃",
+                "description": "",
+                "id": 51601,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10300,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1030001,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10301,
+        "effect_list": [
+            {
+                "min": 220,
+                "level": 3,
+                "max": 220,
+                "name": "HP",
+                "description": "",
+                "id": 1030101,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10302,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1030201,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10303,
+        "effect_list": [
+            {
+                "min": 7,
+                "level": 3,
+                "max": 7,
+                "name": "弱体耐性",
+                "description": "",
+                "id": 1030301,
+                "effect_type": 8,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10304,
+        "effect_list": [
+            {
+                "min": 7,
+                "level": 3,
+                "max": 7,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1030401,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10305,
+        "effect_list": [
+            {
+                "min": 7,
+                "level": 3,
+                "max": 7,
+                "name": "弱体耐性",
+                "description": "",
+                "id": 1030501,
+                "effect_type": 8,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10306,
+        "effect_list": [
+            {
+                "min": 220,
+                "level": 3,
+                "max": 220,
+                "name": "HP",
+                "description": "",
+                "id": 1030601,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10307,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1030701,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10308,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 7,
+                "max": 15,
+                "name": "クリティカル率",
+                "description": "",
+                "id": 1030801,
+                "effect_type": 5,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10309,
+        "effect_list": [
+            {
+                "min": 17,
+                "level": 7,
+                "max": 17,
+                "name": "弱体耐性",
+                "description": "",
+                "id": 1030901,
+                "effect_type": 8,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10310,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 7,
+                "max": 15,
+                "name": "クリティカル率",
+                "description": "",
+                "id": 1031001,
+                "effect_type": 5,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10311,
+        "effect_list": [
+            {
+                "min": 10,
+                "level": 4,
+                "max": 10,
+                "name": "弱体耐性",
+                "description": "",
+                "id": 1031101,
+                "effect_type": 8,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10312,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 1031201,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10313,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 1031301,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10314,
+        "effect_list": [
+            {
+                "min": 70,
+                "level": 8,
+                "max": 70,
+                "name": "攻撃",
+                "description": "",
+                "id": 1031401,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10315,
+        "effect_list": [
+            {
+                "min": 10,
+                "level": 4,
+                "max": 10,
+                "name": "弱体成功力",
+                "description": "",
+                "id": 1031501,
+                "effect_type": 7,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1100,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "攻撃",
+                "description": "",
+                "id": 110001,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10316,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "素早さ",
+                "description": "",
+                "id": 1031601,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1101,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "素早さ",
+                "description": "",
+                "id": 110101,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1102,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "攻撃",
+                "description": "",
+                "id": 110201,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1103,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "防御",
+                "description": "",
+                "id": 110301,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1104,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 110401,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1105,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "攻撃",
+                "description": "",
+                "id": 110501,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1106,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "防御",
+                "description": "",
+                "id": 110601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1107,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 110701,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1108,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "攻撃",
+                "description": "",
+                "id": 110801,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1109,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "素早さ",
+                "description": "",
+                "id": 110901,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1110,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 111001,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1111,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "防御",
+                "description": "",
+                "id": 111101,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 600,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "防御",
+                "description": "",
+                "id": 60001,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1112,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 111201,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 601,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "弱体耐性",
+                "description": "",
+                "id": 60101,
+                "effect_type": 8,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1113,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "攻撃",
+                "description": "",
+                "id": 111301,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 602,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "防御",
+                "description": "",
+                "id": 60201,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1114,
+        "effect_list": [
+            {
+                "min": 48,
+                "level": 6,
+                "max": 48,
+                "name": "攻撃",
+                "description": "",
+                "id": 111401,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 603,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 60301,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1115,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "素早さ",
+                "description": "",
+                "id": 111501,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 604,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 60401,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1116,
+        "effect_list": [
+            {
+                "min": 48,
+                "level": 6,
+                "max": 48,
+                "name": "攻撃",
+                "description": "",
+                "id": 111601,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 605,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 60501,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 606,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 60601,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 607,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 60701,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 608,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 60801,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 609,
+        "effect_list": [
+            {
+                "min": 300,
+                "level": 5,
+                "max": 300,
+                "name": "HP",
+                "description": "",
+                "id": 60901,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 610,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "防御",
+                "description": "",
+                "id": 61001,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 611,
+        "effect_list": [
+            {
+                "min": 48,
+                "level": 6,
+                "max": 48,
+                "name": "攻撃",
+                "description": "",
+                "id": 61101,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 100,
+        "effect_list": [
+            {
+                "min": 180,
+                "level": 2,
+                "max": 180,
+                "name": "HP",
+                "description": "",
+                "id": 10001,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 612,
+        "effect_list": [
+            {
+                "min": 400,
+                "level": 7,
+                "max": 400,
+                "name": "HP",
+                "description": "",
+                "id": 61201,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 101,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "防御",
+                "description": "",
+                "id": 10101,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 613,
+        "effect_list": [
+            {
+                "min": 58,
+                "level": 7,
+                "max": 58,
+                "name": "防御",
+                "description": "",
+                "id": 61301,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 102,
+        "effect_list": [
+            {
+                "min": 180,
+                "level": 2,
+                "max": 180,
+                "name": "HP",
+                "description": "",
+                "id": 10201,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 614,
+        "effect_list": [
+            {
+                "min": 82,
+                "level": 9,
+                "max": 82,
+                "name": "防御",
+                "description": "",
+                "id": 61401,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 103,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "素早さ",
+                "description": "",
+                "id": 10301,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 615,
+        "effect_list": [
+            {
+                "min": 450,
+                "level": 8,
+                "max": 450,
+                "name": "HP",
+                "description": "",
+                "id": 61501,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 104,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 10401,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 616,
+        "effect_list": [
+            {
+                "min": 70,
+                "level": 8,
+                "max": 70,
+                "name": "防御",
+                "description": "",
+                "id": 61601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 105,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 10501,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 106,
+        "effect_list": [
+            {
+                "min": 48,
+                "level": 6,
+                "max": 48,
+                "name": "防御",
+                "description": "",
+                "id": 10601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 107,
+        "effect_list": [
+            {
+                "min": 350,
+                "level": 6,
+                "max": 350,
+                "name": "HP",
+                "description": "",
+                "id": 10701,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 108,
+        "effect_list": [
+            {
+                "min": 400,
+                "level": 7,
+                "max": 400,
+                "name": "HP",
+                "description": "",
+                "id": 10801,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 109,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "攻撃",
+                "description": "",
+                "id": 10901,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 110,
+        "effect_list": [
+            {
+                "min": 58,
+                "level": 7,
+                "max": 58,
+                "name": "防御",
+                "description": "",
+                "id": 11001,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 111,
+        "effect_list": [
+            {
+                "min": 58,
+                "level": 7,
+                "max": 58,
+                "name": "攻撃",
+                "description": "",
+                "id": 11101,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 112,
+        "effect_list": [
+            {
+                "min": 70,
+                "level": 8,
+                "max": 70,
+                "name": "防御",
+                "description": "",
+                "id": 11201,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 113,
+        "effect_list": [
+            {
+                "min": 450,
+                "level": 8,
+                "max": 450,
+                "name": "HP",
+                "description": "",
+                "id": 11301,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 114,
+        "effect_list": [
+            {
+                "min": 600,
+                "level": 10,
+                "max": 600,
+                "name": "HP",
+                "description": "",
+                "id": 11401,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 115,
+        "effect_list": [
+            {
+                "min": 82,
+                "level": 9,
+                "max": 82,
+                "name": "防御",
+                "description": "",
+                "id": 11501,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 116,
+        "effect_list": [
+            {
+                "min": 500,
+                "level": 9,
+                "max": 500,
+                "name": "HP",
+                "description": "",
+                "id": 11601,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10400,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 1040001,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10401,
+        "effect_list": [
+            {
+                "min": 10,
+                "level": 4,
+                "max": 10,
+                "name": "弱体耐性",
+                "description": "",
+                "id": 1040101,
+                "effect_type": 8,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10402,
+        "effect_list": [
+            {
+                "min": 220,
+                "level": 3,
+                "max": 220,
+                "name": "HP",
+                "description": "",
+                "id": 1040201,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10403,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 1040301,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10404,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 1040401,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10405,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1040501,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10406,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1040601,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10407,
+        "effect_list": [
+            {
+                "min": 10,
+                "level": 4,
+                "max": 10,
+                "name": "弱体成功力",
+                "description": "",
+                "id": 1040701,
+                "effect_type": 7,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10408,
+        "effect_list": [
+            {
+                "min": 17,
+                "level": 8,
+                "max": 17,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1040801,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10409,
+        "effect_list": [
+            {
+                "min": 450,
+                "level": 8,
+                "max": 450,
+                "name": "HP",
+                "description": "",
+                "id": 1040901,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10410,
+        "effect_list": [
+            {
+                "min": 70,
+                "level": 8,
+                "max": 70,
+                "name": "攻撃",
+                "description": "",
+                "id": 1041001,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10411,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1041101,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10412,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 1041201,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10413,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 1041301,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10414,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 9,
+                "max": 22,
+                "name": "弱体成功力",
+                "description": "",
+                "id": 1041401,
+                "effect_type": 7,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10415,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 1041501,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1200,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "防御",
+                "description": "",
+                "id": 120001,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10416,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 1041601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1201,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "攻撃",
+                "description": "",
+                "id": 120101,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1202,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "防御",
+                "description": "",
+                "id": 120201,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1203,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "攻撃",
+                "description": "",
+                "id": 120301,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1204,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 120401,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1205,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "防御",
+                "description": "",
+                "id": 120501,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1206,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "攻撃",
+                "description": "",
+                "id": 120601,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1207,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 120701,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1208,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "防御",
+                "description": "",
+                "id": 120801,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1209,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 120901,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1210,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "防御",
+                "description": "",
+                "id": 121001,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1211,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 121101,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 700,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 70001,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1212,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 121201,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 701,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "防御",
+                "description": "",
+                "id": 70101,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1213,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "防御",
+                "description": "",
+                "id": 121301,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 702,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 70201,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1214,
+        "effect_list": [
+            {
+                "min": 48,
+                "level": 6,
+                "max": 48,
+                "name": "防御",
+                "description": "",
+                "id": 121401,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 703,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "素早さ",
+                "description": "",
+                "id": 70301,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1215,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 121501,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 704,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "攻撃",
+                "description": "",
+                "id": 70401,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1216,
+        "effect_list": [
+            {
+                "min": 48,
+                "level": 6,
+                "max": 48,
+                "name": "防御",
+                "description": "",
+                "id": 121601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 705,
+        "effect_list": [
+            {
+                "min": 180,
+                "level": 2,
+                "max": 180,
+                "name": "HP",
+                "description": "",
+                "id": 70501,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 706,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "防御",
+                "description": "",
+                "id": 70601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 707,
+        "effect_list": [
+            {
+                "min": 220,
+                "level": 3,
+                "max": 220,
+                "name": "HP",
+                "description": "",
+                "id": 70701,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 708,
+        "effect_list": [
+            {
+                "min": 220,
+                "level": 3,
+                "max": 220,
+                "name": "HP",
+                "description": "",
+                "id": 70801,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 709,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 70901,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 710,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 71001,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 711,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 71101,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 200,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "攻撃",
+                "description": "",
+                "id": 20001,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 712,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "防御",
+                "description": "",
+                "id": 71201,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 201,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "素早さ",
+                "description": "",
+                "id": 20101,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 713,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 71301,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 202,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 20201,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 714,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 71401,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 203,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "防御",
+                "description": "",
+                "id": 20301,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 715,
+        "effect_list": [
+            {
+                "min": 48,
+                "level": 6,
+                "max": 48,
+                "name": "防御",
+                "description": "",
+                "id": 71501,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 204,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 20401,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 716,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 71601,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 205,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 20501,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 206,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "防御",
+                "description": "",
+                "id": 20601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 207,
+        "effect_list": [
+            {
+                "min": 300,
+                "level": 5,
+                "max": 300,
+                "name": "HP",
+                "description": "",
+                "id": 20701,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 208,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "攻撃",
+                "description": "",
+                "id": 20801,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 209,
+        "effect_list": [
+            {
+                "min": 7,
+                "level": 3,
+                "max": 7,
+                "name": "素早さ",
+                "description": "",
+                "id": 20901,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 210,
+        "effect_list": [
+            {
+                "min": 48,
+                "level": 6,
+                "max": 48,
+                "name": "攻撃",
+                "description": "",
+                "id": 21001,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 211,
+        "effect_list": [
+            {
+                "min": 58,
+                "level": 7,
+                "max": 58,
+                "name": "防御",
+                "description": "",
+                "id": 21101,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 212,
+        "effect_list": [
+            {
+                "min": 400,
+                "level": 7,
+                "max": 400,
+                "name": "HP",
+                "description": "",
+                "id": 21201,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 213,
+        "effect_list": [
+            {
+                "min": 70,
+                "level": 8,
+                "max": 70,
+                "name": "攻撃",
+                "description": "",
+                "id": 21301,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 214,
+        "effect_list": [
+            {
+                "min": 100,
+                "level": 10,
+                "max": 100,
+                "name": "攻撃",
+                "description": "",
+                "id": 21401,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 215,
+        "effect_list": [
+            {
+                "min": 13,
+                "level": 6,
+                "max": 13,
+                "name": "素早さ",
+                "description": "",
+                "id": 21501,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 216,
+        "effect_list": [
+            {
+                "min": 82,
+                "level": 9,
+                "max": 82,
+                "name": "攻撃",
+                "description": "",
+                "id": 21601,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10500,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 1050001,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10501,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "クリティカル率",
+                "description": "",
+                "id": 1050101,
+                "effect_type": 5,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10502,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1050201,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10503,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1050301,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10504,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "素早さ",
+                "description": "",
+                "id": 1050401,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10505,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 1050501,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10506,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 1050601,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10507,
+        "effect_list": [
+            {
+                "min": 10,
+                "level": 4,
+                "max": 10,
+                "name": "弱体成功力",
+                "description": "",
+                "id": 1050701,
+                "effect_type": 7,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10508,
+        "effect_list": [
+            {
+                "min": 500,
+                "level": 9,
+                "max": 500,
+                "name": "HP",
+                "description": "",
+                "id": 1050801,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10509,
+        "effect_list": [
+            {
+                "min": 20,
+                "level": 9,
+                "max": 20,
+                "name": "素早さ",
+                "description": "",
+                "id": 1050901,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10510,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 9,
+                "max": 22,
+                "name": "弱体成功力",
+                "description": "",
+                "id": 1051001,
+                "effect_type": 7,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10511,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "素早さ",
+                "description": "",
+                "id": 1051101,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10512,
+        "effect_list": [
+            {
+                "min": 10,
+                "level": 4,
+                "max": 10,
+                "name": "弱体耐性",
+                "description": "",
+                "id": 1051201,
+                "effect_type": 8,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10513,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 1051301,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10514,
+        "effect_list": [
+            {
+                "min": 100,
+                "level": 10,
+                "max": 100,
+                "name": "防御",
+                "description": "",
+                "id": 1051401,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10515,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 1051501,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10516,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 1051601,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 800,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "攻撃",
+                "description": "",
+                "id": 80001,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 801,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "素早さ",
+                "description": "",
+                "id": 80101,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 802,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "攻撃",
+                "description": "",
+                "id": 80201,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 803,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "防御",
+                "description": "",
+                "id": 80301,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 804,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 80401,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 805,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 80501,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 806,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "防御",
+                "description": "",
+                "id": 80601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 807,
+        "effect_list": [
+            {
+                "min": 180,
+                "level": 2,
+                "max": 180,
+                "name": "HP",
+                "description": "",
+                "id": 80701,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 808,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 80801,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 809,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "素早さ",
+                "description": "",
+                "id": 80901,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 810,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 81001,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 811,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 81101,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 300,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "防御",
+                "description": "",
+                "id": 30001,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 812,
+        "effect_list": [
+            {
+                "min": 220,
+                "level": 3,
+                "max": 220,
+                "name": "HP",
+                "description": "",
+                "id": 81201,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 301,
+        "effect_list": [
+            {
+                "min": 10,
+                "level": 4,
+                "max": 10,
+                "name": "弱体耐性",
+                "description": "",
+                "id": 30101,
+                "effect_type": 8,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 813,
+        "effect_list": [
+            {
+                "min": 48,
+                "level": 6,
+                "max": 48,
+                "name": "攻撃",
+                "description": "",
+                "id": 81301,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 302,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "防御",
+                "description": "",
+                "id": 30201,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 814,
+        "effect_list": [
+            {
+                "min": 70,
+                "level": 8,
+                "max": 70,
+                "name": "攻撃",
+                "description": "",
+                "id": 81401,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 303,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 30301,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 815,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "素早さ",
+                "description": "",
+                "id": 81501,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 304,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 30401,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 816,
+        "effect_list": [
+            {
+                "min": 58,
+                "level": 7,
+                "max": 58,
+                "name": "攻撃",
+                "description": "",
+                "id": 81601,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 305,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 30501,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 306,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "攻撃",
+                "description": "",
+                "id": 30601,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 307,
+        "effect_list": [
+            {
+                "min": 300,
+                "level": 5,
+                "max": 300,
+                "name": "HP",
+                "description": "",
+                "id": 30701,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 308,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "防御",
+                "description": "",
+                "id": 30801,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 309,
+        "effect_list": [
+            {
+                "min": 350,
+                "level": 6,
+                "max": 350,
+                "name": "HP",
+                "description": "",
+                "id": 30901,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 310,
+        "effect_list": [
+            {
+                "min": 48,
+                "level": 6,
+                "max": 48,
+                "name": "防御",
+                "description": "",
+                "id": 31001,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 311,
+        "effect_list": [
+            {
+                "min": 58,
+                "level": 7,
+                "max": 58,
+                "name": "攻撃",
+                "description": "",
+                "id": 31101,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 312,
+        "effect_list": [
+            {
+                "min": 450,
+                "level": 8,
+                "max": 450,
+                "name": "HP",
+                "description": "",
+                "id": 31201,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 313,
+        "effect_list": [
+            {
+                "min": 70,
+                "level": 8,
+                "max": 70,
+                "name": "防御",
+                "description": "",
+                "id": 31301,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 314,
+        "effect_list": [
+            {
+                "min": 100,
+                "level": 10,
+                "max": 100,
+                "name": "防御",
+                "description": "",
+                "id": 31401,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 315,
+        "effect_list": [
+            {
+                "min": 500,
+                "level": 9,
+                "max": 500,
+                "name": "HP",
+                "description": "",
+                "id": 31501,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 316,
+        "effect_list": [
+            {
+                "min": 82,
+                "level": 9,
+                "max": 82,
+                "name": "防御",
+                "description": "",
+                "id": 31601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10600,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 1060001,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10601,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1060101,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10602,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 1060201,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10603,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 1060301,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10604,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "素早さ",
+                "description": "",
+                "id": 1060401,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10605,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 1060501,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10606,
+        "effect_list": [
+            {
+                "min": 10,
+                "level": 4,
+                "max": 10,
+                "name": "弱体耐性",
+                "description": "",
+                "id": 1060601,
+                "effect_type": 8,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10607,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 1060701,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10608,
+        "effect_list": [
+            {
+                "min": 100,
+                "level": 10,
+                "max": 100,
+                "name": "攻撃",
+                "description": "",
+                "id": 1060801,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10609,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 10,
+                "max": 22,
+                "name": "クリティカル率",
+                "description": "",
+                "id": 1060901,
+                "effect_type": 5,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10610,
+        "effect_list": [
+            {
+                "min": 24,
+                "level": 10,
+                "max": 24,
+                "name": "素早さ",
+                "description": "",
+                "id": 1061001,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10611,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 1061101,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10100,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "素早さ",
+                "description": "",
+                "id": 1010001,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10612,
+        "effect_list": [
+            {
+                "min": 9,
+                "level": 4,
+                "max": 9,
+                "name": "クリティカル率",
+                "description": "",
+                "id": 1061201,
+                "effect_type": 5,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10101,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "クリティカル率",
+                "description": "",
+                "id": 1010101,
+                "effect_type": 5,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10613,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 1061301,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10102,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "素早さ",
+                "description": "",
+                "id": 1010201,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10614,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 10,
+                "max": 22,
+                "name": "クリティカル率",
+                "description": "",
+                "id": 1061401,
+                "effect_type": 5,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10103,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "クリティカル率",
+                "description": "",
+                "id": 1010301,
+                "effect_type": 5,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10615,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 1061501,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10104,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1010401,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10616,
+        "effect_list": [
+            {
+                "min": 10,
+                "level": 4,
+                "max": 10,
+                "name": "弱体成功力",
+                "description": "",
+                "id": 1061601,
+                "effect_type": 7,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10105,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "弱体成功力",
+                "description": "",
+                "id": 1010501,
+                "effect_type": 7,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10106,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "弱体耐性",
+                "description": "",
+                "id": 1010601,
+                "effect_type": 8,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10107,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "攻撃",
+                "description": "",
+                "id": 1010701,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10108,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "攻撃",
+                "description": "",
+                "id": 1010801,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10109,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "素早さ",
+                "description": "",
+                "id": 1010901,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10110,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "クリティカル率",
+                "description": "",
+                "id": 1011001,
+                "effect_type": 5,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10111,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1011101,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10112,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "弱体成功力",
+                "description": "",
+                "id": 1011201,
+                "effect_type": 7,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10113,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "弱体耐性",
+                "description": "",
+                "id": 1011301,
+                "effect_type": 8,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10114,
+        "effect_list": [
+            {
+                "min": 11,
+                "level": 5,
+                "max": 11,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1011401,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10115,
+        "effect_list": [
+            {
+                "min": 180,
+                "level": 2,
+                "max": 180,
+                "name": "HP",
+                "description": "",
+                "id": 1011501,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 900,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "防御",
+                "description": "",
+                "id": 90001,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10116,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "防御",
+                "description": "",
+                "id": 1011601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 901,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 90101,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 902,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "防御",
+                "description": "",
+                "id": 90201,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 903,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "攻撃",
+                "description": "",
+                "id": 90301,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 904,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 90401,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 905,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "防御",
+                "description": "",
+                "id": 90501,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 906,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 90601,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 907,
+        "effect_list": [
+            {
+                "min": 180,
+                "level": 2,
+                "max": 180,
+                "name": "HP",
+                "description": "",
+                "id": 90701,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 908,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "防御",
+                "description": "",
+                "id": 90801,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 909,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 90901,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 910,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 91001,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 911,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "攻撃",
+                "description": "",
+                "id": 91101,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 400,
+        "effect_list": [
+            {
+                "min": 180,
+                "level": 2,
+                "max": 180,
+                "name": "HP",
+                "description": "",
+                "id": 40001,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 912,
+        "effect_list": [
+            {
+                "min": 220,
+                "level": 3,
+                "max": 220,
+                "name": "HP",
+                "description": "",
+                "id": 91201,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 401,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "防御",
+                "description": "",
+                "id": 40101,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 913,
+        "effect_list": [
+            {
+                "min": 48,
+                "level": 6,
+                "max": 48,
+                "name": "防御",
+                "description": "",
+                "id": 91301,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 402,
+        "effect_list": [
+            {
+                "min": 180,
+                "level": 2,
+                "max": 180,
+                "name": "HP",
+                "description": "",
+                "id": 40201,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 914,
+        "effect_list": [
+            {
+                "min": 70,
+                "level": 8,
+                "max": 70,
+                "name": "防御",
+                "description": "",
+                "id": 91401,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 403,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "素早さ",
+                "description": "",
+                "id": 40301,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 915,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 91501,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 404,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 40401,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 916,
+        "effect_list": [
+            {
+                "min": 58,
+                "level": 7,
+                "max": 58,
+                "name": "防御",
+                "description": "",
+                "id": 91601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 405,
+        "effect_list": [
+            {
+                "min": 220,
+                "level": 3,
+                "max": 220,
+                "name": "HP",
+                "description": "",
+                "id": 40501,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 406,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "防御",
+                "description": "",
+                "id": 40601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 407,
+        "effect_list": [
+            {
+                "min": 300,
+                "level": 5,
+                "max": 300,
+                "name": "HP",
+                "description": "",
+                "id": 40701,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 408,
+        "effect_list": [
+            {
+                "min": 350,
+                "level": 6,
+                "max": 350,
+                "name": "HP",
+                "description": "",
+                "id": 40801,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 409,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 40901,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 410,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "防御",
+                "description": "",
+                "id": 41001,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 411,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 41101,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 412,
+        "effect_list": [
+            {
+                "min": 48,
+                "level": 6,
+                "max": 48,
+                "name": "防御",
+                "description": "",
+                "id": 41201,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 413,
+        "effect_list": [
+            {
+                "min": 400,
+                "level": 7,
+                "max": 400,
+                "name": "HP",
+                "description": "",
+                "id": 41301,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 414,
+        "effect_list": [
+            {
+                "min": 500,
+                "level": 9,
+                "max": 500,
+                "name": "HP",
+                "description": "",
+                "id": 41401,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 415,
+        "effect_list": [
+            {
+                "min": 58,
+                "level": 7,
+                "max": 58,
+                "name": "防御",
+                "description": "",
+                "id": 41501,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 416,
+        "effect_list": [
+            {
+                "min": 450,
+                "level": 8,
+                "max": 450,
+                "name": "HP",
+                "description": "",
+                "id": 41601,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10200,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "攻撃",
+                "description": "",
+                "id": 1020001,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10201,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "素早さ",
+                "description": "",
+                "id": 1020101,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10202,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "弱体成功力",
+                "description": "",
+                "id": 1020201,
+                "effect_type": 7,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10203,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "クリティカルダメージ",
+                "description": "",
+                "id": 1020301,
+                "effect_type": 6,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10204,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "防御",
+                "description": "",
+                "id": 1020401,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10205,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "弱体成功力",
+                "description": "",
+                "id": 1020501,
+                "effect_type": 7,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10206,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "クリティカル率",
+                "description": "",
+                "id": 1020601,
+                "effect_type": 5,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10207,
+        "effect_list": [
+            {
+                "min": 220,
+                "level": 3,
+                "max": 220,
+                "name": "HP",
+                "description": "",
+                "id": 1020701,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10208,
+        "effect_list": [
+            {
+                "min": 13,
+                "level": 6,
+                "max": 13,
+                "name": "素早さ",
+                "description": "",
+                "id": 1020801,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10209,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 6,
+                "max": 15,
+                "name": "弱体耐性",
+                "description": "",
+                "id": 1020901,
+                "effect_type": 8,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10210,
+        "effect_list": [
+            {
+                "min": 350,
+                "level": 6,
+                "max": 350,
+                "name": "HP",
+                "description": "",
+                "id": 1021001,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10211,
+        "effect_list": [
+            {
+                "min": 220,
+                "level": 3,
+                "max": 220,
+                "name": "HP",
+                "description": "",
+                "id": 1021101,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10212,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 1021201,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10213,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 1021301,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10214,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 7,
+                "max": 15,
+                "name": "クリティカル率",
+                "description": "",
+                "id": 1021401,
+                "effect_type": 5,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10215,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 1021501,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1000,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 100001,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 10216,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 1021601,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1001,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "防御",
+                "description": "",
+                "id": 100101,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1002,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 100201,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1003,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "防御",
+                "description": "",
+                "id": 100301,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1004,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "攻撃",
+                "description": "",
+                "id": 100401,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1005,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 100501,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1006,
+        "effect_list": [
+            {
+                "min": 8,
+                "level": 1,
+                "max": 8,
+                "name": "防御",
+                "description": "",
+                "id": 100601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1007,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 100701,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1008,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 100801,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1009,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "攻撃",
+                "description": "",
+                "id": 100901,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1010,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "防御",
+                "description": "",
+                "id": 101001,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1011,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "攻撃",
+                "description": "",
+                "id": 101101,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 500,
+        "effect_list": [
+            {
+                "min": 15,
+                "level": 2,
+                "max": 15,
+                "name": "攻撃",
+                "description": "",
+                "id": 50001,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1012,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 101201,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 501,
+        "effect_list": [
+            {
+                "min": 3,
+                "level": 1,
+                "max": 3,
+                "name": "素早さ",
+                "description": "",
+                "id": 50101,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1013,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 101301,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 502,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "攻撃",
+                "description": "",
+                "id": 50201,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1014,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 101401,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 503,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "防御",
+                "description": "",
+                "id": 50301,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1015,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "防御",
+                "description": "",
+                "id": 101501,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 504,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 50401,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 1016,
+        "effect_list": [
+            {
+                "min": 150,
+                "level": 1,
+                "max": 150,
+                "name": "HP",
+                "description": "",
+                "id": 101601,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 505,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 50501,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 506,
+        "effect_list": [
+            {
+                "min": 22,
+                "level": 3,
+                "max": 22,
+                "name": "防御",
+                "description": "",
+                "id": 50601,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 507,
+        "effect_list": [
+            {
+                "min": 260,
+                "level": 4,
+                "max": 260,
+                "name": "HP",
+                "description": "",
+                "id": 50701,
+                "effect_type": 1,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 508,
+        "effect_list": [
+            {
+                "min": 30,
+                "level": 4,
+                "max": 30,
+                "name": "攻撃",
+                "description": "",
+                "id": 50801,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 509,
+        "effect_list": [
+            {
+                "min": 5,
+                "level": 2,
+                "max": 5,
+                "name": "素早さ",
+                "description": "",
+                "id": 50901,
+                "effect_type": 4,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 510,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "攻撃",
+                "description": "",
+                "id": 51001,
+                "effect_type": 2,
+                "calc_type": 1
+            }
+        ]
+    },
+    {
+        "panel_id": 511,
+        "effect_list": [
+            {
+                "min": 38,
+                "level": 5,
+                "max": 38,
+                "name": "防御",
+                "description": "",
+                "id": 51101,
+                "effect_type": 3,
+                "calc_type": 1
+            }
+        ]
+    }
+]

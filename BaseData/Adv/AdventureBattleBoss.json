@@ -1,0 +1,14 @@
+[
+    {
+        "appear_anime": "skill_ghost_appear_01",
+        "ui": 0,
+        "size": 0,
+        "effect": 1,
+        "wave_id": 1001,
+        "clear": 0,
+        "sim_select": 0,
+        "death_anime": "skill_ghost_death_01",
+        "card_id": 93801001,
+        "aura": 0
+    }
+]

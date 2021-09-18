@@ -1,0 +1,23 @@
+[
+    {
+        "gold": 100,
+        "item_id": 12199,
+        "exp_b": 0,
+        "exp_a": 800,
+        "element": 0
+    },
+    {
+        "gold": 200,
+        "item_id": 12299,
+        "exp_b": 0,
+        "exp_a": 1600,
+        "element": 0
+    },
+    {
+        "gold": 500,
+        "item_id": 12399,
+        "exp_b": 0,
+        "exp_a": 4000,
+        "element": 0
+    }
+]

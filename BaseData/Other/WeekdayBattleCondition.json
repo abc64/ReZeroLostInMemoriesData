@@ -1,0 +1,4022 @@
+[
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10001,
+                "id": 69121001
+            }
+        ],
+        "stage_id": 691210,
+        "message": "エミリア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10001,
+                "id": 69121101
+            }
+        ],
+        "stage_id": 691211,
+        "message": "エミリア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30260401
+            }
+        ],
+        "stage_id": 302604,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30260501
+            }
+        ],
+        "stage_id": 302605,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30260601
+            }
+        ],
+        "stage_id": 302606,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67020801
+            }
+        ],
+        "stage_id": 670208,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30260701
+            }
+        ],
+        "stage_id": 302607,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30260101
+            }
+        ],
+        "stage_id": 302601,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30260201
+            }
+        ],
+        "stage_id": 302602,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30260301
+            }
+        ],
+        "stage_id": 302603,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30260801
+            }
+        ],
+        "stage_id": 302608,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30260901
+            }
+        ],
+        "stage_id": 302609,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30261001
+            }
+        ],
+        "stage_id": 302610,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30261101
+            }
+        ],
+        "stage_id": 302611,
+        "message": "クルシュ陣営３名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 4,
+                "condition_type": 3,
+                "condition_value": 10004,
+                "id": 71070201
+            }
+        ],
+        "stage_id": 710702,
+        "message": "【アナスタシア陣営】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 4,
+                "condition_type": 3,
+                "condition_value": 10004,
+                "id": 71070301
+            }
+        ],
+        "stage_id": 710703,
+        "message": "【アナスタシア陣営】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 4,
+                "condition_type": 3,
+                "condition_value": 10004,
+                "id": 71070101
+            }
+        ],
+        "stage_id": 710701,
+        "message": "【アナスタシア陣営】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 71020201
+            }
+        ],
+        "stage_id": 710202,
+        "message": "【人間】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 71020301
+            }
+        ],
+        "stage_id": 710203,
+        "message": "【人間】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 71020101
+            }
+        ],
+        "stage_id": 710201,
+        "message": "【人間】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 71020601
+            }
+        ],
+        "stage_id": 710206,
+        "message": "【人間】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 71020701
+            }
+        ],
+        "stage_id": 710207,
+        "message": "【人間】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 71020401
+            }
+        ],
+        "stage_id": 710204,
+        "message": "【人間】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10032,
+                "id": 71020501
+            },
+            {
+                "num": 0,
+                "condition_type": 11,
+                "condition_value": 11201002,
+                "id": 71020502
+            }
+        ],
+        "stage_id": 710205,
+        "message": "【騎士の中の騎士】ラインハルトのみ編成可能【制限時間4分】"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 3,
+                "condition_value": 10004,
+                "id": 71070601
+            }
+        ],
+        "stage_id": 710706,
+        "message": "【アナスタシア陣営】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 3,
+                "condition_value": 10004,
+                "id": 71070701
+            }
+        ],
+        "stage_id": 710707,
+        "message": "【アナスタシア陣営】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 4,
+                "condition_type": 3,
+                "condition_value": 10004,
+                "id": 71070401
+            }
+        ],
+        "stage_id": 710704,
+        "message": "【アナスタシア陣営】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 17,
+                "id": 71070501
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 18,
+                "id": 71070502
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 19,
+                "id": 71070503
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 29,
+                "id": 71070504
+            }
+        ],
+        "stage_id": 710705,
+        "message": "いずれかの「アナスタシア」、「へータロー」、「ミミ」、「ティビー」の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 17,
+                "id": 71071001
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 18,
+                "id": 71071002
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 19,
+                "id": 71071003
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 23,
+                "id": 71071004
+            }
+        ],
+        "stage_id": 710710,
+        "message": "いずれかの「リカード」、「ミミ」、「へータロー」、「ティビー」の編成が必要【制限時間6分】"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 3,
+                "condition_value": 10004,
+                "id": 71070801
+            }
+        ],
+        "stage_id": 710708,
+        "message": "【アナスタシア陣営】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 3,
+                "condition_value": 10004,
+                "id": 71070901
+            }
+        ],
+        "stage_id": 710709,
+        "message": "【アナスタシア陣営】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 4,
+                "condition_type": 13,
+                "condition_value": 3,
+                "id": 71021001
+            },
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10006,
+                "id": 71021002
+            }
+        ],
+        "stage_id": 710210,
+        "message": "緑属性限定。【人間】3人の編成が必要。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 71020801
+            }
+        ],
+        "stage_id": 710208,
+        "message": "【人間】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 71020901
+            }
+        ],
+        "stage_id": 710209,
+        "message": "【人間】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67081001
+            }
+        ],
+        "stage_id": 670810,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67080801
+            }
+        ],
+        "stage_id": 670808,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67080901
+            }
+        ],
+        "stage_id": 670809,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67030201
+            }
+        ],
+        "stage_id": 670302,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67030301
+            }
+        ],
+        "stage_id": 670303,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67030101
+            }
+        ],
+        "stage_id": 670301,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67080201
+            }
+        ],
+        "stage_id": 670802,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67080301
+            }
+        ],
+        "stage_id": 670803,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67080101
+            }
+        ],
+        "stage_id": 670801,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67080601
+            }
+        ],
+        "stage_id": 670806,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67080701
+            }
+        ],
+        "stage_id": 670807,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67080401
+            }
+        ],
+        "stage_id": 670804,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67080501
+            }
+        ],
+        "stage_id": 670805,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10001,
+                "id": 69131001
+            }
+        ],
+        "stage_id": 691310,
+        "message": "エミリア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10001,
+                "id": 69131101
+            }
+        ],
+        "stage_id": 691311,
+        "message": "エミリア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67030601
+            }
+        ],
+        "stage_id": 670306,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30270101
+            }
+        ],
+        "stage_id": 302701,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67030701
+            }
+        ],
+        "stage_id": 670307,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30270201
+            }
+        ],
+        "stage_id": 302702,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67030401
+            }
+        ],
+        "stage_id": 670304,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30270301
+            }
+        ],
+        "stage_id": 302703,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67030501
+            }
+        ],
+        "stage_id": 670305,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67031001
+            }
+        ],
+        "stage_id": 670310,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67030801
+            }
+        ],
+        "stage_id": 670308,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67030901
+            }
+        ],
+        "stage_id": 670309,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30270801
+            }
+        ],
+        "stage_id": 302708,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30270901
+            }
+        ],
+        "stage_id": 302709,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30271001
+            }
+        ],
+        "stage_id": 302710,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30271101
+            }
+        ],
+        "stage_id": 302711,
+        "message": "アナスタシア陣営３名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30270401
+            }
+        ],
+        "stage_id": 302704,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30270501
+            }
+        ],
+        "stage_id": 302705,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30270601
+            }
+        ],
+        "stage_id": 302706,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30270701
+            }
+        ],
+        "stage_id": 302707,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 71081001
+            },
+            {
+                "num": 5,
+                "condition_type": 13,
+                "condition_value": 3,
+                "id": 71081002
+            }
+        ],
+        "stage_id": 710810,
+        "message": "緑属性かつ【亜人】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 5,
+                "condition_type": 5,
+                "condition_value": 10007,
+                "id": 71080801
+            },
+            {
+                "num": 4,
+                "condition_type": 9,
+                "condition_value": 2,
+                "id": 71080802
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10006,
+                "id": 71080803
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10018,
+                "id": 71080804
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10030,
+                "id": 71080805
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 13,
+                "id": 71080806
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 8,
+                "id": 71080807
+            }
+        ],
+        "stage_id": 710808,
+        "message": "【亜人】限定。青属性4人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 5,
+                "condition_type": 5,
+                "condition_value": 10007,
+                "id": 71080901
+            },
+            {
+                "num": 4,
+                "condition_type": 9,
+                "condition_value": 2,
+                "id": 71080902
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10006,
+                "id": 71080903
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10018,
+                "id": 71080904
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10030,
+                "id": 71080905
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 13,
+                "id": 71080906
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 8,
+                "id": 71080907
+            }
+        ],
+        "stage_id": 710809,
+        "message": "【亜人】限定。青属性4人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10005,
+                "id": 71030201
+            }
+        ],
+        "stage_id": 710302,
+        "message": "【プリシラ陣営】2人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10005,
+                "id": 71030301
+            }
+        ],
+        "stage_id": 710303,
+        "message": "【プリシラ陣営】2人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10005,
+                "id": 71030101
+            }
+        ],
+        "stage_id": 710301,
+        "message": "【プリシラ陣営】2人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 5,
+                "condition_type": 5,
+                "condition_value": 10007,
+                "id": 71080201
+            },
+            {
+                "num": 4,
+                "condition_type": 9,
+                "condition_value": 1,
+                "id": 71080202
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10006,
+                "id": 71080203
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10018,
+                "id": 71080204
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10030,
+                "id": 71080205
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 13,
+                "id": 71080206
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 8,
+                "id": 71080207
+            }
+        ],
+        "stage_id": 710802,
+        "message": "【亜人】限定。赤属性4人の編成が必要。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30070101
+            }
+        ],
+        "stage_id": 300701,
+        "message": "エミリア陣営のみ挑戦可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 5,
+                "condition_type": 5,
+                "condition_value": 10007,
+                "id": 71080301
+            },
+            {
+                "num": 4,
+                "condition_type": 9,
+                "condition_value": 1,
+                "id": 71080302
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10006,
+                "id": 71080303
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10018,
+                "id": 71080304
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10030,
+                "id": 71080305
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 13,
+                "id": 71080306
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 8,
+                "id": 71080307
+            }
+        ],
+        "stage_id": 710803,
+        "message": "【亜人】限定。赤属性4人の編成が必要。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30070201
+            }
+        ],
+        "stage_id": 300702,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30070301
+            }
+        ],
+        "stage_id": 300703,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 5,
+                "condition_type": 5,
+                "condition_value": 10007,
+                "id": 71080101
+            },
+            {
+                "num": 4,
+                "condition_type": 9,
+                "condition_value": 1,
+                "id": 71080102
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10006,
+                "id": 71080103
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10018,
+                "id": 71080104
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10030,
+                "id": 71080105
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 13,
+                "id": 71080106
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 8,
+                "id": 71080107
+            }
+        ],
+        "stage_id": 710801,
+        "message": "【亜人】限定。赤属性4人の編成が必要。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 5,
+                "condition_type": 5,
+                "condition_value": 10007,
+                "id": 71080601
+            },
+            {
+                "num": 4,
+                "condition_type": 9,
+                "condition_value": 2,
+                "id": 71080602
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10006,
+                "id": 71080603
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10018,
+                "id": 71080604
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10030,
+                "id": 71080605
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 13,
+                "id": 71080606
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 8,
+                "id": 71080607
+            }
+        ],
+        "stage_id": 710806,
+        "message": "【亜人】限定。青属性4人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 5,
+                "condition_type": 5,
+                "condition_value": 10007,
+                "id": 71080701
+            },
+            {
+                "num": 4,
+                "condition_type": 9,
+                "condition_value": 2,
+                "id": 71080702
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10006,
+                "id": 71080703
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10018,
+                "id": 71080704
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10030,
+                "id": 71080705
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 13,
+                "id": 71080706
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 8,
+                "id": 71080707
+            }
+        ],
+        "stage_id": 710807,
+        "message": "【亜人】限定。青属性4人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 5,
+                "condition_type": 5,
+                "condition_value": 10007,
+                "id": 71080401
+            },
+            {
+                "num": 4,
+                "condition_type": 9,
+                "condition_value": 1,
+                "id": 71080402
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10006,
+                "id": 71080403
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10018,
+                "id": 71080404
+            },
+            {
+                "num": 0,
+                "condition_type": 6,
+                "condition_value": 10030,
+                "id": 71080405
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 13,
+                "id": 71080406
+            },
+            {
+                "num": 0,
+                "condition_type": 8,
+                "condition_value": 8,
+                "id": 71080407
+            }
+        ],
+        "stage_id": 710804,
+        "message": "【亜人】限定。赤属性4人の編成が必要。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 71080501
+            },
+            {
+                "num": 5,
+                "condition_type": 13,
+                "condition_value": 3,
+                "id": 71080502
+            }
+        ],
+        "stage_id": 710805,
+        "message": "緑属性かつ【亜人】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30070801
+            }
+        ],
+        "stage_id": 300708,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30070901
+            }
+        ],
+        "stage_id": 300709,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30071001
+            }
+        ],
+        "stage_id": 300710,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30071101
+            }
+        ],
+        "stage_id": 300711,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30070401
+            }
+        ],
+        "stage_id": 300704,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30070501
+            }
+        ],
+        "stage_id": 300705,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30070601
+            }
+        ],
+        "stage_id": 300706,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30070701
+            }
+        ],
+        "stage_id": 300707,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10005,
+                "id": 71030601
+            }
+        ],
+        "stage_id": 710306,
+        "message": "【プリシラ陣営】2人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10005,
+                "id": 71030701
+            }
+        ],
+        "stage_id": 710307,
+        "message": "【プリシラ陣営】2人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10005,
+                "id": 71030401
+            }
+        ],
+        "stage_id": 710304,
+        "message": "【プリシラ陣営】2人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 28,
+                "id": 71030501
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 27,
+                "id": 71030502
+            }
+        ],
+        "stage_id": 710305,
+        "message": "いずれかの「プリシラ」、「アル」の編成が必要【制限時間7分30秒】"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 28,
+                "id": 71031001
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 27,
+                "id": 71031002
+            }
+        ],
+        "stage_id": 710310,
+        "message": "いずれかの「プリシラ」、「アル」の編成が必要【制限時間5分】"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10005,
+                "id": 71030801
+            }
+        ],
+        "stage_id": 710308,
+        "message": "【プリシラ陣営】2人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10005,
+                "id": 71030901
+            }
+        ],
+        "stage_id": 710309,
+        "message": "【プリシラ陣営】2人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67090601
+            }
+        ],
+        "stage_id": 670906,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67090701
+            }
+        ],
+        "stage_id": 670907,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67090401
+            }
+        ],
+        "stage_id": 670904,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67090501
+            }
+        ],
+        "stage_id": 670905,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67091001
+            }
+        ],
+        "stage_id": 670910,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67090801
+            }
+        ],
+        "stage_id": 670908,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67090901
+            }
+        ],
+        "stage_id": 670909,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67090201
+            }
+        ],
+        "stage_id": 670902,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67090301
+            }
+        ],
+        "stage_id": 670903,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67090101
+            }
+        ],
+        "stage_id": 670901,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67040801
+            }
+        ],
+        "stage_id": 670408,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67040201
+            }
+        ],
+        "stage_id": 670402,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67040301
+            }
+        ],
+        "stage_id": 670403,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67040101
+            }
+        ],
+        "stage_id": 670401,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67040601
+            }
+        ],
+        "stage_id": 670406,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 1,
+                "id": 70010201
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 3,
+                "id": 70010202
+            }
+        ],
+        "stage_id": 700102,
+        "message": "いずれかの「スバル」、「エミリア」の編成が必要【制限時間1分30秒】"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67040701
+            }
+        ],
+        "stage_id": 670407,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 17,
+                "id": 70010301
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 18,
+                "id": 70010302
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 19,
+                "id": 70010303
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 23,
+                "id": 70010304
+            }
+        ],
+        "stage_id": 700103,
+        "message": "いずれかの「リカード」、「ミミ」、「へータロー」、「ティビー」の編成が必要【制限時間1分30秒】"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67040401
+            }
+        ],
+        "stage_id": 670404,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10007,
+                "id": 67040501
+            }
+        ],
+        "stage_id": 670405,
+        "message": "「亜人グループ」のキャラのみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10005,
+                "id": 70010101
+            }
+        ],
+        "stage_id": 700101,
+        "message": "【プリシラ陣営】限定【制限時間1分30秒】"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30280401
+            }
+        ],
+        "stage_id": 302804,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30280501
+            }
+        ],
+        "stage_id": 302805,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30280601
+            }
+        ],
+        "stage_id": 302806,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30280701
+            }
+        ],
+        "stage_id": 302807,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30280101
+            }
+        ],
+        "stage_id": 302801,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30280201
+            }
+        ],
+        "stage_id": 302802,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30280301
+            }
+        ],
+        "stage_id": 302803,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10006,
+                "id": 69141001
+            }
+        ],
+        "stage_id": 691410,
+        "message": "人間グループ２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10006,
+                "id": 69141101
+            }
+        ],
+        "stage_id": 691411,
+        "message": "人間グループ２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30280801
+            }
+        ],
+        "stage_id": 302808,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30280901
+            }
+        ],
+        "stage_id": 302809,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30281001
+            }
+        ],
+        "stage_id": 302810,
+        "message": "クルシュ陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 30281101
+            }
+        ],
+        "stage_id": 302811,
+        "message": "クルシュ陣営３名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66020201
+            }
+        ],
+        "stage_id": 660202,
+        "message": "同じキャラを使用できるのは１回です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66020301
+            }
+        ],
+        "stage_id": 660203,
+        "message": "同じキャラを使用できるのは１回です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66020101
+            }
+        ],
+        "stage_id": 660201,
+        "message": "同じキャラを使用できるのは１回です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66020601
+            }
+        ],
+        "stage_id": 660206,
+        "message": "同じキャラを使用できるのは１回です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66020701
+            }
+        ],
+        "stage_id": 660207,
+        "message": "同じキャラを使用できるのは１回です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66020401
+            }
+        ],
+        "stage_id": 660204,
+        "message": "同じキャラを使用できるのは１回です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66020501
+            }
+        ],
+        "stage_id": 660205,
+        "message": "同じキャラを使用できるのは１回です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 1,
+                "id": 71090601
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 4,
+                "id": 71090602
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 11,
+                "id": 71090603
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 3,
+                "id": 71090604
+            }
+        ],
+        "stage_id": 710906,
+        "message": "いずれかの「エミリア」、「ラム」、「レム」、「スバル」の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 1,
+                "id": 71090701
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 4,
+                "id": 71090702
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 11,
+                "id": 71090703
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 3,
+                "id": 71090704
+            }
+        ],
+        "stage_id": 710907,
+        "message": "いずれかの「エミリア」、「ラム」、「レム」、「スバル」の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 1,
+                "id": 71090401
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 4,
+                "id": 71090402
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 11,
+                "id": 71090403
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 3,
+                "id": 71090404
+            }
+        ],
+        "stage_id": 710904,
+        "message": "いずれかの「エミリア」、「ラム」、「レム」、「スバル」の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 71090501
+            },
+            {
+                "num": 4,
+                "condition_type": 9,
+                "condition_value": 3,
+                "id": 71090502
+            }
+        ],
+        "stage_id": 710905,
+        "message": "【エミリア陣営】限定。緑属性4人の編成が必要【制限時間6分】"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 1,
+                "id": 71091001
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 3,
+                "id": 71091002
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 4,
+                "id": 71091003
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 11,
+                "id": 71091004
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 31,
+                "id": 71091005
+            }
+        ],
+        "stage_id": 710910,
+        "message": "いずれかの「エミリア」、「ラム」、「レム」、「スバル」、「ペトラ」の編成が必要【制限時間6分】"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 1,
+                "id": 71090801
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 4,
+                "id": 71090802
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 11,
+                "id": 71090803
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 3,
+                "id": 71090804
+            }
+        ],
+        "stage_id": 710908,
+        "message": "いずれかの「エミリア」、「ラム」、「レム」、「スバル」の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 1,
+                "id": 71090901
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 4,
+                "id": 71090902
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 11,
+                "id": 71090903
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 3,
+                "id": 71090904
+            }
+        ],
+        "stage_id": 710909,
+        "message": "いずれかの「エミリア」、「ラム」、「レム」、「スバル」の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66021001
+            }
+        ],
+        "stage_id": 660210,
+        "message": "同じキャラを使用できるのは１回です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66020801
+            }
+        ],
+        "stage_id": 660208,
+        "message": "同じキャラを使用できるのは１回です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66020901
+            }
+        ],
+        "stage_id": 660209,
+        "message": "同じキャラを使用できるのは１回です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 1,
+                "id": 71090201
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 4,
+                "id": 71090202
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 11,
+                "id": 71090203
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 3,
+                "id": 71090204
+            }
+        ],
+        "stage_id": 710902,
+        "message": "いずれかの「エミリア」、「ラム」、「レム」、「スバル」の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 1,
+                "id": 71090301
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 4,
+                "id": 71090302
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 11,
+                "id": 71090303
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 3,
+                "id": 71090304
+            }
+        ],
+        "stage_id": 710903,
+        "message": "いずれかの「エミリア」、「ラム」、「レム」、「スバル」の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 1,
+                "id": 71090101
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 4,
+                "id": 71090102
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 11,
+                "id": 71090103
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 3,
+                "id": 71090104
+            }
+        ],
+        "stage_id": 710901,
+        "message": "いずれかの「エミリア」、「ラム」、「レム」、「スバル」の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 16,
+                "id": 71041001
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 22,
+                "id": 71041002
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 21,
+                "id": 71041003
+            }
+        ],
+        "stage_id": 710410,
+        "message": "いずれかの「クルシュ」、「ヴィルヘルム」、「フェリス」の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 71040801
+            }
+        ],
+        "stage_id": 710408,
+        "message": "【クルシュ陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 71040901
+            }
+        ],
+        "stage_id": 710409,
+        "message": "【クルシュ陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 71040201
+            }
+        ],
+        "stage_id": 710402,
+        "message": "【クルシュ陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 71040301
+            }
+        ],
+        "stage_id": 710403,
+        "message": "【クルシュ陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 71040101
+            }
+        ],
+        "stage_id": 710401,
+        "message": "【クルシュ陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 71040601
+            }
+        ],
+        "stage_id": 710406,
+        "message": "【クルシュ陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 71040701
+            }
+        ],
+        "stage_id": 710407,
+        "message": "【クルシュ陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10003,
+                "id": 71040401
+            }
+        ],
+        "stage_id": 710404,
+        "message": "【クルシュ陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 16,
+                "id": 71040501
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 22,
+                "id": 71040502
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 21,
+                "id": 71040503
+            }
+        ],
+        "stage_id": 710405,
+        "message": "いずれかの「クルシュ」、「ヴィルヘルム」、「フェリス」の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67050601
+            }
+        ],
+        "stage_id": 670506,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67050701
+            }
+        ],
+        "stage_id": 670507,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67050401
+            }
+        ],
+        "stage_id": 670504,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67050501
+            }
+        ],
+        "stage_id": 670505,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67050801
+            }
+        ],
+        "stage_id": 670508,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67050201
+            }
+        ],
+        "stage_id": 670502,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67050301
+            }
+        ],
+        "stage_id": 670503,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67050101
+            }
+        ],
+        "stage_id": 670501,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30240401
+            }
+        ],
+        "stage_id": 302404,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30240501
+            }
+        ],
+        "stage_id": 302405,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30240601
+            }
+        ],
+        "stage_id": 302406,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30240701
+            }
+        ],
+        "stage_id": 302407,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66030201
+            }
+        ],
+        "stage_id": 660302,
+        "message": "???"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30240101
+            }
+        ],
+        "stage_id": 302401,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66030301
+            }
+        ],
+        "stage_id": 660303,
+        "message": "???"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30240201
+            }
+        ],
+        "stage_id": 302402,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30240301
+            }
+        ],
+        "stage_id": 302403,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66030101
+            }
+        ],
+        "stage_id": 660301,
+        "message": "???"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30240801
+            }
+        ],
+        "stage_id": 302408,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30240901
+            }
+        ],
+        "stage_id": 302409,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30241001
+            }
+        ],
+        "stage_id": 302410,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10001,
+                "id": 30241101
+            }
+        ],
+        "stage_id": 302411,
+        "message": "エミリア陣営のみ編成できます。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 4,
+                "condition_type": 5,
+                "condition_value": 10008,
+                "id": 71100201
+            }
+        ],
+        "stage_id": 711002,
+        "message": "【魔法攻撃】4人 の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 4,
+                "condition_type": 5,
+                "condition_value": 10008,
+                "id": 71100301
+            }
+        ],
+        "stage_id": 711003,
+        "message": "【魔法攻撃】4人 の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66031201
+            }
+        ],
+        "stage_id": 660312,
+        "message": "???"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66031301
+            }
+        ],
+        "stage_id": 660313,
+        "message": "???"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 4,
+                "condition_type": 5,
+                "condition_value": 10008,
+                "id": 71100101
+            }
+        ],
+        "stage_id": 711001,
+        "message": "【魔法攻撃】4人 の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 4,
+                "condition_type": 5,
+                "condition_value": 10008,
+                "id": 71100601
+            }
+        ],
+        "stage_id": 711006,
+        "message": "【魔法攻撃】4人 の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 4,
+                "condition_type": 5,
+                "condition_value": 10008,
+                "id": 71100701
+            }
+        ],
+        "stage_id": 711007,
+        "message": "【魔法攻撃】4人 の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 4,
+                "condition_type": 5,
+                "condition_value": 10008,
+                "id": 71100401
+            }
+        ],
+        "stage_id": 711004,
+        "message": "【魔法攻撃】4人 の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 71100501
+            }
+        ],
+        "stage_id": 711005,
+        "message": "【魔法攻撃】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66030601
+            }
+        ],
+        "stage_id": 660306,
+        "message": "???"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66030701
+            }
+        ],
+        "stage_id": 660307,
+        "message": "???"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66030401
+            }
+        ],
+        "stage_id": 660304,
+        "message": "???"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66030501
+            }
+        ],
+        "stage_id": 660305,
+        "message": "???"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66031001
+            }
+        ],
+        "stage_id": 660310,
+        "message": "???"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66031101
+            }
+        ],
+        "stage_id": 660311,
+        "message": "???"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66030801
+            }
+        ],
+        "stage_id": 660308,
+        "message": "???"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 0,
+                "id": 66030901
+            }
+        ],
+        "stage_id": 660309,
+        "message": "???"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": -1,
+                "condition_value": 10014,
+                "id": 71050601
+            }
+        ],
+        "stage_id": 710506,
+        "message": "参加人数2人制限"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": -1,
+                "condition_value": 10014,
+                "id": 71050701
+            }
+        ],
+        "stage_id": 710507,
+        "message": "参加人数2人制限"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": -1,
+                "condition_value": 21,
+                "id": 71050401
+            }
+        ],
+        "stage_id": 710504,
+        "message": "参加人数2人制限"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 1,
+                "condition_type": 5,
+                "condition_value": 10014,
+                "id": 71050501
+            }
+        ],
+        "stage_id": 710505,
+        "message": "参加人数2人制限。【騎士】1人の編成が必要。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 1,
+                "id": 71051001
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 3,
+                "id": 71051002
+            }
+        ],
+        "stage_id": 710510,
+        "message": "参加人数2人制限いずれかの「スバル」、「エミリア」の編成が必要。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": -1,
+                "condition_value": 10014,
+                "id": 71050801
+            }
+        ],
+        "stage_id": 710508,
+        "message": "参加人数2人制限"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": -1,
+                "condition_value": 10014,
+                "id": 71050901
+            }
+        ],
+        "stage_id": 710509,
+        "message": "参加人数2人制限"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 71101001
+            }
+        ],
+        "stage_id": 711010,
+        "message": "【魔法攻撃】限定"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 4,
+                "condition_type": 5,
+                "condition_value": 10008,
+                "id": 71100801
+            }
+        ],
+        "stage_id": 711008,
+        "message": "【魔法攻撃】4人 の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 4,
+                "condition_type": 5,
+                "condition_value": 10008,
+                "id": 71100901
+            }
+        ],
+        "stage_id": 711009,
+        "message": "【魔法攻撃】4人 の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": -1,
+                "condition_value": 21,
+                "id": 71050201
+            }
+        ],
+        "stage_id": 710502,
+        "message": "参加人数2人制限"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": -1,
+                "condition_value": 21,
+                "id": 71050301
+            }
+        ],
+        "stage_id": 710503,
+        "message": "参加人数2人制限"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 21,
+                "id": 71050101
+            }
+        ],
+        "stage_id": 710501,
+        "message": "参加人数2人制限"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67060201
+            }
+        ],
+        "stage_id": 670602,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67060301
+            }
+        ],
+        "stage_id": 670603,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67060101
+            }
+        ],
+        "stage_id": 670601,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67060601
+            }
+        ],
+        "stage_id": 670606,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67060701
+            }
+        ],
+        "stage_id": 670607,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67060401
+            }
+        ],
+        "stage_id": 670604,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67060501
+            }
+        ],
+        "stage_id": 670605,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67010601
+            }
+        ],
+        "stage_id": 670106,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67010701
+            }
+        ],
+        "stage_id": 670107,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67010401
+            }
+        ],
+        "stage_id": 670104,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67010501
+            }
+        ],
+        "stage_id": 670105,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10002,
+                "id": 69110201
+            }
+        ],
+        "stage_id": 691102,
+        "message": "フェルト陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10002,
+                "id": 69110301
+            }
+        ],
+        "stage_id": 691103,
+        "message": "フェルト陣営３名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67010801
+            }
+        ],
+        "stage_id": 670108,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 1,
+                "condition_type": 5,
+                "condition_value": 10002,
+                "id": 69110101
+            }
+        ],
+        "stage_id": 691101,
+        "message": "フェルト陣営１名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10006,
+                "id": 67060801
+            }
+        ],
+        "stage_id": 670608,
+        "message": "「人間キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67010201
+            }
+        ],
+        "stage_id": 670102,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67010301
+            }
+        ],
+        "stage_id": 670103,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10008,
+                "id": 67010101
+            }
+        ],
+        "stage_id": 670101,
+        "message": "「魔法攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30250101
+            }
+        ],
+        "stage_id": 302501,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30250201
+            }
+        ],
+        "stage_id": 302502,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30250301
+            }
+        ],
+        "stage_id": 302503,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30250801
+            }
+        ],
+        "stage_id": 302508,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30250901
+            }
+        ],
+        "stage_id": 302509,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30251001
+            }
+        ],
+        "stage_id": 302510,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30251101
+            }
+        ],
+        "stage_id": 302511,
+        "message": "アナスタシア陣営３名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30250401
+            }
+        ],
+        "stage_id": 302504,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30250501
+            }
+        ],
+        "stage_id": 302505,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30250601
+            }
+        ],
+        "stage_id": 302506,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 2,
+                "condition_type": 5,
+                "condition_value": 10004,
+                "id": 30250701
+            }
+        ],
+        "stage_id": 302507,
+        "message": "アナスタシア陣営２名以上の編成が必要です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 3,
+                "id": 66040201
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 2,
+                "id": 66040202
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 1,
+                "id": 66040203
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 9,
+                "id": 66040204
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 10,
+                "id": 66040205
+            }
+        ],
+        "stage_id": 660402,
+        "message": "いずれかの「エミリア」、「スバル」、「パック」、「フェルト」、「ロム爺」の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 3,
+                "id": 66040101
+            },
+            {
+                "num": 0,
+                "condition_type": 7,
+                "condition_value": 1,
+                "id": 66040102
+            }
+        ],
+        "stage_id": 660401,
+        "message": "いずれかの「エミリア」、「スバル」の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10002,
+                "id": 71060201
+            }
+        ],
+        "stage_id": 710602,
+        "message": "【フェルト陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10002,
+                "id": 71060301
+            }
+        ],
+        "stage_id": 710603,
+        "message": "【フェルト陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10002,
+                "id": 71060101
+            }
+        ],
+        "stage_id": 710601,
+        "message": "【フェルト陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10002,
+                "id": 71060601
+            }
+        ],
+        "stage_id": 710606,
+        "message": "【フェルト陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10002,
+                "id": 71060701
+            }
+        ],
+        "stage_id": 710607,
+        "message": "【フェルト陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10002,
+                "id": 71060401
+            }
+        ],
+        "stage_id": 710604,
+        "message": "【フェルト陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10032,
+                "id": 71060501
+            },
+            {
+                "num": 0,
+                "condition_type": 11,
+                "condition_value": 11201002,
+                "id": 71060502
+            }
+        ],
+        "stage_id": 710605,
+        "message": "【騎士の中の騎士】ラインハルトのみ編成可能【制限時間4分】"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 23,
+                "id": 71010601
+            }
+        ],
+        "stage_id": 710106,
+        "message": "編成制限無し"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 23,
+                "id": 71010701
+            }
+        ],
+        "stage_id": 710107,
+        "message": "編成制限無し"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 23,
+                "id": 71010401
+            }
+        ],
+        "stage_id": 710104,
+        "message": "編成制限無し"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 23,
+                "id": 71010501
+            }
+        ],
+        "stage_id": 710105,
+        "message": "編成制限無し【制限時間5分】"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 23,
+                "id": 71011001
+            }
+        ],
+        "stage_id": 710110,
+        "message": "編成制限無し【制限時間5分】"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 23,
+                "id": 71010801
+            }
+        ],
+        "stage_id": 710108,
+        "message": "編成制限無し"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 23,
+                "id": 71010901
+            }
+        ],
+        "stage_id": 710109,
+        "message": "編成制限無し"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10002,
+                "id": 71061001
+            }
+        ],
+        "stage_id": 710610,
+        "message": "【フェルト陣営】3人の編成が必要【制限時間8分】"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10002,
+                "id": 71060801
+            }
+        ],
+        "stage_id": 710608,
+        "message": "【フェルト陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 3,
+                "condition_type": 5,
+                "condition_value": 10002,
+                "id": 71060901
+            }
+        ],
+        "stage_id": 710609,
+        "message": "【フェルト陣営】3人の編成が必要"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 23,
+                "id": 71010201
+            }
+        ],
+        "stage_id": 710102,
+        "message": "編成制限無し"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 23,
+                "id": 71010301
+            }
+        ],
+        "stage_id": 710103,
+        "message": "編成制限無し"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": -1,
+                "condition_value": 23,
+                "id": 71010101
+            }
+        ],
+        "stage_id": 710101,
+        "message": "編成制限無し"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10017,
+                "id": 67070201
+            }
+        ],
+        "stage_id": 670702,
+        "message": "「鬼グループキャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10017,
+                "id": 67070301
+            }
+        ],
+        "stage_id": 670703,
+        "message": "「鬼グループキャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10017,
+                "id": 67070101
+            }
+        ],
+        "stage_id": 670701,
+        "message": "「鬼グループキャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67020201
+            }
+        ],
+        "stage_id": 670202,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67020301
+            }
+        ],
+        "stage_id": 670203,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67020101
+            }
+        ],
+        "stage_id": 670201,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67020601
+            }
+        ],
+        "stage_id": 670206,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67020701
+            }
+        ],
+        "stage_id": 670207,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67020401
+            }
+        ],
+        "stage_id": 670204,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10009,
+                "id": 67020501
+            }
+        ],
+        "stage_id": 670205,
+        "message": "「物理攻撃キャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10017,
+                "id": 67070601
+            }
+        ],
+        "stage_id": 670706,
+        "message": "「鬼グループキャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10017,
+                "id": 67070701
+            }
+        ],
+        "stage_id": 670707,
+        "message": "「鬼グループキャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10017,
+                "id": 67070401
+            }
+        ],
+        "stage_id": 670704,
+        "message": "「鬼グループキャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10017,
+                "id": 67070501
+            }
+        ],
+        "stage_id": 670705,
+        "message": "「鬼グループキャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10017,
+                "id": 67071001
+            }
+        ],
+        "stage_id": 670710,
+        "message": "「鬼グループキャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10017,
+                "id": 67070801
+            }
+        ],
+        "stage_id": 670708,
+        "message": "「鬼グループキャラ」のみ使用可能です。"
+    },
+    {
+        "condition_list": [
+            {
+                "num": 0,
+                "condition_type": 3,
+                "condition_value": 10017,
+                "id": 67070901
+            }
+        ],
+        "stage_id": 670709,
+        "message": "「鬼グループキャラ」のみ使用可能です。"
+    }
+]

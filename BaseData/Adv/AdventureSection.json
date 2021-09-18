@@ -1,0 +1,6209 @@
+[
+    {
+        "section_list": [
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 0,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "???",
+                "id": 1,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 0,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "???",
+                "id": 2,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 0,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "???",
+                "id": 3,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 0,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "???",
+                "id": 4,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 0,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "???",
+                "id": 5,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 0,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "???",
+                "id": 6,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 0,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "???",
+                "id": 7,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 0,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "???",
+                "id": 8,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 0,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    0
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "???",
+                "id": 9,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 0,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "???",
+                "id": 10,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": true,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "???",
+                "id": 11,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 1,
+                "name": "???",
+                "id": 12,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 2,
+                "name": "???",
+                "id": 13,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    22
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 3,
+                "name": "???",
+                "id": 21,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    211
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 4,
+                "name": "???",
+                "id": 22,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 5,
+                "name": "???",
+                "id": 23,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 6,
+                "name": "???",
+                "id": 24,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 7,
+                "name": "???",
+                "id": 31,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 8,
+                "name": "???",
+                "id": 32,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 9,
+                "name": "???",
+                "id": 33,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 10,
+                "name": "???",
+                "id": 41,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    511
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 11,
+                "name": "???",
+                "id": 42,
+                "desc": "???"
+            }
+        ],
+        "chapter_id": 0
+    },
+    {
+        "section_list": [
+            {
+                "summary": "突然異世界に召喚されたスバル。\n異世界ネタの知識と照らし合わせながら町を見て\n回るが……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": true,
+                "pos_y": 2,
+                "next_section_id": [
+                    1014
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "第1話[♪]",
+                "id": 1001,
+                "desc": "異世界召喚"
+            },
+            {
+                "summary": "盗品蔵にいたはずなのに、気づけば昼間話した\n果物屋の前に立っていたスバル。その場を離れて\n辺りを見回すが……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 18,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -6128,
+                "next_section_id": [
+                    1025,
+                    1026,
+                    1027,
+                    1028,
+                    1029
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 5,
+                "name": "第6話[♪]",
+                "id": 1002,
+                "desc": "不可解な再会"
+            },
+            {
+                "summary": "エルザに殺されたはずが、\n再び無傷で目覚めたスバル。再会したサテラに\n冷たい視線を浴びせられ、茫然自失となるが……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -14175,
+                "next_section_id": [
+                    1015,
+                    1004
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 8,
+                "name": "第8話[♪]",
+                "id": 1003,
+                "desc": "再会の魔女"
+            },
+            {
+                "summary": "自分の身に起きている現象について、ある仮定が\n芽生えるスバル。が、チンピラに刺され、\n気付けばまたも果物屋の前に……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 14,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -19141,
+                "next_section_id": [
+                    1041,
+                    1045,
+                    1046,
+                    1047,
+                    1048
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 9,
+                "name": "第9話[♪]",
+                "id": 1004,
+                "desc": "終わりと始まり"
+            },
+            {
+                "summary": "ロム爺の仕事を手伝いながら、\n身を置かせてもらうスバル。\n自らの有用性を証明すべく、はりきって働く。",
+                "route_name": "IFルート：フェルト",
+                "stamina": 1,
+                "sec_pos_x": -6,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -14157,
+                "next_section_id": [
+                    1006
+                ],
+                "is_anime": 0,
+                "pos_x": -2704,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 8,
+                "name": "第8話[♪]",
+                "id": 1005,
+                "desc": "盗品蔵の安らぎ"
+            },
+            {
+                "summary": "商業街で、何故か騎士に声を掛けられた\nスバルたち。一夜が明け、普段通りの日常が\n始まるかに思えたが……",
+                "route_name": "IFルート：フェルト",
+                "stamina": 1,
+                "sec_pos_x": -6,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -14157,
+                "next_section_id": [
+                    1007
+                ],
+                "is_anime": 0,
+                "pos_x": -2704,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 9,
+                "name": "第9話",
+                "id": 1006,
+                "desc": "広い世界へ"
+            },
+            {
+                "summary": "王都を出て、捜索の手から逃れたと\n考えていたスバルたち。しかし、遠く離れた港町\nにはすでに『剣聖』の姿があった。",
+                "route_name": "IFルート：フェルト",
+                "stamina": 1,
+                "sec_pos_x": -6,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -15333,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": -2704,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 10,
+                "name": "第10話[♪]",
+                "id": 1007,
+                "desc": "旅の終わり"
+            },
+            {
+                "summary": "盗みの現場に戻ったスバルたちは、運よく\n果物屋の店主から犯人が貧民街のフェルトだと\n教えてもらい、貧民街に向かったが……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -2187,
+                "next_section_id": [
+                    1002
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 4,
+                "name": "第5話[♪]",
+                "id": 1009,
+                "desc": "始まりの終わり"
+            },
+            {
+                "summary": "互いの自己紹介が終わり、捜索を再開した\nスバルとサテラ。なかなか成果が出ない中、\nサテラは小さな女の子に目を留め……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -2187,
+                "next_section_id": [
+                    1009
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 3,
+                "name": "第4話[♪]",
+                "id": 1010,
+                "desc": "手がかりを求めて"
+            },
+            {
+                "summary": "エルザを口車に乗せ、盗品蔵から遠ざけることに\n成功したスバル。これで安心して\n徽章買取の交渉に臨めると意気込む。",
+                "route_name": "IFルート：オットー",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -24362,
+                "next_section_id": [
+                    1012
+                ],
+                "is_anime": 0,
+                "pos_x": -1200,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 11,
+                "name": "第11話[♪]",
+                "id": 1011,
+                "desc": "そして振り出しに戻る"
+            },
+            {
+                "summary": "『ケータイ』を売り払い、それを元手に\n異世界ウハウハライフを送ろうと画策する\nスバル。あれから、数ヶ月が経ち……",
+                "route_name": "IFルート：オットー",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -25518,
+                "next_section_id": [
+                    1013
+                ],
+                "is_anime": 0,
+                "pos_x": -1200,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 12,
+                "name": "第12話[♪]",
+                "id": 1012,
+                "desc": "新たな門出、新たな相棒"
+            },
+            {
+                "summary": "オットーと共に『マヨネーズ』を売り捌く日々。\nそんな中、スバルはオットーとの絆が\n深まっていくのを感じていた。",
+                "route_name": "IFルート：オットー",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -26653,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": -1200,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 13,
+                "name": "第13話[♪]",
+                "id": 1013,
+                "desc": "ゼロから始める異世界商売"
+            },
+            {
+                "summary": "果物屋の店先を離れたスバルは、\n情報収集のつもりで街中を歩き回る。しかし、\n無知かつ無一文のスバルに人々は冷たく……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -2187,
+                "next_section_id": [
+                    1019
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 1,
+                "name": "第2話[♪]",
+                "id": 1014,
+                "desc": "銀髪の少女"
+            },
+            {
+                "summary": "歩ける程度には傷が回復したスバルは、\n助けられた恩返しに何かをしたいと考える。",
+                "route_name": "IFルート：クルシュ",
+                "stamina": 1,
+                "sec_pos_x": -4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -19057,
+                "next_section_id": [
+                    1016
+                ],
+                "is_anime": 0,
+                "pos_x": 7563,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 9,
+                "name": "第9話[♪]",
+                "id": 1015,
+                "desc": "任された仕事"
+            },
+            {
+                "summary": "植えた種は順調に育ち、花壇作りも一段落\nついたスバルは、食料の買い出しを頼まれ、\n引き受けることとなった。",
+                "route_name": "IFルート：クルシュ",
+                "stamina": 1,
+                "sec_pos_x": -4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -20907,
+                "next_section_id": [
+                    1017
+                ],
+                "is_anime": 0,
+                "pos_x": 7563,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 10,
+                "name": "第10話",
+                "id": 1016,
+                "desc": "悪夢の続き"
+            },
+            {
+                "summary": "エミリアの下へ向かう道中、エルザの襲撃を\n受けたスバル。迫る凶刃に命を脅かされ、\n意識が途切れた直後……",
+                "route_name": "IFルート：クルシュ",
+                "stamina": 1,
+                "sec_pos_x": -4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -22079,
+                "next_section_id": [
+                    1018
+                ],
+                "is_anime": 0,
+                "pos_x": 7563,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 11,
+                "name": "第11話[♪]",
+                "id": 1017,
+                "desc": "高潔なるもの"
+            },
+            {
+                "summary": "問題を一人で抱えようとしたスバルを、\nクルシュ邸の面々は優しく引き止める。\n全てを乗り越える戦いが、今、始まる……",
+                "route_name": "IFルート：クルシュ",
+                "stamina": 1,
+                "sec_pos_x": -4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -22079,
+                "next_section_id": [
+                    1020
+                ],
+                "is_anime": 0,
+                "pos_x": 7563,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 12,
+                "name": "第12話[♪]",
+                "id": 1018,
+                "desc": "激戦の行方"
+            },
+            {
+                "summary": "銀髪の少女と小猫がチンピラを撃退したあと、\nホッとしたように気を失ったスバル。\nそして、ようやく意識が戻ってくると……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 6,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -2187,
+                "next_section_id": [
+                    1010
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 2,
+                "name": "第3話[♪]",
+                "id": 1019,
+                "desc": "徽章を探して"
+            },
+            {
+                "summary": "エルザを撃退したスバル一行は、その後\n襲撃されることもなく、無事に目的地である\nロズワール邸に到着した。",
+                "route_name": "IFルート：クルシュ",
+                "stamina": 1,
+                "sec_pos_x": -4,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -22079,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 7563,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 13,
+                "name": "第13話[♪]",
+                "id": 1020,
+                "desc": "スバルの選択"
+            },
+            {
+                "summary": "盗品蔵の蔵主と打ち解けたスバルは、蔵の外で\nフェルトを待つことに。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -14175,
+                "next_section_id": [
+                    1029
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 6,
+                "name": "第7話-前編",
+                "id": 1021,
+                "desc": "交渉の切り札"
+            },
+            {
+                "summary": "交渉で聖金貨二十枚を出したエルザに勝ち、\n徽章を買う権利を手に入れたスバル。\nそんなスバルに、エルザは……",
+                "route_name": "本編：ミミVer.",
+                "stamina": 1,
+                "sec_pos_x": 8,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -14175,
+                "next_section_id": [
+                    1003
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 7,
+                "name": "第7話-後編[♪]",
+                "id": 1024,
+                "desc": "ミミの勘"
+            },
+            {
+                "summary": "怪しまれながらも盗品について交渉を始める\nスバル。しかしユリウスがいるため\n妙に話はこじれて……",
+                "route_name": "本編：ユリウスVer.",
+                "stamina": 1,
+                "sec_pos_x": 6,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -6128,
+                "next_section_id": [
+                    1003
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 7,
+                "name": "第7話[♪]",
+                "id": 1025,
+                "desc": "騎士と貧民"
+            },
+            {
+                "summary": "盗品蔵の主との話がいっこうにはかどらない\nことに、焦りを感じ始めるスバル。\nそこへやってきたのは……",
+                "route_name": "本編：ヴィルヘルムVer.",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -6128,
+                "next_section_id": [
+                    1003
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 7,
+                "name": "第7話[♪]",
+                "id": 1026,
+                "desc": "剣鬼、参る"
+            },
+            {
+                "summary": "徽章を取り戻すため、盗品蔵の外でフェルトの\n到着を待つスバル。暫くすると……",
+                "route_name": "本編：ミミVer.",
+                "stamina": 1,
+                "sec_pos_x": 8,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -14175,
+                "next_section_id": [
+                    1024
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 6,
+                "name": "第7話-前編",
+                "id": 1027,
+                "desc": "交渉成立？"
+            },
+            {
+                "summary": "ラムと一緒に盗品蔵で待っていると、\nやがてフェルトが現れる。ところが、彼女は\nスバルのことを覚えていなかった。",
+                "route_name": "本編：ラムVer.",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -14175,
+                "next_section_id": [
+                    1003
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 7,
+                "name": "第7話[♪]",
+                "id": 1028,
+                "desc": "二人きりの奮闘"
+            },
+            {
+                "summary": "エルザと名乗る黒衣の女性と、徽章を競り合う\nことになったスバル。交渉に不慣れなスバルは、\nロム爺の見立てを信じて……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 6,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -6128,
+                "next_section_id": [
+                    1003,
+                    1005
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 7,
+                "name": "第7話-後編[♪]",
+                "id": 1029,
+                "desc": "黒刃がもたらす死"
+            },
+            {
+                "summary": "あっさりとチンピラ三人組を追い払った、\n赤髪の騎士ラインハルトに、スバルが丁重に感謝を\n伝えると……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -19141,
+                "next_section_id": [
+                    1042,
+                    1011
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 10,
+                "name": "第10話",
+                "id": 1041,
+                "desc": "『剣聖』登場"
+            },
+            {
+                "summary": "エルザがすでに貧民街にいることに恐怖しつつも、\nどうにかフェルトの住処へとたどり着くスバル。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -19141,
+                "next_section_id": [
+                    1043
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 11,
+                "name": "第11話[♪]",
+                "id": 1042,
+                "desc": "二度目の交渉"
+            },
+            {
+                "summary": "大量の氷柱が放たれ、白煙が巻き上がる。\n強力な精霊パックと、人外じみた技量を持つ\n美女エルザの、勝敗の行方は……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -19141,
+                "next_section_id": [
+                    1049
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 12,
+                "name": "第12話[♪]",
+                "id": 1043,
+                "desc": "盗品蔵の攻防"
+            },
+            {
+                "summary": "エルザを避けるために素早く交渉し、徽章を\n取り戻そうとしたスバルだったが、\nやはり事はうまく運ばず時は過ぎる……",
+                "route_name": "本編：ユリウスVer.",
+                "stamina": 1,
+                "sec_pos_x": 6,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -19141,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 10,
+                "name": "第10話[♪]",
+                "id": 1045,
+                "desc": "『最優』の務め"
+            },
+            {
+                "summary": "蔵の中へと場所を替え話を続けるも、\n耳を貸してもらえずに歯痒い思いをするスバル。\nいたずらに時間だけが過ぎ、やがて……",
+                "route_name": "本編：ヴィルヘルムVer.",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -19141,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 10,
+                "name": "第10話[♪]",
+                "id": 1046,
+                "desc": "剣鬼、再び"
+            },
+            {
+                "summary": "先回りしフェルトと直接交渉しようとした\nスバルであったが、\n結局、盗品蔵へとやってくることになり……",
+                "route_name": "本編：ミミVer.",
+                "stamina": 1,
+                "sec_pos_x": 8,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -19141,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 10,
+                "name": "第10話[♪]",
+                "id": 1047,
+                "desc": "二対一"
+            },
+            {
+                "summary": "徽章の奪い合いになったラムとフェルト。\n戦いの直後、貧民街の中を逃げるフェルトを\nラムは追いかけて……",
+                "route_name": "本編：ラムVer.",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -19141,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 10,
+                "name": "第10話[♪]",
+                "id": 1048,
+                "desc": "共同作戦"
+            },
+            {
+                "summary": "エルザによって絶体絶命の窮地に\n追い込まれたスバルを救ったのは、\n『剣聖』ラインハルトだった。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": -19141,
+                "next_section_id": [],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 13,
+                "name": "第13話[♪]",
+                "id": 1049,
+                "desc": "ゼロから始まる異世界生活"
+            }
+        ],
+        "chapter_id": 1
+    },
+    {
+        "section_list": [
+            {
+                "summary": "王都で徽章を取り戻すのに一役買うも、\n意識を失ってしまったスバル。\n目覚めた彼の前に広がった光景は……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": true,
+                "pos_y": 0,
+                "next_section_id": [
+                    2012
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "第1話[♪]",
+                "id": 2011,
+                "desc": "見知らぬ天井"
+            },
+            {
+                "summary": "食堂に呼ばれたスバルは、そこで巨大な\n屋敷に住まう面々と顔を合わせる。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2711,
+                    2013
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 1,
+                "name": "第2話[♪]",
+                "id": 2012,
+                "desc": "ロズワール邸の団欒"
+            },
+            {
+                "summary": "ロズワール邸での一日を終えたスバル。\n労働の苛酷さをかみしめる矢先に、\n訪ねてきたのは……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2021
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 2,
+                "name": "第3話[♪]",
+                "id": 2013,
+                "desc": "約束した朝は遠く"
+            },
+            {
+                "summary": "眠っている間に、いつの間にか『死に戻り』を\nしてしまっていたスバル。混乱は加速する。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2022,
+                    2024
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 3,
+                "name": "第4話[♪]",
+                "id": 2021,
+                "desc": "二度目の誤算"
+            },
+            {
+                "summary": "前回の再現をしようとするも、思い通り\nにいかないスバル。そんな折、\nラムに部屋で話があると言われ……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2023
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 4,
+                "name": "第5話[♪]",
+                "id": 2022,
+                "desc": "二周目の困惑"
+            },
+            {
+                "summary": "レムとともにロズワール邸の近くのアーラム村に\nやってきたスバル。エミリアとのデートの\n下見にもなると意気込むが……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2031
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 5,
+                "name": "第6話[♪]",
+                "id": 2023,
+                "desc": "鎖の音"
+            },
+            {
+                "summary": "エミリアの王選への想いを聞き、改めて\n力になりたいと考えるスバル。しかし、次第\nにずれていく状況に戸惑いは隠せず……",
+                "route_name": "本編：エミリアVer.",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2025
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 4,
+                "name": "第5話",
+                "id": 2024,
+                "desc": "前回との違い"
+            },
+            {
+                "summary": "レムとともにアーラム村にやってきたス\nバル。エミリアとのデートの下見にもなると\n意気込むが……",
+                "route_name": "本編：エミリアVer.",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2031
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 5,
+                "name": "第6話",
+                "id": 2025,
+                "desc": "鎖"
+            },
+            {
+                "summary": "鎖の音とともに命を落としたスバル。\n目覚めた彼は、ロズワール邸の平穏な日々を\n破壊する襲撃者がいると考える……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2032,
+                    2611,
+                    2511
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 6,
+                "name": "第7話",
+                "id": 2031,
+                "desc": "三度目の再会"
+            },
+            {
+                "summary": "襲撃者の正体を暴くため、情報収集をするべく\n食客の立場になることを選択した\nスバルだったが……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2033
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 7,
+                "name": "第8話",
+                "id": 2032,
+                "desc": "読み書きの成果"
+            },
+            {
+                "summary": "前回、襲撃者が現れた四日目。\nスバルは外から屋敷に侵入者がいないか\n監視する作戦に出る。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2041
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 8,
+                "name": "第9話[♪]",
+                "id": 2033,
+                "desc": "逢魔時の鬼ごっこ"
+            },
+            {
+                "summary": "襲撃者の正体がレムだったと知って、\n打ちのめされるスバル。\n四度目の朝が幕を開ける。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2042,
+                    2043
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 9,
+                "name": "第10話[♪]",
+                "id": 2041,
+                "desc": "言葉にはできない"
+            },
+            {
+                "summary": "ついに五日目の朝を迎えたスバル。しかし、\n喜ぶのも束の間。彼の目に飛びこんできたのは、\n慟哭するラムの姿だった……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2051
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 10,
+                "name": "第11話[♪]",
+                "id": 2042,
+                "desc": "覚悟と、告白"
+            },
+            {
+                "summary": "恐怖に蝕まれたスバルは高熱を出して\n寝込んでしまい、\nラムたちに看病されるのであった。",
+                "route_name": "本編：エミリアVer.",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2044
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 10,
+                "name": "第11話-前編[♪]",
+                "id": 2043,
+                "desc": "目が覚めると天国"
+            },
+            {
+                "summary": "スバルはエミリアの部屋で、待ち望んでいた\n五日目の朝を迎えるが……",
+                "route_name": "本編：エミリアVer.",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2054
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 11,
+                "name": "第11話-後編",
+                "id": 2044,
+                "desc": "庇護の成果は"
+            },
+            {
+                "summary": "全てを救う。その決意を胸に、スバルは\n五度目の初日に戻ってきた。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2052
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 12,
+                "name": "第12話",
+                "id": 2051,
+                "desc": "ナツキ・スバルのリスタート"
+            },
+            {
+                "summary": "周囲の信頼を勝ち取るために、使用人の\n仕事をこなしていくスバル。誰にも理解され\nぬ戦いは彼の精神を追い込んでいく……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2053
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 13,
+                "name": "第13話[♪]",
+                "id": 2052,
+                "desc": "ナツキ・スバルの道化ぶり"
+            },
+            {
+                "summary": "エミリアに元気づけられたスバル。恥ず\nかしさを覚えつつも、呪術師に関する手がかり\nを得るべく、ベアトリスの元へ。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2054
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 14,
+                "name": "第14話",
+                "id": 2053,
+                "desc": "見えた光明と不穏の影"
+            },
+            {
+                "summary": "アーラム村で買い出しと呪術師の捜索を\n終えて屋敷に帰還するスバル。これまでにな\nかった展開もあり、手応えを得る……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2055,
+                    2056
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 15,
+                "name": "第15話",
+                "id": 2054,
+                "desc": "村の危機"
+            },
+            {
+                "summary": "村に到着したスバルとレム。案の定、\nアーラム村では子どもたちが行方不明になり、\n大騒ぎになっていた……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2061
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 16,
+                "name": "第16話[♪]",
+                "id": 2055,
+                "desc": "勇気の意味"
+            },
+            {
+                "summary": "村に到着したスバルとエミリアとレム。\n案の定、アーラム村では子どもたちが行方不明\nになり、大騒ぎになっていた……",
+                "route_name": "本編：エミリアVer.",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2057
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 16,
+                "name": "第16話",
+                "id": 2056,
+                "desc": "子どもたちの行方"
+            },
+            {
+                "summary": "見当たらぬ少女を探して、森の奥深くへ\nと分け入っていくスバルとレム。\nそこで待っていたのは……",
+                "route_name": "本編：エミリアVer.",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2058
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 17,
+                "name": "第17話[♪]",
+                "id": 2057,
+                "desc": "ウルガルムとの激闘"
+            },
+            {
+                "summary": "魔獣を撃退したスバルたちは、無事村へ\nと戻ってくる。出迎える村の人たちは……",
+                "route_name": "本編：エミリアVer.",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 18,
+                "name": "第18話[♪]",
+                "id": 2058,
+                "desc": "感謝感激・エミリアたん"
+            },
+            {
+                "summary": "犬の魔獣との激闘の最中に、\nスバルは意識を失って……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2062
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 17,
+                "name": "第17話[♪]",
+                "id": 2061,
+                "desc": "生き足掻く条件"
+            },
+            {
+                "summary": "スバルとラムは単身で森の中に入って\nいったレムを探す。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2063
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 18,
+                "name": "第18話",
+                "id": 2062,
+                "desc": "絶望の利用法"
+            },
+            {
+                "summary": "鬼族の里に生まれた双子――ラムとレム。\n優秀すぎる姉を持ってしまった妹、\nレムの記憶。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2064
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 19,
+                "name": "第19話[♪]",
+                "id": 2063,
+                "desc": "レム"
+            },
+            {
+                "summary": "暴走するレムを止め、ウルガルムから逃げ惑う\nスバルたち。ハッピーエンドを目指して、\n最後の助走がはじまる。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 20,
+                "name": "第20話[♪]",
+                "id": 2064,
+                "desc": "笑いながら、未来の話をしよう"
+            },
+            {
+                "summary": "三度目の使用人として奮闘するスバル。\n夜、読み書きの勉強を見るためにやってきた\nのは意外な人物だった。",
+                "route_name": "IFルート：姉妹・ペトラ共通",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2512,
+                    2811
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 7,
+                "name": "第8話[♪]",
+                "id": 2511,
+                "desc": "赤鬼と青鬼"
+            },
+            {
+                "summary": "スバルとともに屋敷に戻ってきたラム。\n彼女の胸中には、言い知れぬ不安が渦巻いて\nいた。",
+                "route_name": "IFルート：姉妹",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2513
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 8,
+                "name": "第9話",
+                "id": 2512,
+                "desc": "暗中模索"
+            },
+            {
+                "summary": "三周目で迎える四日目の朝。スバルに突\nきつけられる現実は……",
+                "route_name": "IFルート：姉妹",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2514
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 9,
+                "name": "第10話[♪]",
+                "id": 2513,
+                "desc": "予想外の結末"
+            },
+            {
+                "summary": "――ラムとの約束を守る。全てを救う。その\n決意を胸に、スバルは四度目の初日に戻って\nきた。",
+                "route_name": "IFルート：姉妹",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2515
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 10,
+                "name": "第11話",
+                "id": 2514,
+                "desc": "期待と約束のリスタート"
+            },
+            {
+                "summary": "周囲の信頼を勝ち取るために、使用人の\n仕事をこなしていくスバル。誰にも理解され\nぬ戦いは彼の精神を追い込んでいく……",
+                "route_name": "IFルート：姉妹",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2516
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 11,
+                "name": "第12話[♪]",
+                "id": 2515,
+                "desc": "ナツキ・スバルの道化ぶり"
+            },
+            {
+                "summary": "エミリアに元気づけられたスバル。恥ず\nかしさを覚えつつも、呪術師に関する手がか\nりを得るべく、ベアトリスの元へ。",
+                "route_name": "IFルート：姉妹",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2517
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 12,
+                "name": "第13話",
+                "id": 2516,
+                "desc": "ラム、見えた真相"
+            },
+            {
+                "summary": "アーラム村で買い出しと呪術師の捜索を\n終えて屋敷に帰還するスバル。これまでにな\nかった展開もあり、手応えを得る……",
+                "route_name": "IFルート：姉妹",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2518
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 13,
+                "name": "第14話",
+                "id": 2517,
+                "desc": "使用人たちの決断"
+            },
+            {
+                "summary": "村に到着したスバルとレム。案の定とい\nうべきか、アーラム村では子どもたちが行方\n不明になり、大騒ぎになっていた。",
+                "route_name": "IFルート：姉妹",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2911
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 14,
+                "name": "第15話[♪]",
+                "id": 2518,
+                "desc": "密かな贖い"
+            },
+            {
+                "summary": "謎の襲撃者を倒す方法を考えるスバル。\nそこで思いついたのは、\n『剣聖』ラインハルトの存在であった。",
+                "route_name": "IFルート：ラインハルト",
+                "stamina": 1,
+                "sec_pos_x": 6,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 7,
+                "name": "第8話[♪]",
+                "id": 2611,
+                "desc": "チート級の助っ人"
+            },
+            {
+                "summary": "ロズワール邸の使用人となったスバル。\n彼の新たな日々が幕を開ける……のだが、\n先行きは不安なものであった。",
+                "route_name": "IFルート：ロズワール",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2712
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 2,
+                "name": "第3話[♪]",
+                "id": 2711,
+                "desc": "未熟な従者"
+            },
+            {
+                "summary": "ロズワールの飛行魔法で体力を奪われるスバル。\n休憩を挟みながら、一人目の貴族\nラヴンキル侯爵の屋敷に到着する。",
+                "route_name": "IFルート：ロズワール",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2713
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 3,
+                "name": "第4話[♪]",
+                "id": 2712,
+                "desc": "男同士の語らい"
+            },
+            {
+                "summary": "旅館で一夜を過ごしたスバルとロズワール。\n屋敷に帰還した二人は、領民との交流を\n図るべく村へと出発する。",
+                "route_name": "IFルート：ロズワール",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 4,
+                "name": "第5話[♪]",
+                "id": 2713,
+                "desc": "領主の務め"
+            },
+            {
+                "summary": "スバルがクビになった翌日、アーラム村\nをエミリア、ラム、そしてロズワールが訪れた。",
+                "route_name": "IFルート：ペトラ",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2812
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 8,
+                "name": "第9話[♪]",
+                "id": 2811,
+                "desc": "村人としての生活"
+            },
+            {
+                "summary": "スバルが農作業を終えて空き家に戻ると、\nタイミングを見計らったかのように、\n訪問客がやってくる。",
+                "route_name": "IFルート：ペトラ",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2813
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 9,
+                "name": "第10話[♪]",
+                "id": 2812,
+                "desc": "花嫁衣裳"
+            },
+            {
+                "summary": "必要なものを全て揃えたスバルとペトラ\nは、いよいよ花嫁衣装作りを開始しようとす\nるのだが……",
+                "route_name": "IFルート：ペトラ",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2814
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 10,
+                "name": "第11話[♪]",
+                "id": 2813,
+                "desc": "ペトラの夢"
+            },
+            {
+                "summary": "結婚式当日。セラは、スバルとペトラが\n作った花嫁衣装に袖を通す。",
+                "route_name": "IFルート：ペトラ",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 11,
+                "name": "第12話[♪]",
+                "id": 2814,
+                "desc": "夢の行く末"
+            },
+            {
+                "summary": "鬼族の里に生まれた双子、ラムとレム。\n優秀すぎる姉を持ってしまった妹、レムの記\n憶。",
+                "route_name": "IFルート：姉妹",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2912
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 15,
+                "name": "第16話[♪]",
+                "id": 2911,
+                "desc": "生き足掻け！"
+            },
+            {
+                "summary": "レムを救うべく、ラムは森の中に入り一\n人でウルガルムの群れに挑む。",
+                "route_name": "IFルート：姉妹",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    2913
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 16,
+                "name": "第17話[♪]",
+                "id": 2912,
+                "desc": "『代替品』"
+            },
+            {
+                "summary": "魔獣殲滅に成功し眠るスバル。彼が目覚\nめると、傍らにいたのは……",
+                "route_name": "IFルート：姉妹",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 17,
+                "name": "第18話[♪]",
+                "id": 2913,
+                "desc": "ちょっとずつ"
+            }
+        ],
+        "chapter_id": 2
+    },
+    {
+        "section_list": [
+            {
+                "summary": "有名な劇団の興行を目当てに王都へきた\nスバル、エミリア、レム。観劇を満喫した\n三人は、王都の宿に泊まることになり……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": true,
+                "pos_y": 0,
+                "next_section_id": [
+                    3012,
+                    3211
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "第1話[♪]",
+                "id": 3011,
+                "desc": "無実の罪"
+            },
+            {
+                "summary": "リカード、ティビー、ヘータローと意外\nな再会を果たしたスバルとオットー。監獄で\nの日々を無事に乗り切る決意をするが……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3021
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 1,
+                "name": "第2話[♪]",
+                "id": 3012,
+                "desc": "視線"
+            },
+            {
+                "summary": "七日目の夜に懲罰房で死んだスバル。\n気付くと彼は、面会室にいた。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 7,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3022
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 2,
+                "name": "第3話[♪]",
+                "id": 3021,
+                "desc": "頼みの綱"
+            },
+            {
+                "summary": "牢名主を警戒するまま、時が過ぎていき\nスバルは前回死んだ七日目を迎える。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3031
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 3,
+                "name": "第4話[♪]",
+                "id": 3022,
+                "desc": "視線の主"
+            },
+            {
+                "summary": "看守によって殺されたスバル。\n彼は改めて死の理由を探り始める。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3032
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 4,
+                "name": "第5話",
+                "id": 3031,
+                "desc": "二度目の反省"
+            },
+            {
+                "summary": "政争に巻き込まれた可能性を示唆された\nスバルは、とにかく身を守ることを考える。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3033
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 5,
+                "name": "第6話[♪]",
+                "id": 3032,
+                "desc": "大人しく"
+            },
+            {
+                "summary": "息を殺して目立たないように努める\nスバルは、七日目の夜を迎える。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3041
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 6,
+                "name": "第7話[♪]",
+                "id": 3033,
+                "desc": "七日目の真実"
+            },
+            {
+                "summary": "突如行われた一方的な虐殺。\n混乱する思考を整理する間もなく、\n四度目のループが幕を開ける。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 6,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3042,
+                    3046,
+                    3048
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 7,
+                "name": "第8話[♪]",
+                "id": 3041,
+                "desc": "最終手段"
+            },
+            {
+                "summary": "脱獄の方針を立てるものの、\n前途多難なスバル。そこへ有力な情報が\n舞い込んでくる。",
+                "route_name": "本編：True",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3043
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 8,
+                "name": "第9話",
+                "id": 3042,
+                "desc": "牢名主の秘密"
+            },
+            {
+                "summary": "脱獄計画を推し進めるスバルたち。\nいよいよ、下水管までのトンネルが、\n完成する。",
+                "route_name": "本編：True",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3051
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 9,
+                "name": "第10話[♪]",
+                "id": 3043,
+                "desc": "総力を挙げて"
+            },
+            {
+                "summary": "脱獄の件を、オットーに持ちかけたスバ\nル。だが、冤罪を晴らせないままでは意味が\nないため、新たな情報を得ようと動き出す。",
+                "route_name": "本編：オットーver.",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3047
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 8,
+                "name": "第9話",
+                "id": 3046,
+                "desc": "オットーの知恵"
+            },
+            {
+                "summary": "脱獄計画を推し進めるスバルたち。\nいよいよ、下水管までのトンネルが\n完成する。",
+                "route_name": "本編：オットーver.",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3051
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 9,
+                "name": "第10話[♪]",
+                "id": 3047,
+                "desc": "フランソワーズ"
+            },
+            {
+                "summary": "脱獄の件を、リカードに持ちかけたスバ\nル。だが、このままでは冤罪を晴らせないた\nめ、アナスタシアの協力を得ることに……",
+                "route_name": "本編：リカードver.",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3049
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 8,
+                "name": "第9話[♪]",
+                "id": 3048,
+                "desc": "リカードの力"
+            },
+            {
+                "summary": "脱獄計画を推し進めるスバルたち。\nいよいよ、下水管までのトンネルが\n完成する。",
+                "route_name": "本編：リカードver.",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3051
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 9,
+                "name": "第10話[♪]",
+                "id": 3049,
+                "desc": "約束"
+            },
+            {
+                "summary": "何とか塀を越えるも、監獄を囲う湖に阻\nまれ、脱獄に失敗したスバル。壮絶な死に心\nを囚われ、一度は膝を屈しかけるが……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3056,
+                    3058,
+                    3052
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 10,
+                "name": "第11話[♪]",
+                "id": 3051,
+                "desc": "絶望の淵より"
+            },
+            {
+                "summary": "ゼルガとの問答の夜を乗り越えた翌日、\nスバルは再び面会にきてくれたエミリアたち\nと向かい合い……",
+                "route_name": "本編：True",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3053
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 11,
+                "name": "第12話[♪]",
+                "id": 3052,
+                "desc": "ゼルガ・イグレシア"
+            },
+            {
+                "summary": "脱獄計画実行の当日、\n幾度も死したナツキ・スバルの布石\nが試される。",
+                "route_name": "本編：True",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3054
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 12,
+                "name": "第13話[♪]",
+                "id": 3053,
+                "desc": "脱獄日和"
+            },
+            {
+                "summary": "脱獄に成功したスバルたち。一行は黒幕\nであるルダール・イグレシアを告発するため\nに、王都の議会に乗り込む",
+                "route_name": "本編：True",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 13,
+                "name": "第14話[♪]",
+                "id": 3054,
+                "desc": "告発"
+            },
+            {
+                "summary": "牢名主の協力を取りつけたスバル。\nだが、脱獄するためには、まだ足りない。\n思考を巡らすスバルであったが……",
+                "route_name": "本編：オットーver.",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3057
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 11,
+                "name": "第12話[♪]",
+                "id": 3056,
+                "desc": "オットーの『加護』"
+            },
+            {
+                "summary": "収監から六日目の夜。準備が整い、\n脱獄決行の時がやってきた。",
+                "route_name": "本編：オットーver.",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 12,
+                "name": "第13話[♪]",
+                "id": 3057,
+                "desc": "鍵は水竜"
+            },
+            {
+                "summary": "牢名主の協力を取りつけたスバル。\nだが、脱獄するためには、まだ足りない。\n思考を巡らすスバルであったが……",
+                "route_name": "本編：リカードver.",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3059
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 11,
+                "name": "第12話",
+                "id": 3058,
+                "desc": "リカードの筋肉"
+            },
+            {
+                "summary": "脱獄決行当日の夜。しかし、スバルには\nギルモア監獄攻略のための重要なピースが\nまだひとつ欠けていた。",
+                "route_name": "本編：リカードver.",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 12,
+                "name": "第13話[♪]",
+                "id": 3059,
+                "desc": "『鉄の牙』の力"
+            },
+            {
+                "summary": "リカードたちと意外な再会を果たしたス\nバルとオットー。一夜が明け、監獄での生活\nも二日目が始まろうとしていた。",
+                "route_name": "IFルート：監獄王",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    3212
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 1,
+                "name": "第2話[♪]",
+                "id": 3211,
+                "desc": "トンチンカンな日々"
+            },
+            {
+                "summary": "ロム爺を介し、ラインハルトに調査依頼\nを出したスバル。これで解決したも同然と、\n安心して昼食の席へと向かうが……",
+                "route_name": "IFルート：監獄王",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 2,
+                "name": "第3話[♪]",
+                "id": 3212,
+                "desc": "監獄王"
+            }
+        ],
+        "chapter_id": 3
+    },
+    {
+        "section_list": [
+            {
+                "summary": "平穏を取り戻したアーラム村。スバルは\n村人たちを元気づけるべく、ラジオ体操の\n普及に励んでいた。その帰り道……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": true,
+                "pos_y": 0,
+                "next_section_id": [
+                    4012
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "第1話[♪]",
+                "id": 4011,
+                "desc": "再来の王都"
+            },
+            {
+                "summary": "二日後、ロズワール邸を離れ、王都に\n到着したスバル。スバルはエミリアと、\n王都で世話になった関係者を訪ねて回ることに。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4013,
+                    4111,
+                    4511
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 1,
+                "name": "第2話[♪]",
+                "id": 4012,
+                "desc": "深紅の少女"
+            },
+            {
+                "summary": "王城へと向かうスバル。どうやって中に\n入るか悩む彼だったが……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4021
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 2,
+                "name": "第3話[♪]",
+                "id": 4013,
+                "desc": "王城での再会"
+            },
+            {
+                "summary": "ついに王選は開始された。\n候補たちが集まる中、スバルは……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4022
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 3,
+                "name": "第4話[♪]",
+                "id": 4021,
+                "desc": "王選候補者たち"
+            },
+            {
+                "summary": "王候補たちの所信表明は、\nついにエミリアの番となるのだが……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4023
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 4,
+                "name": "第5話[♪]",
+                "id": 4022,
+                "desc": "銀色の魔女の願い"
+            },
+            {
+                "summary": "エミリアの見事な演説で、広間の空気は\n大きく変わった。だが、そんな空気を凍て\nつかせたのは、スバルの騎士宣言であった。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4024
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 5,
+                "name": "第6話[♪]",
+                "id": 4023,
+                "desc": "自称騎士と、潜入した巨人"
+            },
+            {
+                "summary": "エミリアに拒絶されて落ち込むスバル。\nそんな彼の元に、またユリウスが現れ……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4022
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 6,
+                "name": "第7話[♪]",
+                "id": 4024,
+                "desc": "愚か者の矜持"
+            },
+            {
+                "summary": "クルシュ邸に居候するスバル。ゲートの\n治療を受けつつヴィルヘルムに剣の稽古を\nつけてもらうが、彼の心は荒れていた。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4032
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 7,
+                "name": "第8話[♪]",
+                "id": 4031,
+                "desc": "腐敗する精神"
+            },
+            {
+                "summary": "その晩、スバルとクルシュは二人きりで\n酒を酌み交わす……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4033
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 8,
+                "name": "第9話[♪]",
+                "id": 4032,
+                "desc": "動き出す事態"
+            },
+            {
+                "summary": "宿場町の宿で眠るスバル。\n彼が目を覚ますと……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4081
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 9,
+                "name": "第10話[♪]",
+                "id": 4033,
+                "desc": "絶望という病"
+            },
+            {
+                "summary": "苦難の末に屋敷へと戻ったスバル。\nだがそこで彼が目にしたのは、\nあまりにも凄惨な光景であった。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4042
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 10,
+                "name": "第11話[♪]",
+                "id": 4041,
+                "desc": "狂気の外側"
+            },
+            {
+                "summary": "魔女教の大罪司教を名乗る男ペテルギウス。\nなぜか彼はスバルに興味を示す……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4051
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 11,
+                "name": "第12話[♪]",
+                "id": 4042,
+                "desc": "洞窟の中"
+            },
+            {
+                "summary": "帰ってきたスバルは、運命を変えるために、\nある交渉をしようと心に決める。\nその相手は……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4052
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 12,
+                "name": "第13話",
+                "id": 4051,
+                "desc": "幼い交渉"
+            },
+            {
+                "summary": "クルシュに協力を断られたスバルは、他の\n心当たりを訪ねることにするのだが……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4053
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 13,
+                "name": "第14話[♪]",
+                "id": 4052,
+                "desc": "得られない救援"
+            },
+            {
+                "summary": "スバルとレムはアナスタシアのつてで手に\n入れた竜車で、メイザース領へと向かう。\n何の援軍もないままに……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4021
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 14,
+                "name": "第15話",
+                "id": 4053,
+                "desc": "闇に浮かぶ眼"
+            },
+            {
+                "summary": "突如、靄と共に現れた怪物が、平原一帯を\n霧の海に変え始めた",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4062
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 15,
+                "name": "第16話",
+                "id": 4061,
+                "desc": "霧中"
+            },
+            {
+                "summary": "何もかも失い、街道にただ一人放り出さ\nれたスバル。そんな彼の前に……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4071
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 16,
+                "name": "第17話[♪]",
+                "id": 4062,
+                "desc": "代償"
+            },
+            {
+                "summary": "スバルとエミリアの亡骸に、魔女教徒の\n手が迫る。だが、そこに現れたのは\nパックであった。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4072
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 17,
+                "name": "第18話[♪]",
+                "id": 4071,
+                "desc": "敗北の向こう側"
+            },
+            {
+                "summary": "全てを諦め逃げ出したいスバル。\nだが、彼の言葉を聞いたレムは――",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4081
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 18,
+                "name": "第19話[♪]",
+                "id": 4072,
+                "desc": "レムの英雄"
+            },
+            {
+                "summary": "ゼロから始めようと心機一転のスバル。\n彼の最初の交渉相手は……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4082
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 19,
+                "name": "第20話[♪]",
+                "id": 4081,
+                "desc": "同盟交渉"
+            },
+            {
+                "summary": "クルシュ率いる軍勢は、\nついに白鯨を討つべく王都を発つ。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4091
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 20,
+                "name": "第21話[♪]",
+                "id": 4082,
+                "desc": "白鯨出現"
+            },
+            {
+                "summary": "ついに白鯨と、クルシュ率いる討伐隊との\n戦いが始まった……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4092
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 21,
+                "name": "第22話[♪]",
+                "id": 4091,
+                "desc": "決戦の火蓋"
+            },
+            {
+                "summary": "白鯨の真の力に圧倒される討伐隊。\nあたり一面、霧に包まれる中、\nヴィルヘルムは過去を思い出す……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4101
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 22,
+                "name": "第23話[♪]",
+                "id": 4092,
+                "desc": "霧の脅威"
+            },
+            {
+                "summary": "白鯨は三体いた。しかもヴィルヘルムは\n飲み込まれ、リカードも重傷。討伐隊の士気\nは打ち砕かれる……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4102
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 23,
+                "name": "第24話[♪]",
+                "id": 4101,
+                "desc": "絶望の足音"
+            },
+            {
+                "summary": "ヴィルヘルムは助け出せたが、まだ戦況\nは不利のままだ。そんな中、スバルが気づい\nたこととは――",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 24,
+                "name": "第25話[♪]",
+                "id": 4102,
+                "desc": "討伐の終わりと始まり"
+            },
+            {
+                "summary": "迎賓館へと帰ってきたエミリア。だが彼女は\n元気をなくしており、スバルは励ますために\n何かをしなければと考える。",
+                "route_name": "IFルート：共通",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4112
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 2,
+                "name": "第3話",
+                "id": 4111,
+                "desc": "俺が君にできること"
+            },
+            {
+                "summary": "エミリアを元気づけることに成功した\nスバル。浮かれた日々が始まるが……",
+                "route_name": "IFルート：共通",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4211,
+                    4311,
+                    4411
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 3,
+                "name": "第4話[♪]",
+                "id": 4112,
+                "desc": "エミリアと"
+            },
+            {
+                "summary": "プリシラの暇潰しに付き合わされる\nことになったスバルは、貴族街を離れて\n商い通りへとやってきた。",
+                "route_name": "IFルート：プリシラ",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4212
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 4,
+                "name": "第5話",
+                "id": 4211,
+                "desc": "リンガの因果"
+            },
+            {
+                "summary": "まだ解放してもらえぬスバル。パーティ\nドレスに着替えたプリシラは、なおも彼を\n連れ回す。次の行き先は……",
+                "route_name": "IFルート：プリシラ",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 5,
+                "name": "第6話[♪]",
+                "id": 4212,
+                "desc": "華麗と可憐"
+            },
+            {
+                "summary": "ミミと共に、男たちを追うスバル。奴ら\nの目的は……",
+                "route_name": "IFルート：ミミ",
+                "stamina": 1,
+                "sec_pos_x": 6,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4312
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 4,
+                "name": "第5話",
+                "id": 4311,
+                "desc": "ダークネス・ゾーン"
+            },
+            {
+                "summary": "誘拐団は退治したものの、無理してシャ\nマクを使ったことで倒れてしまったスバル。\nそんな彼の前に現れたのは……",
+                "route_name": "IFルート：ミミ",
+                "stamina": 1,
+                "sec_pos_x": 6,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 5,
+                "name": "第6話",
+                "id": 4312,
+                "desc": "カララギの使者"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート：ラインハルト",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 4,
+                "name": "第5話",
+                "id": 4411,
+                "desc": "※公開をお待ちください"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート：フェルト",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4512
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 2,
+                "name": "第3話",
+                "id": 4511,
+                "desc": "※公開をお待ちください"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート：フェルト",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4513
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 3,
+                "name": "???",
+                "id": 4512,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート：フェルト",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    4514
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 4,
+                "name": "???",
+                "id": 4513,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート：フェルト",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 5,
+                "name": "???",
+                "id": 4514,
+                "desc": "???"
+            }
+        ],
+        "chapter_id": 4
+    },
+    {
+        "section_list": [
+            {
+                "summary": "ついに白鯨を倒した討伐隊一行。クルシュは\n兵と共に王都へ引き上げる予定だったが\nスバルの戦いはここからが本番だった。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": true,
+                "pos_y": 0,
+                "next_section_id": [
+                    5012,
+                    5111,
+                    5211
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "第1話",
+                "id": 5011,
+                "desc": "合流"
+            },
+            {
+                "summary": "ついに魔女教と対決へ。スバルたちは援軍と\n合流するが、近衛騎士ユリウス――\nスバルの因縁の相手が、援軍の先頭にいた。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5013
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 1,
+                "name": "第2話",
+                "id": 5012,
+                "desc": "先制の一閃"
+            },
+            {
+                "summary": "自らが囮となってを魔女教を釣るという\nスバルの作戦は成功し、ペテルギウスを\n倒した一同。その死体を囲みながら……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5021
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 2,
+                "name": "第3話",
+                "id": 5013,
+                "desc": "逆襲の指先"
+            },
+            {
+                "summary": "ヴィルヘルムに『戦え』と言われ、決意を\n新たにしたスバル。だが突然、奇妙な空間に\n閉じ込められる。その犯人は……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5022
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 3,
+                "name": "第4話",
+                "id": 5021,
+                "desc": "アーラム村へ"
+            },
+            {
+                "summary": "ラムの誤解が解け、彼女の協力を得た\nスバルたち。これで、やっと村人たちを\n避難させることができる……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5023
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 4,
+                "name": "第5話",
+                "id": 5022,
+                "desc": "怠惰の襲来"
+            },
+            {
+                "summary": "次々と現れる『怠惰』によって、村は\n絶体絶命の危機となる。そこに現れたのは、\nなんとエミリアであった。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5031
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 5,
+                "name": "第6話",
+                "id": 5023,
+                "desc": "狂信者の器"
+            },
+            {
+                "summary": "多大な犠牲を払い、スバルたちは何とか\n魔女教を一掃した……はずであった。\n彼はまた命を失い、新しい周回が始まる。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5032
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 6,
+                "name": "第7話",
+                "id": 5031,
+                "desc": "後の先"
+            },
+            {
+                "summary": "村人の避難も進み、スパイも捕らえ、\nついにスバルたちの反撃が始まった……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5033
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 7,
+                "name": "第8話",
+                "id": 5032,
+                "desc": "準備万端"
+            },
+            {
+                "summary": "全ての準備は整った。スバルはペテルギウスと\n決着をつけるべく、森の奥へ……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 8,
+                "name": "第9話",
+                "id": 5033,
+                "desc": "『最優』の目"
+            },
+            {
+                "summary": "ついにペテルギウスを追い詰めたスバルと\nユリウス。一方、その頃エミリアは、避難\nのために王都へと向かう竜車の列にいた……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5042
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 9,
+                "name": "第10話",
+                "id": 5041,
+                "desc": "怠惰なる終幕"
+            },
+            {
+                "summary": "ついにペテルギウスを倒したスバルと\nユリウス。だが、その頃新たな危機が、\n彼らを待ち受けていた。",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5043
+                ],
+                "is_anime": 1,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 10,
+                "name": "第11話",
+                "id": 5042,
+                "desc": "追う者と追いすがる者"
+            },
+            {
+                "summary": "今度こそペテルギウスを倒したスバル。\nそのまま彼はエミリアの竜車を追うが……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5044
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 11,
+                "name": "第12話",
+                "id": 5043,
+                "desc": "ただそれだけの物語"
+            },
+            {
+                "summary": "こうして全ての事件は終わり、\n竜車の群れはアーラム村へと引き返す……",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 12,
+                "name": "第13話",
+                "id": 5044,
+                "desc": "残された課題"
+            },
+            {
+                "summary": "――援軍に現れたアナスタシアは魔女教討伐\nを有利に進めるべく、対話鏡を横流しした商\n人の捕縛を提案した。",
+                "route_name": "IFルート：アナスタシア",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 1,
+                "name": "第2話",
+                "id": 5111,
+                "desc": "あぶり出し"
+            },
+            {
+                "summary": "――魔女教徒ケティを捕らえたアナスタシア\nは、魔女教討伐の次の段階に向けて、布石を\n打つ。",
+                "route_name": "IFルート：アナスタシア",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 2,
+                "name": "第3話",
+                "id": 5112,
+                "desc": "記憶の底の手がかり"
+            },
+            {
+                "summary": "――過去の証言を突き合わせても実態を掴め\nぬ『怠惰』の大罪司教。スバルは、活路を見\n出すことができるのか――",
+                "route_name": "IFルート：アナスタシア",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 3,
+                "name": "第4話",
+                "id": 5113,
+                "desc": "『商人』流魔女教退治"
+            },
+            {
+                "summary": "――ついにペテルギウスと魔女教徒たちを一\n網打尽にした一行。その陰にあった、ペテル\nギウスを仕留めるための秘策とは？",
+                "route_name": "IFルート：アナスタシア",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 4,
+                "name": "第5話",
+                "id": 5114,
+                "desc": "スバルの出番"
+            },
+            {
+                "summary": "――ついにペテルギウスを打ち倒したスバル\nたち。事後報告のために、ロズワール邸を訪\nれる……",
+                "route_name": "IFルート：アナスタシア",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 5,
+                "name": "第6話",
+                "id": 5115,
+                "desc": "収支決算"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート：プリシラ",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5212
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 1,
+                "name": "???",
+                "id": 5211,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート：プリシラ",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5213
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 2,
+                "name": "???",
+                "id": 5212,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート：プリシラ",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5214
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 3,
+                "name": "???",
+                "id": 5213,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート：プリシラ",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5312
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 4,
+                "name": "???",
+                "id": 5214,
+                "desc": "???"
+            },
+            {
+                "summary": "――見事に白鯨と魔女教を打倒し、その祝賀\nパーティがクルシュ邸で行われることに。そ\nこに招かれたスバルは……",
+                "route_name": "IFルート",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5312
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 6,
+                "name": "第1話",
+                "id": 5311,
+                "desc": "商人の目利き"
+            },
+            {
+                "summary": "――見事に白鯨と魔女教を打倒し、その祝賀\nパーティがクルシュ邸で行われることに。そ\nこに招かれたスバルは……",
+                "route_name": "IFルート",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5313
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 6,
+                "name": "第1話",
+                "id": 5312,
+                "desc": "ただの誤解"
+            },
+            {
+                "summary": "――ひととおりの挨拶と歓談を済ませたスバ\nルとレム。宴の最後に待っていたのは……",
+                "route_name": "IFルート",
+                "stamina": 1,
+                "sec_pos_x": 3,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    5312
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 7,
+                "name": "第2話",
+                "id": 5313,
+                "desc": "言うべきこと"
+            }
+        ],
+        "chapter_id": 5
+    },
+    {
+        "section_list": [
+            {
+                "summary": "洞窟で、ペテルギウスと対峙したスバルと、\nスバルを救うべく命を賭して戦い、\n散ったレム。贖いのifが幕を開ける。",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": true,
+                "pos_y": 0,
+                "next_section_id": [
+                    6021
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "第1話[♪]",
+                "id": 6011,
+                "desc": "死せる者のために"
+            },
+            {
+                "summary": "ペテルギウスへの復讐を誓い、\nラインハルトの元を飛び出したスバル。\n二十年の時が流れ、再び物語は動き出す。",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6022
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 1,
+                "name": "第2話[♪]",
+                "id": 6021,
+                "desc": "過ぎた歳月"
+            },
+            {
+                "summary": "レムの幻影に背中を押され、\n先立つものを得るべく旧ロズワール邸に\nやってきたスバルは……",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6023
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 2,
+                "name": "第3話[♪]",
+                "id": 6022,
+                "desc": "思い出の在りか"
+            },
+            {
+                "summary": "ロム爺から魔女教徒の情報を得たスバルは、\n彼らを追うべくすぐさま出発した。\nその日の夜は、森で野宿することになり……",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6024
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 3,
+                "name": "第4話[♪]",
+                "id": 6023,
+                "desc": "夢"
+            },
+            {
+                "summary": "魔女教徒が潜んでいると思われる\n森に到着したスバル。\n運命の歯車は加速し始める。",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6025
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 4,
+                "name": "第5話[♪]",
+                "id": 6024,
+                "desc": "遭遇"
+            },
+            {
+                "summary": "ペテルギウスと遭遇し、\nついにその首を取ったスバル。\nその胸に去来するのは――",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6031
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 5,
+                "name": "第6話",
+                "id": 6025,
+                "desc": "敗北"
+            },
+            {
+                "summary": "ペテルギウスに敗北したスバル。\n傷だらけの彼を救ったのは……",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6032
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 6,
+                "name": "第7話[♪]",
+                "id": 6031,
+                "desc": "意外な助け"
+            },
+            {
+                "summary": "フェリスの治療によってさしあたり\n回復したスバル。復讐を遂げるための\n戦力不足を痛感した彼は……",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6041
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 7,
+                "name": "第8話",
+                "id": 6032,
+                "desc": "取引"
+            },
+            {
+                "summary": "治療院で傷を癒やし、なんとかフェリスの\n協力を得たスバル。ペテルギウス打倒の\n準備をすべく、二人は出発するが……",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6042
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 8,
+                "name": "第9話[♪]",
+                "id": 6041,
+                "desc": "戦力補充へ"
+            },
+            {
+                "summary": "協力してくれる人物を求めて、\nスバルたちはビシトーに到着する。",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6051
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 9,
+                "name": "第10話[♪]",
+                "id": 6042,
+                "desc": "最適な人物"
+            },
+            {
+                "summary": "エルザを仲間に加えたスバルたちは、\n今一度王都に戻る……",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6052
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 10,
+                "name": "第11話[♪]",
+                "id": 6051,
+                "desc": "切り札を求めて"
+            },
+            {
+                "summary": "リバーク領にて、マジーラの襲撃を退けた\nスバルたちは、突如助っ人にやってきた\nミミに話を聞く。",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6053
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 11,
+                "name": "第12話",
+                "id": 6052,
+                "desc": "思わぬ助っ人"
+            },
+            {
+                "summary": "ついにリバーク邸の宝物庫に到着した\nスバルたち。しかし、宝物庫の中に\nあったのはガラクタばかりであった……",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6061
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 12,
+                "name": "第13話[♪]",
+                "id": 6053,
+                "desc": "目当てのものは"
+            },
+            {
+                "summary": "『精霊殺し』こと『命剣』を手に入れた\nスバルたち。一行は今一度王都に戻る。",
+                "route_name": "本編：共通",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 7,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6161,
+                    6261,
+                    6062
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 13,
+                "name": "第14話[♪]",
+                "id": 6061,
+                "desc": "決戦前夜"
+            },
+            {
+                "summary": "ペテルギウス討伐に出発する一行。\n竜車の中で、スバルは作戦を共有する。",
+                "route_name": "本編：ベアトリス",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6063
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 14,
+                "name": "第15話[♪]",
+                "id": 6062,
+                "desc": "ベアトリスとの約束"
+            },
+            {
+                "summary": "開かれた戦端。ナツキ・スバルは今一度\nペテルギウス・ロマネコンティと相見える。",
+                "route_name": "本編：ベアトリス",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6064
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 15,
+                "name": "第16話[♪]",
+                "id": 6063,
+                "desc": "復讐"
+            },
+            {
+                "summary": "ナツキ・スバルのゼロに至る\n戦いの行方は――",
+                "route_name": "本編：ベアトリス",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6071
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 16,
+                "name": "第17話[♪]",
+                "id": 6064,
+                "desc": "ゼロに至る"
+            },
+            {
+                "summary": "ついに復讐を果たしたスバル。\nその終着点は……",
+                "route_name": "本編：真エンディング",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 17,
+                "name": "第18話[♪]",
+                "id": 6071,
+                "desc": "ゼロカラ"
+            },
+            {
+                "summary": "ペテルギウス討伐に出発する一行。\n竜車の中で、スバルは作戦を共有する。",
+                "route_name": "本編：エルザ",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6162
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 14,
+                "name": "第15話[♪]",
+                "id": 6161,
+                "desc": "エルザの予感"
+            },
+            {
+                "summary": "開かれた戦端。ナツキ・スバルは今一度\nペテルギウス・ロマネコンティと相見える。",
+                "route_name": "本編：エルザ",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6163
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 15,
+                "name": "第16話[♪]",
+                "id": 6162,
+                "desc": "復讐"
+            },
+            {
+                "summary": "ナツキ・スバルのゼロに至る\n戦いの行方は――",
+                "route_name": "本編：エルザ",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6071
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 16,
+                "name": "第17話[♪]",
+                "id": 6163,
+                "desc": "ゼロに至る"
+            },
+            {
+                "summary": "ペテルギウス討伐に出発する一行。\n竜車の中で、スバルは作戦を共有する。",
+                "route_name": "本編：フェリス",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6262
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 14,
+                "name": "第15話[♪]",
+                "id": 6261,
+                "desc": "フェリスとの約束"
+            },
+            {
+                "summary": "開かれた戦端。ナツキ・スバルは今一度\nペテルギウス・ロマネコンティと相見える。",
+                "route_name": "本編：フェリス",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6263
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 15,
+                "name": "第16話[♪]",
+                "id": 6262,
+                "desc": "復讐"
+            },
+            {
+                "summary": "ナツキ・スバルのゼロに至る\n戦いの行方は――",
+                "route_name": "本編：フェリス",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    6071
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 16,
+                "name": "第17話[♪]",
+                "id": 6263,
+                "desc": "ゼロに至る"
+            }
+        ],
+        "chapter_id": 6
+    },
+    {
+        "section_list": [
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": true,
+                "pos_y": 0,
+                "next_section_id": [
+                    7012
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 0,
+                "name": "???",
+                "id": 7011,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    7013
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 1,
+                "name": "???",
+                "id": 7012,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 4,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    7014
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 2,
+                "name": "???",
+                "id": 7013,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 5,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    7015
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 3,
+                "name": "???",
+                "id": 7014,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    7016
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 4,
+                "name": "???",
+                "id": 7015,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "本編",
+                "stamina": 1,
+                "sec_pos_x": 0,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 0,
+                "sec_pos_y": 5,
+                "name": "???",
+                "id": 7016,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート",
+                "stamina": 1,
+                "sec_pos_x": -2,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 3,
+                "name": "???",
+                "id": 7211,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート",
+                "stamina": 1,
+                "sec_pos_x": 2,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 3,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    7511
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 3,
+                "name": "???",
+                "id": 7311,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 4,
+                "name": "???",
+                "id": 7411,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート",
+                "stamina": 1,
+                "sec_pos_x": 4,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 5,
+                "name": "???",
+                "id": 7412,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート",
+                "stamina": 1,
+                "sec_pos_x": 6,
+                "is_end": false,
+                "card_limit_num": 3,
+                "scene_num": 2,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [
+                    7512
+                ],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 4,
+                "name": "???",
+                "id": 7511,
+                "desc": "???"
+            },
+            {
+                "summary": "???",
+                "route_name": "IFルート",
+                "stamina": 1,
+                "sec_pos_x": 6,
+                "is_end": true,
+                "card_limit_num": 3,
+                "scene_num": 1,
+                "priority": 0,
+                "is_root": false,
+                "pos_y": 0,
+                "next_section_id": [],
+                "is_anime": 0,
+                "pos_x": 0,
+                "point_rate": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "route_type": 1,
+                "sec_pos_y": 5,
+                "name": "???",
+                "id": 7512,
+                "desc": "???"
+            }
+        ],
+        "chapter_id": 7
+    }
+]

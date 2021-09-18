@@ -1,0 +1,1412 @@
+[
+    {
+        "panel_id": 512,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 61,
+                "id": 51201
+            }
+        ]
+    },
+    {
+        "panel_id": 513,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 51301
+            }
+        ]
+    },
+    {
+        "panel_id": 514,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 76,
+                "id": 51401
+            }
+        ]
+    },
+    {
+        "panel_id": 515,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 66,
+                "id": 51501
+            }
+        ]
+    },
+    {
+        "panel_id": 516,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 51601
+            }
+        ]
+    },
+    {
+        "panel_id": 10500,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 1050001
+            }
+        ]
+    },
+    {
+        "panel_id": 10501,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 1050101
+            }
+        ]
+    },
+    {
+        "panel_id": 10502,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 1050201
+            }
+        ]
+    },
+    {
+        "panel_id": 10503,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 1050301
+            }
+        ]
+    },
+    {
+        "panel_id": 10504,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 75,
+                "id": 1050401
+            }
+        ]
+    },
+    {
+        "panel_id": 10505,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 75,
+                "id": 1050501
+            }
+        ]
+    },
+    {
+        "panel_id": 10506,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 75,
+                "id": 1050601
+            }
+        ]
+    },
+    {
+        "panel_id": 10507,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1050701
+            }
+        ]
+    },
+    {
+        "panel_id": 10508,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1050801
+            }
+        ]
+    },
+    {
+        "panel_id": 10509,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1050901
+            }
+        ]
+    },
+    {
+        "panel_id": 10510,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1051001
+            }
+        ]
+    },
+    {
+        "panel_id": 10511,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1051101
+            }
+        ]
+    },
+    {
+        "panel_id": 10512,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1051201
+            }
+        ]
+    },
+    {
+        "panel_id": 10513,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1051301
+            }
+        ]
+    },
+    {
+        "panel_id": 10514,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1051401
+            }
+        ]
+    },
+    {
+        "panel_id": 10515,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1051501
+            }
+        ]
+    },
+    {
+        "panel_id": 10516,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1051601
+            }
+        ]
+    },
+    {
+        "panel_id": 812,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 61,
+                "id": 81201
+            }
+        ]
+    },
+    {
+        "panel_id": 813,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 81301
+            }
+        ]
+    },
+    {
+        "panel_id": 814,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 76,
+                "id": 81401
+            }
+        ]
+    },
+    {
+        "panel_id": 815,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 66,
+                "id": 81501
+            }
+        ]
+    },
+    {
+        "panel_id": 816,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 81601
+            }
+        ]
+    },
+    {
+        "panel_id": 312,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 61,
+                "id": 31201
+            }
+        ]
+    },
+    {
+        "panel_id": 313,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 31301
+            }
+        ]
+    },
+    {
+        "panel_id": 314,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 76,
+                "id": 31401
+            }
+        ]
+    },
+    {
+        "panel_id": 315,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 66,
+                "id": 31501
+            }
+        ]
+    },
+    {
+        "panel_id": 316,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 31601
+            }
+        ]
+    },
+    {
+        "panel_id": 10300,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 31,
+                "id": 1030001
+            }
+        ]
+    },
+    {
+        "panel_id": 10301,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 31,
+                "id": 1030101
+            }
+        ]
+    },
+    {
+        "panel_id": 10302,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 31,
+                "id": 1030201
+            }
+        ]
+    },
+    {
+        "panel_id": 10303,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 31,
+                "id": 1030301
+            }
+        ]
+    },
+    {
+        "panel_id": 10304,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 35,
+                "id": 1030401
+            }
+        ]
+    },
+    {
+        "panel_id": 10305,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 35,
+                "id": 1030501
+            }
+        ]
+    },
+    {
+        "panel_id": 10306,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 35,
+                "id": 1030601
+            }
+        ]
+    },
+    {
+        "panel_id": 10307,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 40,
+                "id": 1030701
+            }
+        ]
+    },
+    {
+        "panel_id": 10308,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 45,
+                "id": 1030801
+            }
+        ]
+    },
+    {
+        "panel_id": 10309,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 45,
+                "id": 1030901
+            }
+        ]
+    },
+    {
+        "panel_id": 10310,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 45,
+                "id": 1031001
+            }
+        ]
+    },
+    {
+        "panel_id": 10311,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 40,
+                "id": 1031101
+            }
+        ]
+    },
+    {
+        "panel_id": 10312,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 40,
+                "id": 1031201
+            }
+        ]
+    },
+    {
+        "panel_id": 10313,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 40,
+                "id": 1031301
+            }
+        ]
+    },
+    {
+        "panel_id": 10314,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 50,
+                "id": 1031401
+            }
+        ]
+    },
+    {
+        "panel_id": 10315,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 40,
+                "id": 1031501
+            }
+        ]
+    },
+    {
+        "panel_id": 10316,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 40,
+                "id": 1031601
+            }
+        ]
+    },
+    {
+        "panel_id": 1112,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 61,
+                "id": 111201
+            }
+        ]
+    },
+    {
+        "panel_id": 1113,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 111301
+            }
+        ]
+    },
+    {
+        "panel_id": 1114,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 76,
+                "id": 111401
+            }
+        ]
+    },
+    {
+        "panel_id": 1115,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 66,
+                "id": 111501
+            }
+        ]
+    },
+    {
+        "panel_id": 1116,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 111601
+            }
+        ]
+    },
+    {
+        "panel_id": 612,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 61,
+                "id": 61201
+            }
+        ]
+    },
+    {
+        "panel_id": 613,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 61301
+            }
+        ]
+    },
+    {
+        "panel_id": 614,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 76,
+                "id": 61401
+            }
+        ]
+    },
+    {
+        "panel_id": 615,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 66,
+                "id": 61501
+            }
+        ]
+    },
+    {
+        "panel_id": 616,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 61601
+            }
+        ]
+    },
+    {
+        "panel_id": 10600,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1060001
+            }
+        ]
+    },
+    {
+        "panel_id": 10601,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1060101
+            }
+        ]
+    },
+    {
+        "panel_id": 10602,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1060201
+            }
+        ]
+    },
+    {
+        "panel_id": 10603,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1060301
+            }
+        ]
+    },
+    {
+        "panel_id": 10604,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1060401
+            }
+        ]
+    },
+    {
+        "panel_id": 10605,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1060501
+            }
+        ]
+    },
+    {
+        "panel_id": 10606,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1060601
+            }
+        ]
+    },
+    {
+        "panel_id": 10607,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1060701
+            }
+        ]
+    },
+    {
+        "panel_id": 112,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 61,
+                "id": 11201
+            }
+        ]
+    },
+    {
+        "panel_id": 10608,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1060801
+            }
+        ]
+    },
+    {
+        "panel_id": 113,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 11301
+            }
+        ]
+    },
+    {
+        "panel_id": 10609,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1060901
+            }
+        ]
+    },
+    {
+        "panel_id": 114,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 76,
+                "id": 11401
+            }
+        ]
+    },
+    {
+        "panel_id": 10610,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1061001
+            }
+        ]
+    },
+    {
+        "panel_id": 115,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 66,
+                "id": 11501
+            }
+        ]
+    },
+    {
+        "panel_id": 10611,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1061101
+            }
+        ]
+    },
+    {
+        "panel_id": 116,
+        "unlock_condition_list": [
+            {
+                "condition_type": 1,
+                "condition_value": 71,
+                "id": 11601
+            }
+        ]
+    },
+    {
+        "panel_id": 10612,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1061201
+            }
+        ]
+    },
+    {
+        "panel_id": 10613,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1061301
+            }
+        ]
+    },
+    {
+        "panel_id": 10614,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1061401
+            }
+        ]
+    },
+    {
+        "panel_id": 10615,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1061501
+            }
+        ]
+    },
+    {
+        "panel_id": 10616,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 80,
+                "id": 1061601
+            }
+        ]
+    },
+    {
+        "panel_id": 912,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 61,
+                "id": 91201
+            }
+        ]
+    },
+    {
+        "panel_id": 913,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 91301
+            }
+        ]
+    },
+    {
+        "panel_id": 914,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 76,
+                "id": 91401
+            }
+        ]
+    },
+    {
+        "panel_id": 915,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 66,
+                "id": 91501
+            }
+        ]
+    },
+    {
+        "panel_id": 916,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 91601
+            }
+        ]
+    },
+    {
+        "panel_id": 412,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 61,
+                "id": 41201
+            }
+        ]
+    },
+    {
+        "panel_id": 413,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 41301
+            }
+        ]
+    },
+    {
+        "panel_id": 414,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 76,
+                "id": 41401
+            }
+        ]
+    },
+    {
+        "panel_id": 415,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 66,
+                "id": 41501
+            }
+        ]
+    },
+    {
+        "panel_id": 416,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 41601
+            }
+        ]
+    },
+    {
+        "panel_id": 10400,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 51,
+                "id": 1040001
+            }
+        ]
+    },
+    {
+        "panel_id": 10401,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 51,
+                "id": 1040101
+            }
+        ]
+    },
+    {
+        "panel_id": 10402,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 51,
+                "id": 1040201
+            }
+        ]
+    },
+    {
+        "panel_id": 10403,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 51,
+                "id": 1040301
+            }
+        ]
+    },
+    {
+        "panel_id": 10404,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 55,
+                "id": 1040401
+            }
+        ]
+    },
+    {
+        "panel_id": 10405,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 55,
+                "id": 1040501
+            }
+        ]
+    },
+    {
+        "panel_id": 10406,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 55,
+                "id": 1040601
+            }
+        ]
+    },
+    {
+        "panel_id": 10407,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 1040701
+            }
+        ]
+    },
+    {
+        "panel_id": 10408,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 65,
+                "id": 1040801
+            }
+        ]
+    },
+    {
+        "panel_id": 10409,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 65,
+                "id": 1040901
+            }
+        ]
+    },
+    {
+        "panel_id": 10410,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 65,
+                "id": 1041001
+            }
+        ]
+    },
+    {
+        "panel_id": 10411,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 1041101
+            }
+        ]
+    },
+    {
+        "panel_id": 10412,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 1041201
+            }
+        ]
+    },
+    {
+        "panel_id": 10413,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 1041301
+            }
+        ]
+    },
+    {
+        "panel_id": 10414,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 70,
+                "id": 1041401
+            }
+        ]
+    },
+    {
+        "panel_id": 10415,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 1041501
+            }
+        ]
+    },
+    {
+        "panel_id": 10416,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 1041601
+            }
+        ]
+    },
+    {
+        "panel_id": 1212,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 61,
+                "id": 121201
+            }
+        ]
+    },
+    {
+        "panel_id": 1213,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 121301
+            }
+        ]
+    },
+    {
+        "panel_id": 1214,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 76,
+                "id": 121401
+            }
+        ]
+    },
+    {
+        "panel_id": 1215,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 66,
+                "id": 121501
+            }
+        ]
+    },
+    {
+        "panel_id": 1216,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 121601
+            }
+        ]
+    },
+    {
+        "panel_id": 712,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 61,
+                "id": 71201
+            }
+        ]
+    },
+    {
+        "panel_id": 713,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 71301
+            }
+        ]
+    },
+    {
+        "panel_id": 714,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 76,
+                "id": 71401
+            }
+        ]
+    },
+    {
+        "panel_id": 715,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 66,
+                "id": 71501
+            }
+        ]
+    },
+    {
+        "panel_id": 716,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 71601
+            }
+        ]
+    },
+    {
+        "panel_id": 212,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 61,
+                "id": 21201
+            }
+        ]
+    },
+    {
+        "panel_id": 213,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 21301
+            }
+        ]
+    },
+    {
+        "panel_id": 214,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 76,
+                "id": 21401
+            }
+        ]
+    },
+    {
+        "panel_id": 215,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 66,
+                "id": 21501
+            }
+        ]
+    },
+    {
+        "panel_id": 216,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 21601
+            }
+        ]
+    },
+    {
+        "panel_id": 10204,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 10,
+                "id": 1020401
+            }
+        ]
+    },
+    {
+        "panel_id": 10205,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 10,
+                "id": 1020501
+            }
+        ]
+    },
+    {
+        "panel_id": 10206,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 10,
+                "id": 1020601
+            }
+        ]
+    },
+    {
+        "panel_id": 10207,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 15,
+                "id": 1020701
+            }
+        ]
+    },
+    {
+        "panel_id": 10208,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 25,
+                "id": 1020801
+            }
+        ]
+    },
+    {
+        "panel_id": 10209,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 25,
+                "id": 1020901
+            }
+        ]
+    },
+    {
+        "panel_id": 10210,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 25,
+                "id": 1021001
+            }
+        ]
+    },
+    {
+        "panel_id": 10211,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 15,
+                "id": 1021101
+            }
+        ]
+    },
+    {
+        "panel_id": 10212,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 20,
+                "id": 1021201
+            }
+        ]
+    },
+    {
+        "panel_id": 10213,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 20,
+                "id": 1021301
+            }
+        ]
+    },
+    {
+        "panel_id": 10214,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 30,
+                "id": 1021401
+            }
+        ]
+    },
+    {
+        "panel_id": 10215,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 20,
+                "id": 1021501
+            }
+        ]
+    },
+    {
+        "panel_id": 10216,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 20,
+                "id": 1021601
+            }
+        ]
+    },
+    {
+        "panel_id": 1012,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 61,
+                "id": 101201
+            }
+        ]
+    },
+    {
+        "panel_id": 1013,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 60,
+                "id": 101301
+            }
+        ]
+    },
+    {
+        "panel_id": 1014,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 76,
+                "id": 101401
+            }
+        ]
+    },
+    {
+        "panel_id": 1015,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 66,
+                "id": 101501
+            }
+        ]
+    },
+    {
+        "panel_id": 1016,
+        "unlock_condition_list": [
+            {
+                "condition_type": 0,
+                "condition_value": 71,
+                "id": 101601
+            }
+        ]
+    }
+]

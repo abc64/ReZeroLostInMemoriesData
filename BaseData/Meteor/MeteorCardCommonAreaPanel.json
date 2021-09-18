@@ -1,0 +1,4772 @@
+[
+    {
+        "common_area_id": 1,
+        "panel_list": [
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 100,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    101,
+                    102,
+                    103
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 101,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    100,
+                    102,
+                    104
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 102,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    100,
+                    101,
+                    103,
+                    104,
+                    105,
+                    106
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 103,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    100,
+                    102,
+                    106
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 104,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    101,
+                    102,
+                    105,
+                    107,
+                    108
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 105,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    102,
+                    104,
+                    106,
+                    108,
+                    109,
+                    110
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 106,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    102,
+                    103,
+                    105,
+                    110,
+                    111
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 107,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    103,
+                    108,
+                    112
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 108,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    103,
+                    104,
+                    107,
+                    109,
+                    112,
+                    113
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 109,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    104,
+                    108,
+                    110,
+                    113,
+                    114,
+                    115
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 110,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    104,
+                    105,
+                    109,
+                    111,
+                    115,
+                    116
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 111,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    105,
+                    110,
+                    116
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 112,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    107,
+                    108,
+                    113
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 113,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    108,
+                    109,
+                    112,
+                    114
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 400,
+                "purchase_limit": 1,
+                "id": 114,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    109,
+                    113,
+                    115
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 320,
+                "purchase_limit": 1,
+                "id": 115,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    109,
+                    110,
+                    111,
+                    114,
+                    116
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 320,
+                "purchase_limit": 1,
+                "id": 116,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    110,
+                    111,
+                    115
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 2,
+        "panel_list": [
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 200,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    201,
+                    202,
+                    203
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 201,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    200,
+                    202,
+                    204
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 202,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    200,
+                    201,
+                    203,
+                    204,
+                    205,
+                    206
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 203,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    200,
+                    202,
+                    206
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 204,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    201,
+                    202,
+                    205,
+                    207,
+                    208
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 205,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    202,
+                    204,
+                    206,
+                    208,
+                    209,
+                    210
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 206,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    202,
+                    203,
+                    205,
+                    210,
+                    211
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 207,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    203,
+                    208,
+                    212
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 208,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    203,
+                    204,
+                    207,
+                    209,
+                    212,
+                    213
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 209,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    204,
+                    208,
+                    210,
+                    213,
+                    214,
+                    215
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 210,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    204,
+                    205,
+                    209,
+                    211,
+                    215,
+                    216
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 211,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    205,
+                    210,
+                    216
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 212,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    207,
+                    208,
+                    213
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 213,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    208,
+                    209,
+                    212,
+                    214
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 400,
+                "purchase_limit": 1,
+                "id": 214,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    209,
+                    213,
+                    215
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 215,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    209,
+                    210,
+                    211,
+                    214,
+                    216
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 320,
+                "purchase_limit": 1,
+                "id": 216,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    210,
+                    211,
+                    215
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 3,
+        "panel_list": [
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 300,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    301,
+                    302,
+                    303
+                ]
+            },
+            {
+                "panel_icon_type": 8,
+                "panel_type": 2,
+                "name": "弱体耐性",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 301,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    300,
+                    302,
+                    304
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 302,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    300,
+                    301,
+                    303,
+                    304,
+                    305,
+                    306
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 303,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    300,
+                    302,
+                    306
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 304,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    301,
+                    302,
+                    305,
+                    307,
+                    308
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 305,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    302,
+                    304,
+                    306,
+                    308,
+                    309,
+                    310
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 306,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    302,
+                    303,
+                    305,
+                    310,
+                    311
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 307,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    303,
+                    308,
+                    312
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 308,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    303,
+                    304,
+                    307,
+                    309,
+                    312,
+                    313
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 309,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    304,
+                    308,
+                    310,
+                    313,
+                    314,
+                    315
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 310,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    304,
+                    305,
+                    309,
+                    311,
+                    315,
+                    316
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 311,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    305,
+                    310,
+                    316
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 312,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    307,
+                    308,
+                    313
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 313,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    308,
+                    309,
+                    312,
+                    314
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 400,
+                "purchase_limit": 1,
+                "id": 314,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    309,
+                    313,
+                    315
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 320,
+                "purchase_limit": 1,
+                "id": 315,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    309,
+                    310,
+                    311,
+                    314,
+                    316
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 320,
+                "purchase_limit": 1,
+                "id": 316,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    310,
+                    311,
+                    315
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 4,
+        "panel_list": [
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 400,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    401,
+                    402,
+                    403
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 401,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    400,
+                    402,
+                    404
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 402,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    400,
+                    401,
+                    403,
+                    404,
+                    405,
+                    406
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 403,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    400,
+                    402,
+                    406
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 404,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    401,
+                    402,
+                    405,
+                    407,
+                    408
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 405,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    402,
+                    404,
+                    406,
+                    408,
+                    409,
+                    410
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 406,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    402,
+                    403,
+                    405,
+                    410,
+                    411
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 407,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    403,
+                    408,
+                    412
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 408,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    403,
+                    404,
+                    407,
+                    409,
+                    412,
+                    413
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 409,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    404,
+                    408,
+                    410,
+                    413,
+                    414,
+                    415
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 410,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    404,
+                    405,
+                    409,
+                    411,
+                    415,
+                    416
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 411,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    405,
+                    410,
+                    416
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 412,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    407,
+                    408,
+                    413
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 413,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    408,
+                    409,
+                    412,
+                    414
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 320,
+                "purchase_limit": 1,
+                "id": 414,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    409,
+                    413,
+                    415
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 415,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    409,
+                    410,
+                    411,
+                    414,
+                    416
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 416,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    410,
+                    411,
+                    415
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 5,
+        "panel_list": [
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 500,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    501,
+                    502,
+                    503
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 501,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    500,
+                    502,
+                    504
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 502,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    500,
+                    501,
+                    503,
+                    504,
+                    505,
+                    506
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 503,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    500,
+                    502,
+                    506
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 504,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    501,
+                    502,
+                    505,
+                    507,
+                    508
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 505,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    502,
+                    504,
+                    506,
+                    508,
+                    509,
+                    510
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 506,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    502,
+                    503,
+                    505,
+                    510,
+                    511
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 507,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    503,
+                    508,
+                    512
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 508,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    503,
+                    504,
+                    507,
+                    509,
+                    512,
+                    513
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 509,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    504,
+                    508,
+                    510,
+                    513,
+                    514,
+                    515
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 510,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    504,
+                    505,
+                    509,
+                    511,
+                    515,
+                    516
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 511,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    505,
+                    510,
+                    516
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 512,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    507,
+                    508,
+                    513
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 513,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    508,
+                    509,
+                    512,
+                    514
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 320,
+                "purchase_limit": 1,
+                "id": 514,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    509,
+                    513,
+                    515
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 515,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    509,
+                    510,
+                    511,
+                    514,
+                    516
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 516,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    510,
+                    511,
+                    515
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 101,
+        "panel_list": [
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 10100,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    10101,
+                    10102,
+                    10103
+                ]
+            },
+            {
+                "panel_icon_type": 5,
+                "panel_type": 1,
+                "name": "クリティカル率",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 10101,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    10100,
+                    10102,
+                    10104
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 10102,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    10100,
+                    10101,
+                    10103,
+                    10104,
+                    10105,
+                    10106
+                ]
+            },
+            {
+                "panel_icon_type": 5,
+                "panel_type": 1,
+                "name": "クリティカル率",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 10103,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    10100,
+                    10102,
+                    10106
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 10104,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    10101,
+                    10102,
+                    10105,
+                    10107,
+                    10108
+                ]
+            },
+            {
+                "panel_icon_type": 7,
+                "panel_type": 4,
+                "name": "弱体成功力",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 10105,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    10102,
+                    10104,
+                    10106,
+                    10108,
+                    10109,
+                    10110
+                ]
+            },
+            {
+                "panel_icon_type": 8,
+                "panel_type": 4,
+                "name": "弱体耐性",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 10106,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    10102,
+                    10103,
+                    10105,
+                    10110,
+                    10111
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10107,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    10103,
+                    10108,
+                    10112
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10108,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    10103,
+                    10104,
+                    10107,
+                    10109,
+                    10112,
+                    10113
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10109,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    10104,
+                    10108,
+                    10110,
+                    10113,
+                    10114,
+                    10115
+                ]
+            },
+            {
+                "panel_icon_type": 5,
+                "panel_type": 1,
+                "name": "クリティカル率",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10110,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    10104,
+                    10105,
+                    10109,
+                    10111,
+                    10115,
+                    10116
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10111,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    10105,
+                    10110,
+                    10116
+                ]
+            },
+            {
+                "panel_icon_type": 7,
+                "panel_type": 4,
+                "name": "弱体成功力",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10112,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    10107,
+                    10108,
+                    10113
+                ]
+            },
+            {
+                "panel_icon_type": 8,
+                "panel_type": 4,
+                "name": "弱体耐性",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10113,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    10108,
+                    10109,
+                    10112,
+                    10114
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 10114,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    10109,
+                    10113,
+                    10115
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10115,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    10109,
+                    10110,
+                    10111,
+                    10114,
+                    10116
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10116,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    10110,
+                    10111,
+                    10115
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 6,
+        "panel_list": [
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 600,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    601,
+                    602,
+                    603
+                ]
+            },
+            {
+                "panel_icon_type": 8,
+                "panel_type": 2,
+                "name": "弱体耐性",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 601,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    600,
+                    602,
+                    604
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 602,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    600,
+                    601,
+                    603,
+                    604,
+                    605,
+                    606
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 603,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    600,
+                    602,
+                    606
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 604,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    601,
+                    602,
+                    605,
+                    607,
+                    608
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 605,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    602,
+                    604,
+                    606,
+                    608,
+                    609,
+                    610
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 606,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    602,
+                    603,
+                    605,
+                    610,
+                    611
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 607,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    603,
+                    608,
+                    612
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 608,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    603,
+                    604,
+                    607,
+                    609,
+                    612,
+                    613
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 609,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    604,
+                    608,
+                    610,
+                    613,
+                    614,
+                    615
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 610,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    604,
+                    605,
+                    609,
+                    611,
+                    615,
+                    616
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 611,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    605,
+                    610,
+                    616
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 612,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    607,
+                    608,
+                    613
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 613,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    608,
+                    609,
+                    612,
+                    614
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 320,
+                "purchase_limit": 1,
+                "id": 614,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    609,
+                    613,
+                    615
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 615,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    609,
+                    610,
+                    611,
+                    614,
+                    616
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 616,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    610,
+                    611,
+                    615
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 102,
+        "panel_list": [
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 10200,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    10201,
+                    10202,
+                    10203
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10201,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    10200,
+                    10202,
+                    10204
+                ]
+            },
+            {
+                "panel_icon_type": 7,
+                "panel_type": 4,
+                "name": "弱体成功力",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 10202,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    10200,
+                    10201,
+                    10203,
+                    10204,
+                    10205,
+                    10206
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10203,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    10200,
+                    10202,
+                    10206
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10204,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    10201,
+                    10202,
+                    10205,
+                    10207,
+                    10208
+                ]
+            },
+            {
+                "panel_icon_type": 7,
+                "panel_type": 4,
+                "name": "弱体成功力",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10205,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    10202,
+                    10204,
+                    10206,
+                    10208,
+                    10209,
+                    10210
+                ]
+            },
+            {
+                "panel_icon_type": 5,
+                "panel_type": 1,
+                "name": "クリティカル率",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10206,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    10202,
+                    10203,
+                    10205,
+                    10210,
+                    10211
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 10207,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    10203,
+                    10208,
+                    10212
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 10208,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    10203,
+                    10204,
+                    10207,
+                    10209,
+                    10212,
+                    10213
+                ]
+            },
+            {
+                "panel_icon_type": 8,
+                "panel_type": 4,
+                "name": "弱体耐性",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 10209,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    10204,
+                    10208,
+                    10210,
+                    10213,
+                    10214,
+                    10215
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 10210,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    10204,
+                    10205,
+                    10209,
+                    10211,
+                    10215,
+                    10216
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 10211,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    10205,
+                    10210,
+                    10216
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10212,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    10207,
+                    10208,
+                    10213
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10213,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    10208,
+                    10209,
+                    10212,
+                    10214
+                ]
+            },
+            {
+                "panel_icon_type": 5,
+                "panel_type": 1,
+                "name": "クリティカル率",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 10214,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    10209,
+                    10213,
+                    10215
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10215,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    10209,
+                    10210,
+                    10211,
+                    10214,
+                    10216
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10216,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    10210,
+                    10211,
+                    10215
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 7,
+        "panel_list": [
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 700,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    701,
+                    702,
+                    703
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 701,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    700,
+                    702,
+                    704
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 702,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    700,
+                    701,
+                    703,
+                    704,
+                    705,
+                    706
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 703,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    700,
+                    702,
+                    706
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 704,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    701,
+                    702,
+                    705,
+                    707,
+                    708
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 705,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    702,
+                    704,
+                    706,
+                    708,
+                    709,
+                    710
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 706,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    702,
+                    703,
+                    705,
+                    710,
+                    711
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 707,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    703,
+                    708,
+                    712
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 708,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    703,
+                    704,
+                    707,
+                    709,
+                    712,
+                    713
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 709,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    704,
+                    708,
+                    710,
+                    713,
+                    714,
+                    715
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 710,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    704,
+                    705,
+                    709,
+                    711,
+                    715,
+                    716
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 711,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    705,
+                    710,
+                    716
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 712,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    707,
+                    708,
+                    713
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 713,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    708,
+                    709,
+                    712,
+                    714
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 714,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    709,
+                    713,
+                    715
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 715,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    709,
+                    710,
+                    711,
+                    714,
+                    716
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 716,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    710,
+                    711,
+                    715
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 103,
+        "panel_list": [
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10300,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    10301,
+                    10302,
+                    10303
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 10301,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    10300,
+                    10302,
+                    10304
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 10302,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    10300,
+                    10301,
+                    10303,
+                    10304,
+                    10305,
+                    10306
+                ]
+            },
+            {
+                "panel_icon_type": 8,
+                "panel_type": 4,
+                "name": "弱体耐性",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 10303,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    10300,
+                    10302,
+                    10306
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 10304,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    10301,
+                    10302,
+                    10305,
+                    10307,
+                    10308
+                ]
+            },
+            {
+                "panel_icon_type": 8,
+                "panel_type": 4,
+                "name": "弱体耐性",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 10305,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    10302,
+                    10304,
+                    10306,
+                    10308,
+                    10309,
+                    10310
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 10306,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    10302,
+                    10303,
+                    10305,
+                    10310,
+                    10311
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10307,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    10303,
+                    10308,
+                    10312
+                ]
+            },
+            {
+                "panel_icon_type": 5,
+                "panel_type": 1,
+                "name": "クリティカル率",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 10308,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    10303,
+                    10304,
+                    10307,
+                    10309,
+                    10312,
+                    10313
+                ]
+            },
+            {
+                "panel_icon_type": 8,
+                "panel_type": 4,
+                "name": "弱体耐性",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 10309,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    10304,
+                    10308,
+                    10310,
+                    10313,
+                    10314,
+                    10315
+                ]
+            },
+            {
+                "panel_icon_type": 5,
+                "panel_type": 1,
+                "name": "クリティカル率",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 10310,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    10304,
+                    10305,
+                    10309,
+                    10311,
+                    10315,
+                    10316
+                ]
+            },
+            {
+                "panel_icon_type": 8,
+                "panel_type": 4,
+                "name": "弱体耐性",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10311,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    10305,
+                    10310,
+                    10316
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10312,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    10307,
+                    10308,
+                    10313
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10313,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    10308,
+                    10309,
+                    10312,
+                    10314
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 10314,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    10309,
+                    10313,
+                    10315
+                ]
+            },
+            {
+                "panel_icon_type": 7,
+                "panel_type": 4,
+                "name": "弱体成功力",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10315,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    10309,
+                    10310,
+                    10311,
+                    10314,
+                    10316
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10316,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    10310,
+                    10311,
+                    10315
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 8,
+        "panel_list": [
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 800,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    801,
+                    802,
+                    803
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 801,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    800,
+                    802,
+                    804
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 802,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    800,
+                    801,
+                    803,
+                    804,
+                    805,
+                    806
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 803,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    800,
+                    802,
+                    806
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 804,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    801,
+                    802,
+                    805,
+                    807,
+                    808
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 805,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    802,
+                    804,
+                    806,
+                    808,
+                    809,
+                    810
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 806,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    802,
+                    803,
+                    805,
+                    810,
+                    811
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 807,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    803,
+                    808,
+                    812
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 808,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    803,
+                    804,
+                    807,
+                    809,
+                    812,
+                    813
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 809,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    804,
+                    808,
+                    810,
+                    813,
+                    814,
+                    815
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 810,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    804,
+                    805,
+                    809,
+                    811,
+                    815,
+                    816
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 811,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    805,
+                    810,
+                    816
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 812,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    807,
+                    808,
+                    813
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 813,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    808,
+                    809,
+                    812,
+                    814
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 814,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    809,
+                    813,
+                    815
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 815,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    809,
+                    810,
+                    811,
+                    814,
+                    816
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 816,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    810,
+                    811,
+                    815
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 104,
+        "panel_list": [
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 10400,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    10401,
+                    10402,
+                    10403
+                ]
+            },
+            {
+                "panel_icon_type": 8,
+                "panel_type": 4,
+                "name": "弱体耐性",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10401,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    10400,
+                    10402,
+                    10404
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 10402,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    10400,
+                    10401,
+                    10403,
+                    10404,
+                    10405,
+                    10406
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10403,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    10400,
+                    10402,
+                    10406
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10404,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    10401,
+                    10402,
+                    10405,
+                    10407,
+                    10408
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10405,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    10402,
+                    10404,
+                    10406,
+                    10408,
+                    10409,
+                    10410
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10406,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    10402,
+                    10403,
+                    10405,
+                    10410,
+                    10411
+                ]
+            },
+            {
+                "panel_icon_type": 7,
+                "panel_type": 4,
+                "name": "弱体成功力",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10407,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    10403,
+                    10408,
+                    10412
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 10408,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    10403,
+                    10404,
+                    10407,
+                    10409,
+                    10412,
+                    10413
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 10409,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    10404,
+                    10408,
+                    10410,
+                    10413,
+                    10414,
+                    10415
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 10410,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    10404,
+                    10405,
+                    10409,
+                    10411,
+                    10415,
+                    10416
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10411,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    10405,
+                    10410,
+                    10416
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10412,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    10407,
+                    10408,
+                    10413
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10413,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    10408,
+                    10409,
+                    10412,
+                    10414
+                ]
+            },
+            {
+                "panel_icon_type": 7,
+                "panel_type": 4,
+                "name": "弱体成功力",
+                "need_point": 320,
+                "purchase_limit": 1,
+                "id": 10414,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    10409,
+                    10413,
+                    10415
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10415,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    10409,
+                    10410,
+                    10411,
+                    10414,
+                    10416
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10416,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    10410,
+                    10411,
+                    10415
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 9,
+        "panel_list": [
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 900,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    901,
+                    902,
+                    903
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 901,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    900,
+                    902,
+                    904
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 902,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    900,
+                    901,
+                    903,
+                    904,
+                    905,
+                    906
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 903,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    900,
+                    902,
+                    906
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 904,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    901,
+                    902,
+                    905,
+                    907,
+                    908
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 905,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    902,
+                    904,
+                    906,
+                    908,
+                    909,
+                    910
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 906,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    902,
+                    903,
+                    905,
+                    910,
+                    911
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 907,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    903,
+                    908,
+                    912
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 908,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    903,
+                    904,
+                    907,
+                    909,
+                    912,
+                    913
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 909,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    904,
+                    908,
+                    910,
+                    913,
+                    914,
+                    915
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 910,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    904,
+                    905,
+                    909,
+                    911,
+                    915,
+                    916
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 911,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    905,
+                    910,
+                    916
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 912,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    907,
+                    908,
+                    913
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 913,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    908,
+                    909,
+                    912,
+                    914
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 250,
+                "purchase_limit": 1,
+                "id": 914,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    909,
+                    913,
+                    915
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 915,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    909,
+                    910,
+                    911,
+                    914,
+                    916
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 190,
+                "purchase_limit": 1,
+                "id": 916,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    910,
+                    911,
+                    915
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 105,
+        "panel_list": [
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10500,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    10501,
+                    10502,
+                    10503
+                ]
+            },
+            {
+                "panel_icon_type": 5,
+                "panel_type": 1,
+                "name": "クリティカル率",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10501,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    10500,
+                    10502,
+                    10504
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10502,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    10500,
+                    10501,
+                    10503,
+                    10504,
+                    10505,
+                    10506
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10503,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    10500,
+                    10502,
+                    10506
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10504,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    10501,
+                    10502,
+                    10505,
+                    10507,
+                    10508
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10505,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    10502,
+                    10504,
+                    10506,
+                    10508,
+                    10509,
+                    10510
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10506,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    10502,
+                    10503,
+                    10505,
+                    10510,
+                    10511
+                ]
+            },
+            {
+                "panel_icon_type": 7,
+                "panel_type": 4,
+                "name": "弱体成功力",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10507,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    10503,
+                    10508,
+                    10512
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 320,
+                "purchase_limit": 1,
+                "id": 10508,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    10503,
+                    10504,
+                    10507,
+                    10509,
+                    10512,
+                    10513
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 320,
+                "purchase_limit": 1,
+                "id": 10509,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    10504,
+                    10508,
+                    10510,
+                    10513,
+                    10514,
+                    10515
+                ]
+            },
+            {
+                "panel_icon_type": 7,
+                "panel_type": 4,
+                "name": "弱体成功力",
+                "need_point": 320,
+                "purchase_limit": 1,
+                "id": 10510,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    10504,
+                    10505,
+                    10509,
+                    10511,
+                    10515,
+                    10516
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10511,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    10505,
+                    10510,
+                    10516
+                ]
+            },
+            {
+                "panel_icon_type": 8,
+                "panel_type": 4,
+                "name": "弱体耐性",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10512,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    10507,
+                    10508,
+                    10513
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10513,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    10508,
+                    10509,
+                    10512,
+                    10514
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 400,
+                "purchase_limit": 1,
+                "id": 10514,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    10509,
+                    10513,
+                    10515
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10515,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    10509,
+                    10510,
+                    10511,
+                    10514,
+                    10516
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10516,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    10510,
+                    10511,
+                    10515
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 10,
+        "panel_list": [
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1000,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    1001,
+                    1002,
+                    1003
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1001,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    1000,
+                    1002,
+                    1004
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1002,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    1000,
+                    1001,
+                    1003,
+                    1004,
+                    1005,
+                    1006
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1003,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    1000,
+                    1002,
+                    1006
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1004,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    1001,
+                    1002,
+                    1005,
+                    1007,
+                    1008
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1005,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    1002,
+                    1004,
+                    1006,
+                    1008,
+                    1009,
+                    1010
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1006,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    1002,
+                    1003,
+                    1005,
+                    1010,
+                    1011
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1007,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    1003,
+                    1008,
+                    1012
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1008,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    1003,
+                    1004,
+                    1007,
+                    1009,
+                    1012,
+                    1013
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 1009,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    1004,
+                    1008,
+                    1010,
+                    1013,
+                    1014,
+                    1015
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 1010,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    1004,
+                    1005,
+                    1009,
+                    1011,
+                    1015,
+                    1016
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 1011,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    1005,
+                    1010,
+                    1016
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 1012,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    1007,
+                    1008,
+                    1013
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1013,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    1008,
+                    1009,
+                    1012,
+                    1014
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1014,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    1009,
+                    1013,
+                    1015
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 1015,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    1009,
+                    1010,
+                    1011,
+                    1014,
+                    1016
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1016,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    1010,
+                    1011,
+                    1015
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 106,
+        "panel_list": [
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10600,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    10601,
+                    10602,
+                    10603
+                ]
+            },
+            {
+                "panel_icon_type": 6,
+                "panel_type": 1,
+                "name": "クリティカルダメージ",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10601,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    10600,
+                    10602,
+                    10604
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10602,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    10600,
+                    10601,
+                    10603,
+                    10604,
+                    10605,
+                    10606
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10603,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    10600,
+                    10602,
+                    10606
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10604,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    10601,
+                    10602,
+                    10605,
+                    10607,
+                    10608
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10605,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    10602,
+                    10604,
+                    10606,
+                    10608,
+                    10609,
+                    10610
+                ]
+            },
+            {
+                "panel_icon_type": 8,
+                "panel_type": 4,
+                "name": "弱体耐性",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10606,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    10602,
+                    10603,
+                    10605,
+                    10610,
+                    10611
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10607,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    10603,
+                    10608,
+                    10612
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 400,
+                "purchase_limit": 1,
+                "id": 10608,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    10603,
+                    10604,
+                    10607,
+                    10609,
+                    10612,
+                    10613
+                ]
+            },
+            {
+                "panel_icon_type": 5,
+                "panel_type": 1,
+                "name": "クリティカル率",
+                "need_point": 400,
+                "purchase_limit": 1,
+                "id": 10609,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    10604,
+                    10608,
+                    10610,
+                    10613,
+                    10614,
+                    10615
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 400,
+                "purchase_limit": 1,
+                "id": 10610,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    10604,
+                    10605,
+                    10609,
+                    10611,
+                    10615,
+                    10616
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10611,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    10605,
+                    10610,
+                    10616
+                ]
+            },
+            {
+                "panel_icon_type": 5,
+                "panel_type": 1,
+                "name": "クリティカル率",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10612,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    10607,
+                    10608,
+                    10613
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10613,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    10608,
+                    10609,
+                    10612,
+                    10614
+                ]
+            },
+            {
+                "panel_icon_type": 5,
+                "panel_type": 1,
+                "name": "クリティカル率",
+                "need_point": 400,
+                "purchase_limit": 1,
+                "id": 10614,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    10609,
+                    10613,
+                    10615
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10615,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    10609,
+                    10610,
+                    10611,
+                    10614,
+                    10616
+                ]
+            },
+            {
+                "panel_icon_type": 7,
+                "panel_type": 4,
+                "name": "弱体成功力",
+                "need_point": 70,
+                "purchase_limit": 1,
+                "id": 10616,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    10610,
+                    10611,
+                    10615
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 11,
+        "panel_list": [
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1100,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    1101,
+                    1102,
+                    1103
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1101,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    1100,
+                    1102,
+                    1104
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1102,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    1100,
+                    1101,
+                    1103,
+                    1104,
+                    1105,
+                    1106
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1103,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    1100,
+                    1102,
+                    1106
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1104,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    1101,
+                    1102,
+                    1105,
+                    1107,
+                    1108
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 1105,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    1102,
+                    1104,
+                    1106,
+                    1108,
+                    1109,
+                    1110
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1106,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    1102,
+                    1103,
+                    1105,
+                    1110,
+                    1111
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1107,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    1103,
+                    1108,
+                    1112
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 1108,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    1103,
+                    1104,
+                    1107,
+                    1109,
+                    1112,
+                    1113
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1109,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    1104,
+                    1108,
+                    1110,
+                    1113,
+                    1114,
+                    1115
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 1110,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    1104,
+                    1105,
+                    1109,
+                    1111,
+                    1115,
+                    1116
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 1111,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    1105,
+                    1110,
+                    1116
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1112,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    1107,
+                    1108,
+                    1113
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 1113,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    1108,
+                    1109,
+                    1112,
+                    1114
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 1114,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    1109,
+                    1113,
+                    1115
+                ]
+            },
+            {
+                "panel_icon_type": 4,
+                "panel_type": 3,
+                "name": "素早さ",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1115,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    1109,
+                    1110,
+                    1111,
+                    1114,
+                    1116
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 1116,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    1110,
+                    1111,
+                    1115
+                ]
+            }
+        ]
+    },
+    {
+        "common_area_id": 12,
+        "panel_list": [
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1200,
+                "panel_index": 0,
+                "relational_panel_list": [
+                    1201,
+                    1202,
+                    1203
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1201,
+                "panel_index": 1,
+                "relational_panel_list": [
+                    1200,
+                    1202,
+                    1204
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1202,
+                "panel_index": 2,
+                "relational_panel_list": [
+                    1200,
+                    1201,
+                    1203,
+                    1204,
+                    1205,
+                    1206
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1203,
+                "panel_index": 3,
+                "relational_panel_list": [
+                    1200,
+                    1202,
+                    1206
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1204,
+                "panel_index": 4,
+                "relational_panel_list": [
+                    1201,
+                    1202,
+                    1205,
+                    1207,
+                    1208
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 1205,
+                "panel_index": 5,
+                "relational_panel_list": [
+                    1202,
+                    1204,
+                    1206,
+                    1208,
+                    1209,
+                    1210
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1206,
+                "panel_index": 6,
+                "relational_panel_list": [
+                    1202,
+                    1203,
+                    1205,
+                    1210,
+                    1211
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1207,
+                "panel_index": 7,
+                "relational_panel_list": [
+                    1203,
+                    1208,
+                    1212
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 25,
+                "purchase_limit": 1,
+                "id": 1208,
+                "panel_index": 8,
+                "relational_panel_list": [
+                    1203,
+                    1204,
+                    1207,
+                    1209,
+                    1212,
+                    1213
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1209,
+                "panel_index": 9,
+                "relational_panel_list": [
+                    1204,
+                    1208,
+                    1210,
+                    1213,
+                    1214,
+                    1215
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 1210,
+                "panel_index": 10,
+                "relational_panel_list": [
+                    1204,
+                    1205,
+                    1209,
+                    1211,
+                    1215,
+                    1216
+                ]
+            },
+            {
+                "panel_icon_type": 2,
+                "panel_type": 1,
+                "name": "攻撃",
+                "need_point": 40,
+                "purchase_limit": 1,
+                "id": 1211,
+                "panel_index": 11,
+                "relational_panel_list": [
+                    1205,
+                    1210,
+                    1216
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1212,
+                "panel_index": 12,
+                "relational_panel_list": [
+                    1207,
+                    1208,
+                    1213
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 100,
+                "purchase_limit": 1,
+                "id": 1213,
+                "panel_index": 13,
+                "relational_panel_list": [
+                    1208,
+                    1209,
+                    1212,
+                    1214
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 1214,
+                "panel_index": 14,
+                "relational_panel_list": [
+                    1209,
+                    1213,
+                    1215
+                ]
+            },
+            {
+                "panel_icon_type": 1,
+                "panel_type": 2,
+                "name": "HP",
+                "need_point": 15,
+                "purchase_limit": 1,
+                "id": 1215,
+                "panel_index": 15,
+                "relational_panel_list": [
+                    1209,
+                    1210,
+                    1211,
+                    1214,
+                    1216
+                ]
+            },
+            {
+                "panel_icon_type": 3,
+                "panel_type": 2,
+                "name": "防御",
+                "need_point": 140,
+                "purchase_limit": 1,
+                "id": 1216,
+                "panel_index": 16,
+                "relational_panel_list": [
+                    1210,
+                    1211,
+                    1215
+                ]
+            }
+        ]
+    }
+]

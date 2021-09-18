@@ -1,0 +1,62 @@
+[
+    {
+        "limit_type": 0,
+        "level": 30,
+        "condition_value": 1,
+        "id": 1
+    },
+    {
+        "limit_type": 0,
+        "level": 40,
+        "condition_value": 2,
+        "id": 2
+    },
+    {
+        "limit_type": 0,
+        "level": 50,
+        "condition_value": 3,
+        "id": 3
+    },
+    {
+        "limit_type": 0,
+        "level": 60,
+        "condition_value": 4,
+        "id": 4
+    },
+    {
+        "limit_type": 0,
+        "level": 70,
+        "condition_value": 5,
+        "id": 5
+    },
+    {
+        "limit_type": 1,
+        "level": 2,
+        "condition_value": 1,
+        "id": 6
+    },
+    {
+        "limit_type": 1,
+        "level": 4,
+        "condition_value": 2,
+        "id": 7
+    },
+    {
+        "limit_type": 1,
+        "level": 6,
+        "condition_value": 3,
+        "id": 8
+    },
+    {
+        "limit_type": 1,
+        "level": 8,
+        "condition_value": 4,
+        "id": 9
+    },
+    {
+        "limit_type": 1,
+        "level": 10,
+        "condition_value": 5,
+        "id": 10
+    }
+]
